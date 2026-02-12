@@ -2,7 +2,6 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-// The Search URL
 const TARGET_URL = 'https://jobs.universityofcalifornia.edu/site/advancedsearch?page=1&keywords=&job_type=Full+Time&Category%5Bcategory_id%5D=&Campus%5Bcampus_id%5D=&multiple_locations=0&search=Search';
 
 async function scrape() {
@@ -40,20 +39,19 @@ async function scrape() {
             }
         });
 
-        // SAVE TO FILE
         const output = {
-            updated_at: new Date().toLocaleString(),
+            // We save as an ISO string so the browser can parse it locally
+            updated_at: new Date().toISOString(),
             count: jobs.length,
             results: jobs
         };
 
-        // Write to 'jobs.json' in the same folder
         fs.writeFileSync('jobs.json', JSON.stringify(output, null, 2));
         console.log(`Success! Saved ${jobs.length} jobs to jobs.json`);
 
     } catch (error) {
         console.error("Error scraping:", error.message);
-        process.exit(1); // Exit with error code so GitHub Actions knows it failed
+        process.exit(1);
     }
 }
 
