@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UC Job Board</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: #f4f7f6; max-width: 900px; margin: 0 auto; padding: 2rem; color: #333; }
+        
+        /* Header */
+        header { text-align: center; margin-bottom: 3rem; border-bottom: 1px solid #ddd; padding-bottom: 2rem; }
+        h1 { color: #005596; margin: 0; font-size: 2.5rem; letter-spacing: -1px; }
+        .subtitle { color: #666; font-size: 1.1rem; margin-top: 0.5rem; }
+        
+        button { background: #005596; color: white; border: none; padding: 12px 24px; border-radius: 6px; cursor: pointer; font-size: 1rem; font-weight: 500; transition: background 0.2s; margin-top: 1rem; }
+        button:hover { background: #003c6b; }
+        button:disabled { background: #ccc; cursor: not-allowed; }
+
+        /* Grid Layout */
+        #job-list { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+        
+        .job-card { background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); border: 1px solid #eee; transition: transform 0.2s, box-shadow 0.2s; text-decoration: none; color: inherit; display: block; }
+        .job-card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); border-color: #005596; }
+        
+        .job-title { font-size: 1.2rem; font-weight: 700; color: #005596; margin-bottom: 0.5rem; }
+        .job-details { display: flex; justify-content: space-between; font-size: 0.9rem; color: #555; }
+        .job-date { color: #888; }
+        
+        /* Utility */
+        .loading { text-align: center; color: #666; font-style: italic; padding: 2rem; }
+        .error { background: #fee; color: #c00; padding: 1rem; border-radius: 6px; text-align: center; }
+        .last-updated { font-size: 0.8rem; color: #888; margin-top: 1rem; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>UC Job Board</h1>
+        <div class="subtitle">Live Systemwide Search • Full Time Only</div>
+        <button id="refreshBtn" onclick="loadJobs()">Refresh Listings</button>
+        <div id="lastUpdated" class="last-updated"></div>
+    </header>
+
+    <main id="app">
+        </main>
+
+    <script>
+        async function loadJobs() {
+            const app = document.getElementById('app');
+            const btn = document.getElementById('refreshBtn');
+            const lastUpdatedDiv = document.getElementById('lastUpdated');
+            
+            // UI Loading State
+            app.innerHTML = '<div class="loading">Loading latest jobs from GitHub...</div>';
+            btn.disabled = true;
+            btn.textContent = 'Loading...';
+
+            try {
+                // FETCH FROM JSON FILE
+                // We add '?v=' + Date.now() to prevent the browser from using old cached data
+                const response = await fetch('jobs.json?v=' + Date.now());
+                
+                if (!response.ok) {
+                    if (response.status === 404) throw new Error('Job data not found yet. The scraper might still be running for the first time.');
+                    throw new Error('Failed to load job file');
+                }
+                
+                const data = await response.json();
+                
+                // Update "Last Updated" text
+                if (data.updated_at) {
+                    lastUpdatedDiv.textContent = `Last Scraped: ${data.updated_at}`;
+                }
+
+                app.innerHTML = '<div id="job-list"></div>';
+                const list = document.getElementById('job-list');
+
+                if (!data.results || data.results.length === 0) {
+                    app.innerHTML = '<div class="loading">No jobs found in the latest dataset.</div>';
+                    return;
+                }
+
+                data.results.forEach(job => {
+                    const card = document.createElement('a');
+                    card.href = job.url;
+                    card.target = "_blank";
+                    card.className = 'job-card';
+                    card.innerHTML = `
+                        <div class="job-title">${job.title}</div>
+                        <div class="job-details">
+                            <span>📍 ${job.location}</span>
+                            <span class="job-date">${job.date}</span>
+                        </div>
+                    `;
+                    list.appendChild(card);
+                });
+
+            } catch (err) {
+                console.error(err);
+                app.innerHTML = `<div class="error">
+                    <strong>Error:</strong> ${err.message}<br>
+                    <small>If this is your first time, wait 1-2 minutes for the GitHub Action to finish.</small>
+                </div>`;
+            } finally {
+                btn.disabled = false;
+                btn.textContent = 'Refresh Listings';
+            }
+        }
+
+        // Load automatically on open
+        loadJobs();
+    </script>
+
+</body>
+</html>
