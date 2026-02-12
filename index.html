@@ -8,18 +8,14 @@
         body { font-family: -apple-system, system-ui, sans-serif; background: #f4f7f6; max-width: 900px; margin: 0 auto; padding: 2rem; color: #333; }
         header { text-align: center; margin-bottom: 2rem; }
         h1 { color: #005596; margin-bottom: 0.5rem; }
-        
         .stats-bar { font-size: 0.9rem; color: #666; margin-bottom: 1rem; font-weight: 600; }
-        
         .controls { display: grid; grid-template-columns: 1fr 1fr auto; gap: 10px; margin-bottom: 2rem; background: white; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         input, select { padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 1rem; }
-        
-        .job-card { background: white; padding: 1rem; margin-bottom: 0.8rem; border-radius: 6px; border: 1px solid #eee; text-decoration: none; color: inherit; display: block; }
-        .job-card:hover { border-color: #005596; transform: translateY(-2px); transition: 0.2s; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        .job-card { background: white; padding: 1rem; margin-bottom: 0.8rem; border-radius: 6px; border: 1px solid #eee; text-decoration: none; color: inherit; display: block; transition: 0.2s; }
+        .job-card:hover { border-color: #005596; transform: translateY(-2px); box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
         .job-title { font-weight: bold; color: #005596; margin-bottom: 4px; }
         .job-meta { display: flex; justify-content: space-between; font-size: 0.85rem; color: #666; }
-        
-        .last-updated { font-size: 0.8rem; color: #888; margin-top: 10px; text-align: center; cursor: help; }
+        .last-updated { font-size: 0.8rem; color: #888; margin-top: 10px; text-align: center; }
         .loading { text-align: center; padding: 2rem; font-style: italic; color: #666; }
     </style>
 </head>
@@ -36,7 +32,7 @@
     </div>
 
     <div class="controls">
-        <input type="text" id="searchInput" placeholder="Search titles (e.g. Analyst)..." oninput="filterJobs()">
+        <input type="text" id="searchInput" placeholder="Search titles..." oninput="filterJobs()">
         <select id="campusFilter" onchange="filterJobs()">
             <option value="">All Campuses</option>
             <option value="Davis">UC Davis</option>
@@ -44,32 +40,14 @@
             <option value="Berkeley">UC Berkeley</option>
             <option value="Los Angeles">UCLA</option>
             <option value="San Diego">UC San Diego</option>
-            <option value="Riverside">UC Riverside</option>
-            <option value="Merced">UC Merced</option>
-            <option value="Santa Barbara">UC Santa Barbara</option>
-            <option value="Santa Cruz">UC Santa Cruz</option>
-            <option value="Irvine">UC Irvine</option>
         </select>
-        <button onclick="loadJobs()" title="Refresh from GitHub">🔄</button>
+        <button onclick="loadJobs()">🔄</button>
     </div>
 
     <main id="app"></main>
 
     <script>
         let allJobs = [];
-
-        // Helper to format "5 minutes ago"
-        function timeAgo(dateString) {
-            const now = new Date();
-            const past = new Date(dateString);
-            const seconds = Math.floor((now - past) / 1000);
-            if (seconds < 60) return "just now";
-            const minutes = Math.floor(seconds / 60);
-            if (minutes < 60) return `${minutes}m ago`;
-            const hours = Math.floor(minutes / 60);
-            if (hours < 24) return `${hours}h ago`;
-            return past.toLocaleDateString();
-        }
 
         async function loadJobs() {
             const app = document.getElementById('app');
@@ -79,16 +57,15 @@
                 const data = await res.json();
                 allJobs = data.results;
                 
-                // Update timestamps
+                // Header timestamp still shows when the ROBOT last checked the site
                 const lu = document.getElementById('lastUpdated');
-                lu.textContent = `Scraped ${timeAgo(data.updated_at)}`;
-                lu.title = `Full local timestamp: ${new Date(data.updated_at).toLocaleString()}`;
+                const lastScraped = new Date(data.updated_at).toLocaleString();
+                lu.textContent = `List last checked: ${lastScraped}`;
                 
                 document.getElementById('totalCount').textContent = allJobs.length;
-                
                 filterJobs();
             } catch (e) {
-                app.innerHTML = '<p class="error">No data found. Please run the GitHub Action first.</p>';
+                app.innerHTML = '<p>Error loading data. Run the scraper first.</p>';
             }
         }
 
@@ -105,20 +82,14 @@
 
             document.getElementById('currentCount').textContent = filtered.length;
 
-            app.innerHTML = filtered.map(j => {
-                // Determine display date: use scraped_at for "time ago" logic
-                const displayDate = j.scraped_at ? timeAgo(j.scraped_at) : j.date;
-                const fullDate = j.scraped_at ? new Date(j.scraped_at).toLocaleString() : `Original Posting: ${j.date}`;
-
-                return `
+            app.innerHTML = filtered.map(j => `
                 <a href="${j.url}" target="_blank" class="job-card">
                     <div class="job-title">${j.title}</div>
                     <div class="job-meta">
                         <span>📍 ${j.location}</span>
-                        <span title="Full timestamp: ${fullDate}">📅 ${displayDate}</span>
-                    </div>
+                        <span>📅 ${j.date}</span> </div>
                 </a>
-            `}).join('');
+            `).join('');
             
             if (filtered.length === 0) app.innerHTML = '<p style="text-align:center; padding: 2rem;">No matching jobs found.</p>';
         }
