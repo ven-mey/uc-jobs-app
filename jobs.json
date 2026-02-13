@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-02-13T14:29:10.224Z",
-  "count": 1265,
+  "updated_at": "2026-02-13T19:55:46.938Z",
+  "count": 1274,
   "results": [
+    {
+      "title": "Assistant Clinical Research Coordinator",
+      "location": "San Francisco",
+      "category": "Clinical Laboratory Services",
+      "date": "2/13/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711524",
+      "scraped_at": "2026-02-13T19:55:46.931Z"
+    },
+    {
+      "title": "Clinical Nurse Specialist",
+      "location": "San Francisco Medical Center",
+      "category": "Nursing",
+      "date": "2/13/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3705308",
+      "scraped_at": "2026-02-13T19:55:46.932Z"
+    },
+    {
+      "title": "Staff Research Associate",
+      "location": "San Francisco",
+      "category": "Clinical Laboratory Services",
+      "date": "2/13/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711525",
+      "scraped_at": "2026-02-13T19:55:46.933Z"
+    },
+    {
+      "title": "Academic HR Analyst 3 (7715) - Astronomy",
+      "location": "Berkeley",
+      "category": "Human Resources",
+      "date": "2/12/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84374&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-13T19:55:46.933Z"
+    },
+    {
+      "title": "Access/Senior Access Representative- Patient Access Center- FT Day Shift",
+      "location": "Irvine Healthcare",
+      "category": "Finance",
+      "date": "2/12/2026",
+      "url": "https://careers-uci.icims.com/jobs/139873/job",
+      "scraped_at": "2026-02-13T19:55:46.933Z"
+    },
+    {
+      "title": "Access Representative - UCI Health Chapman Psychiatry - FT Day Shift",
+      "location": "Irvine Healthcare",
+      "category": "Finance",
+      "date": "2/12/2026",
+      "url": "https://careers-uci.icims.com/jobs/139792/job",
+      "scraped_at": "2026-02-13T19:55:46.933Z"
+    },
+    {
+      "title": "Administration & Communications Associate, Consumer Law & Economic Justice (4263C), Berkeley Law - #",
+      "location": "Berkeley",
+      "category": "General Administration",
+      "date": "2/12/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=83737&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-13T19:55:46.934Z"
+    },
+    {
+      "title": "Administrative Coordinator",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "2/12/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/26003",
+      "scraped_at": "2026-02-13T19:55:46.934Z"
+    },
+    {
+      "title": "Administrative Officer 2 - Urology",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "2/12/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28751",
+      "scraped_at": "2026-02-13T19:55:46.935Z"
+    },
     {
       "title": "Ambulatory Care Administration Supervisor 2",
       "location": "San Francisco",
