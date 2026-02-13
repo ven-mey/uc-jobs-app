@@ -55,7 +55,8 @@ async function scrapeIncremental() {
                     location: $(el).find('.jloc').text().trim(),
                     category: category,
                     date: postingDate, // This is the original UC date
-                    url: url
+                    url: url,
+                    scraped_at: new Date().toISOString()
                 });
             }
 
