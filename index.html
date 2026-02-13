@@ -155,8 +155,13 @@
 
         function toggleChip(value, containerId, el) {
             const set = containerId === 'locationChips' ? selectedLocations : selectedCategories;
+            const storageKey = containerId === 'locationChips' ? 'uc_selected_locs' : 'uc_selected_cats';
             set.has(value) ? set.delete(value) : set.add(value);
             el.classList.toggle('active');
+            
+            // Save to local storage
+            localStorage.setItem(storageKey, JSON.stringify([...set]));
+            
             filterJobs();
         }
 
