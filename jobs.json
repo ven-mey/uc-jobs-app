@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-02-16T08:05:17.486Z",
-  "count": 1210,
+  "updated_at": "2026-02-16T14:32:47.228Z",
+  "count": 1212,
   "results": [
+    {
+      "title": "Air Quality Field Technician (DEV TCHN 3)",
+      "location": "Davis",
+      "category": "Engineering",
+      "date": "2/15/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84342&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-16T14:32:47.226Z"
+    },
+    {
+      "title": "Templeton Farms Equine Health Services Technician (ANML HEALTH TCHN 2)",
+      "location": "Davis",
+      "category": "Clinical Laboratory Services",
+      "date": "2/15/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84309&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-16T14:32:47.227Z"
+    },
     {
       "title": "Information Systems Analyst IV - Remote",
       "location": "San Diego Health System",
