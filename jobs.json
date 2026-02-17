@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-02-17T08:04:02.220Z",
-  "count": 1212,
+  "updated_at": "2026-02-17T14:37:17.452Z",
+  "count": 1219,
   "results": [
+    {
+      "title": "Data Systems Management",
+      "location": "San Francisco",
+      "category": "Information Technology",
+      "date": "2/17/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3705135",
+      "scraped_at": "2026-02-17T14:37:17.447Z"
+    },
+    {
+      "title": "Clinical Research Coordinator",
+      "location": "San Francisco",
+      "category": "Clinical Laboratory Services",
+      "date": "2/16/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712161",
+      "scraped_at": "2026-02-17T14:37:17.447Z"
+    },
+    {
+      "title": "ENT Clinic RN (CLIN NURSE 2)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "2/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=82361&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-17T14:37:17.448Z"
+    },
+    {
+      "title": "Senior Clinical Research Coordinator",
+      "location": "San Francisco",
+      "category": "Clinical Laboratory Services",
+      "date": "2/16/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712163",
+      "scraped_at": "2026-02-17T14:37:17.448Z"
+    },
+    {
+      "title": "Staff Research Associate",
+      "location": "San Francisco",
+      "category": "Clinical Laboratory Services",
+      "date": "2/16/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712162",
+      "scraped_at": "2026-02-17T14:37:17.449Z"
+    },
+    {
+      "title": "Tax & Disbursement Compliance Analyst",
+      "location": "Santa Barbara",
+      "category": "N/A",
+      "date": "2/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84410&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-17T14:37:17.449Z"
+    },
+    {
+      "title": "Unit Director, Othopaedic/Neurospine/Orthospine",
+      "location": "San Francisco Medical Center",
+      "category": "Nursing",
+      "date": "2/16/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711774",
+      "scraped_at": "2026-02-17T14:37:17.449Z"
+    },
     {
       "title": "Air Quality Field Technician (DEV TCHN 3)",
       "location": "Davis",
