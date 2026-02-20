@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-02-20T14:25:40.731Z",
-  "count": 1187,
+  "updated_at": "2026-02-20T19:49:03.618Z",
+  "count": 1200,
   "results": [
+    {
+      "title": "Nurse Practitioner",
+      "location": "San Francisco Medical Center",
+      "category": "Nursing",
+      "date": "2/20/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712951",
+      "scraped_at": "2026-02-20T19:49:02.637Z"
+    },
+    {
+      "title": "Nurse Practitioner ADT OB/GYN Fertility",
+      "location": "San Francisco Medical Center",
+      "category": "Nursing",
+      "date": "2/20/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712949",
+      "scraped_at": "2026-02-20T19:49:02.638Z"
+    },
+    {
+      "title": "Resource Nurse Practitioner",
+      "location": "San Francisco Medical Center",
+      "category": "Nursing",
+      "date": "2/20/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712950",
+      "scraped_at": "2026-02-20T19:49:02.639Z"
+    },
+    {
+      "title": "ACOO Project Analyst - Hybrid",
+      "location": "San Diego Health System",
+      "category": "General Administration",
+      "date": "2/19/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138579",
+      "scraped_at": "2026-02-20T19:49:02.639Z"
+    },
+    {
+      "title": "ADA/504 Compliance Officer",
+      "location": "San Francisco",
+      "category": "Audit Compliance and Ethics",
+      "date": "2/19/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712881",
+      "scraped_at": "2026-02-20T19:49:02.639Z"
+    },
+    {
+      "title": "Administrative Program Manager",
+      "location": "San Francisco",
+      "category": "N/A",
+      "date": "2/19/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712859",
+      "scraped_at": "2026-02-20T19:49:02.639Z"
+    },
+    {
+      "title": "Ambulatory Pharmacist",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "2/19/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28996",
+      "scraped_at": "2026-02-20T19:49:02.640Z"
+    },
+    {
+      "title": "Ambulatory Pharmacist",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "2/19/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28997",
+      "scraped_at": "2026-02-20T19:49:02.640Z"
+    },
+    {
+      "title": "Ambulatory Pharmacist",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "2/19/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28998",
+      "scraped_at": "2026-02-20T19:49:02.641Z"
+    },
+    {
+      "title": "Ambulatory Pharmacy Technician",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "2/19/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29000",
+      "scraped_at": "2026-02-20T19:49:02.641Z"
+    },
+    {
+      "title": "Ambulatory Pharmacy Technician",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "2/19/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29001",
+      "scraped_at": "2026-02-20T19:49:03.616Z"
+    },
+    {
+      "title": "Ambulatory Pharmacy Technician",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "2/19/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29002",
+      "scraped_at": "2026-02-20T19:49:03.616Z"
+    },
+    {
+      "title": "Ambulatory Practice Coordinator",
+      "location": "San Francisco Medical Center",
+      "category": "General Administration",
+      "date": "2/19/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712938",
+      "scraped_at": "2026-02-20T19:49:03.616Z"
+    },
     {
       "title": "Clinical Research Coordinator",
       "location": "San Francisco",
