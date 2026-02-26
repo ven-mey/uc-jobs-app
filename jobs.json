@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-02-26T08:03:19.021Z",
-  "count": 1101,
+  "updated_at": "2026-02-26T14:39:59.758Z",
+  "count": 1109,
   "results": [
+    {
+      "title": "Administrative Correspondence Representative",
+      "location": "San Francisco Medical Center",
+      "category": "General Administration",
+      "date": "2/26/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716706",
+      "scraped_at": "2026-02-26T14:39:59.751Z"
+    },
+    {
+      "title": "Academic Personnel Analyst (ACAD PERSONNEL ANL 2)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "2/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84624&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-26T14:39:59.752Z"
+    },
+    {
+      "title": "Administrative Officer 3",
+      "location": "San Francisco",
+      "category": "N/A",
+      "date": "2/25/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716704",
+      "scraped_at": "2026-02-26T14:39:59.753Z"
+    },
+    {
+      "title": "Animal Technician - Outdoor Colony (ANML TCHN)",
+      "location": "Davis",
+      "category": "Clinical Laboratory Services",
+      "date": "2/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84640&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-26T14:39:59.753Z"
+    },
+    {
+      "title": "Aoki Water Justice Clinic Staff Attorney (STDT LEGAL SVC ADVISOR 3)",
+      "location": "Davis",
+      "category": "Student Services",
+      "date": "2/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84566&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-26T14:39:59.754Z"
+    },
+    {
+      "title": "APeX Reporting Manager",
+      "location": "San Francisco Medical Center",
+      "category": "Information Technology",
+      "date": "2/25/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716680",
+      "scraped_at": "2026-02-26T14:39:59.754Z"
+    },
+    {
+      "title": "ASC PHYSCN DIPLOMATE",
+      "location": "Davis Health System",
+      "category": "Physician",
+      "date": "2/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84384&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-26T14:39:59.754Z"
+    },
+    {
+      "title": "Assistant Administrative Analyst - Provider Enrollment - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Finance",
+      "date": "2/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/140701/job",
+      "scraped_at": "2026-02-26T14:39:59.755Z"
+    },
     {
       "title": "Academic Coordinator (Administrative Officer 2) - Ophthalmology",
       "location": "Los Angeles Medical Center",
