@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-02-27T14:10:02.022Z",
-  "count": 1040,
+  "updated_at": "2026-02-27T19:48:17.560Z",
+  "count": 1050,
   "results": [
+    {
+      "title": "Clinical Research Coordinator Pediatric Endocrinology",
+      "location": "San Francisco",
+      "category": "Clinical Laboratory Services",
+      "date": "2/27/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716918",
+      "scraped_at": "2026-02-27T19:48:16.455Z"
+    },
+    {
+      "title": "IT Senior Analyst - Disaster Recovery",
+      "location": "San Francisco",
+      "category": "Information Technology",
+      "date": "2/27/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716921",
+      "scraped_at": "2026-02-27T19:48:16.456Z"
+    },
+    {
+      "title": "Lead Forestry Technician",
+      "location": "San Francisco",
+      "category": "General Services",
+      "date": "2/27/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716919",
+      "scraped_at": "2026-02-27T19:48:16.457Z"
+    },
+    {
+      "title": "Pediatric Specialty Clinic PSR Supervisor",
+      "location": "Davis",
+      "category": "Ambulatory Care Clinics",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84532&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-27T19:48:16.457Z"
+    },
+    {
+      "title": "Research Finance Manager",
+      "location": "Davis",
+      "category": "Clinical Research",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84528&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-27T19:48:16.458Z"
+    },
+    {
+      "title": "Summer Housing Facilities Assistant",
+      "location": "San Francisco",
+      "category": "General Administration",
+      "date": "2/27/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716920",
+      "scraped_at": "2026-02-27T19:48:16.458Z"
+    },
+    {
+      "title": "(NP) Nurse Practitioner - Eating Disorder Clinic",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "2/26/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138662",
+      "scraped_at": "2026-02-27T19:48:16.458Z"
+    },
+    {
+      "title": "Academic Human Resources Analyst 3",
+      "location": "San Francisco",
+      "category": "Human Resources",
+      "date": "2/26/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716902",
+      "scraped_at": "2026-02-27T19:48:16.459Z"
+    },
+    {
+      "title": "Academic Personnel Analyst 2",
+      "location": "San Francisco",
+      "category": "Human Resources",
+      "date": "2/26/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716905",
+      "scraped_at": "2026-02-27T19:48:16.459Z"
+    },
+    {
+      "title": "Academic Program Director - Bioscience",
+      "location": "Los Angeles Medical Center",
+      "category": "Academic Staff",
+      "date": "2/26/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29067",
+      "scraped_at": "2026-02-27T19:48:16.460Z"
+    },
     {
       "title": "Administrative Correspondence Representative",
       "location": "San Francisco Medical Center",
