@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-02-28T13:48:47.315Z",
-  "count": 992,
+  "updated_at": "2026-02-28T18:59:18.131Z",
+  "count": 1006,
   "results": [
+    {
+      "title": "(CNM/NP) CNM or Nurse Practitioner - OB/GYN",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "2/27/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138661",
+      "scraped_at": "2026-02-28T18:59:17.144Z"
+    },
+    {
+      "title": "(NP) Nurse Practitioner - Sanford Stem Cell",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "2/27/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138672",
+      "scraped_at": "2026-02-28T18:59:17.145Z"
+    },
+    {
+      "title": "(PA) Sr. Physician Assistant - Sanford Stem Cell",
+      "location": "San Diego Health System",
+      "category": "Physician",
+      "date": "2/27/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138673",
+      "scraped_at": "2026-02-28T18:59:17.146Z"
+    },
+    {
+      "title": "Administrative Assistant (On-site)",
+      "location": "Merced",
+      "category": "General Administration",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84660&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-28T18:59:17.146Z"
+    },
+    {
+      "title": "Administrative Officer - Santa Clara, CA, Job ID 84658",
+      "location": "Agriculture and Natural Resources",
+      "category": "General Administration",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucanr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84658&PostingSeq=1&SiteId=17&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-28T18:59:17.147Z"
+    },
+    {
+      "title": "Administrative Officer 2 - Urology",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "2/27/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28985",
+      "scraped_at": "2026-02-28T18:59:17.147Z"
+    },
+    {
+      "title": "Affiliate Network Business Development Manager",
+      "location": "Davis Health System",
+      "category": "Health Care Administration",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84510&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-28T18:59:17.148Z"
+    },
+    {
+      "title": "Anesthesia/Clin Supp Svc Spv 1- ACC Irvine Anesthesia- FT Variable Shift",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Research",
+      "date": "2/27/2026",
+      "url": "https://careers-uci.icims.com/jobs/140680/job",
+      "scraped_at": "2026-02-28T18:59:17.148Z"
+    },
+    {
+      "title": "Assistant Director, Business & Financial Planning",
+      "location": "Santa Barbara",
+      "category": "Finance",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84718&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-28T18:59:17.149Z"
+    },
+    {
+      "title": "Associate Development Engineer (4758C) - Job #84710 - EECS",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84710&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-28T18:59:17.149Z"
+    },
+    {
+      "title": "Associate Executive Director",
+      "location": "Davis Health System",
+      "category": "Facilities and Environment Health",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84409&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-28T18:59:18.125Z"
+    },
+    {
+      "title": "Business Officer",
+      "location": "Santa Barbara",
+      "category": "General Administration",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84698&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-28T18:59:18.125Z"
+    },
+    {
+      "title": "CATEGORY MANAGEMENT INTERN, PROFESSIONAL SERVICES",
+      "location": "Office of the President",
+      "category": "Student Services",
+      "date": "2/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucop/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84692&PostingSeq=1&SiteId=19&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-02-28T18:59:18.125Z"
+    },
+    {
+      "title": "Child Development Center Teacher 2",
+      "location": "Los Angeles",
+      "category": "Instructional Services",
+      "date": "2/27/2026",
+      "url": "https://jobs.ucla.edu/jobs/9925",
+      "scraped_at": "2026-02-28T18:59:18.126Z"
+    },
     {
       "title": "Clinical Research Coordinator Pediatric Endocrinology",
       "location": "San Francisco",
