@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-03-01T13:50:33.263Z",
-  "count": 939,
+  "updated_at": "2026-03-01T19:00:16.807Z",
+  "count": 944,
   "results": [
+    {
+      "title": "Temporary Administrative Positions",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "3/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/141197/job",
+      "scraped_at": "2026-03-01T19:00:16.803Z"
+    },
+    {
+      "title": "Temporary Admitting Worker Positions",
+      "location": "Irvine",
+      "category": "Support Services",
+      "date": "3/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/141194/job",
+      "scraped_at": "2026-03-01T19:00:16.804Z"
+    },
+    {
+      "title": "Temporary Employment Services (TES) Clerical/Admin Pool",
+      "location": "Davis",
+      "category": "General Administration",
+      "date": "3/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84602&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-01T19:00:16.805Z"
+    },
+    {
+      "title": "Temporary Licensed Vocational Nurse Positions",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "3/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/141196/job",
+      "scraped_at": "2026-03-01T19:00:16.805Z"
+    },
+    {
+      "title": "Temporary Medical Assistant Positions",
+      "location": "Irvine",
+      "category": "Ambulatory Care Clinics",
+      "date": "3/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/141195/job",
+      "scraped_at": "2026-03-01T19:00:16.806Z"
+    },
     {
       "title": "(CNM/NP) CNM or Nurse Practitioner - OB/GYN",
       "location": "San Diego Health System",
