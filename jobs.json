@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-03-02T08:00:32.973Z",
-  "count": 941,
+  "updated_at": "2026-03-02T14:30:41.929Z",
+  "count": 943,
   "results": [
+    {
+      "title": "Experienced RN - OR Training Program",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "3/2/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29235",
+      "scraped_at": "2026-03-02T14:30:41.925Z"
+    },
+    {
+      "title": "Nurse Residency Program",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "3/2/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29233",
+      "scraped_at": "2026-03-02T14:30:41.926Z"
+    },
     {
       "title": "Temporary Administrative Positions",
       "location": "Irvine",
