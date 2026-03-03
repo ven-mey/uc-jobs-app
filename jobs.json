@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-03-03T07:56:56.420Z",
-  "count": 937,
+  "updated_at": "2026-03-03T14:31:59.400Z",
+  "count": 939,
   "results": [
+    {
+      "title": "(NP) Nurse Practitioner - Bleeding Disorders Ctr",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "3/2/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138685",
+      "scraped_at": "2026-03-03T14:31:59.397Z"
+    },
+    {
+      "title": "(Sr. CRNA) Sr. Certified Registered Nurse Anesthetist",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "3/2/2026",
+      "url": "https://careers-uci.icims.com/jobs/88558/job",
+      "scraped_at": "2026-03-03T14:31:59.398Z"
+    },
     {
       "title": "Experienced RN - OR Training Program",
       "location": "Los Angeles Medical Center",
