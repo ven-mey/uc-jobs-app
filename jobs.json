@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-03-06T14:05:26.391Z",
-  "count": 704,
+  "updated_at": "2026-03-06T19:49:11.227Z",
+  "count": 707,
   "results": [
+    {
+      "title": "Cash Management Assistant / Accounts Receivable",
+      "location": "San Francisco Medical Center",
+      "category": "General Administration",
+      "date": "3/6/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718561",
+      "scraped_at": "2026-03-06T19:49:11.223Z"
+    },
+    {
+      "title": "Clinical Social Worker",
+      "location": "San Francisco Medical Center",
+      "category": "Care Coordination",
+      "date": "3/6/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718559",
+      "scraped_at": "2026-03-06T19:49:11.224Z"
+    },
+    {
+      "title": "Medical Assistant 3",
+      "location": "San Francisco Medical Center",
+      "category": "Support Services",
+      "date": "3/6/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3713123",
+      "scraped_at": "2026-03-06T19:49:11.225Z"
+    },
     {
       "title": "Associate Director for Clinical Research Programs",
       "location": "San Francisco",
