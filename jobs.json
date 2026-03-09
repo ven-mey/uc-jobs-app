@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-03-09T08:01:34.612Z",
-  "count": 577,
+  "updated_at": "2026-03-09T14:39:53.595Z",
+  "count": 579,
   "results": [
+    {
+      "title": "Anesthesia Technician (ANML HEALTH TCHN 3 VMTH)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "3/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=82709&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-09T14:39:53.593Z"
+    },
+    {
+      "title": "Oracle Cloud Applications Programmer (APPLICATIONS PROGR 3)",
+      "location": "Davis",
+      "category": "Information Technology",
+      "date": "3/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=81230&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-09T14:39:53.594Z"
+    },
     {
       "title": "IT Support Analyst",
       "location": "San Francisco",
