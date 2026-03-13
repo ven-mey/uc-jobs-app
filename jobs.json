@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-03-13T07:58:51.977Z",
-  "count": 343,
+  "updated_at": "2026-03-13T14:30:24.837Z",
+  "count": 354,
   "results": [
+    {
+      "title": "Carpenter",
+      "location": "Davis Health System",
+      "category": "Skilled Crafts and Trades",
+      "date": "3/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84927&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-13T14:30:23.840Z"
+    },
+    {
+      "title": "Customer Service Analyst",
+      "location": "Davis Health System",
+      "category": "Support Services",
+      "date": "3/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84953&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-13T14:30:23.840Z"
+    },
+    {
+      "title": "Pharmacy Manager - Ambulatory Infusion Operations",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "3/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29336",
+      "scraped_at": "2026-03-13T14:30:23.841Z"
+    },
+    {
+      "title": "Pharmacy Manager - Ambulatory Infusion Operations",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "3/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29340",
+      "scraped_at": "2026-03-13T14:30:23.841Z"
+    },
+    {
+      "title": "Pharmacy Manager - Ambulatory Infusion Operations",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "3/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29342",
+      "scraped_at": "2026-03-13T14:30:23.842Z"
+    },
+    {
+      "title": "Pharmacy Manager - Ambulatory Infusion Operations",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "3/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29343",
+      "scraped_at": "2026-03-13T14:30:23.842Z"
+    },
+    {
+      "title": "Regional Director of Pharmacy-Infusion/Oncology Operations",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "3/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29332",
+      "scraped_at": "2026-03-13T14:30:23.842Z"
+    },
+    {
+      "title": "Senior Design Review/Construction Safety Professional",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "N/A",
+      "date": "3/13/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=106193",
+      "scraped_at": "2026-03-13T14:30:23.843Z"
+    },
+    {
+      "title": "(CNA) Sr. Nursing Aide - East Campus PACU",
+      "location": "San Diego Health System",
+      "category": "Support Services",
+      "date": "3/12/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138809",
+      "scraped_at": "2026-03-13T14:30:23.843Z"
+    },
+    {
+      "title": "Academic Processing Analyst",
+      "location": "San Francisco",
+      "category": "Finance",
+      "date": "3/12/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719984",
+      "scraped_at": "2026-03-13T14:30:23.844Z"
+    },
+    {
+      "title": "Administrative Assistant",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "3/12/2026",
+      "url": "https://careers-uci.icims.com/jobs/141491/job",
+      "scraped_at": "2026-03-13T14:30:24.835Z"
+    },
     {
       "title": "FM Inpatient Navigator",
       "location": "San Francisco",
