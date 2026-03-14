@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-14T12:50:38.778Z",
-  "count": 346,
+  "updated_at": "2026-03-14T18:37:45.815Z",
+  "count": 347,
   "results": [
+    {
+      "title": "(LVN) Licensed Vocational Nurse - Repro Med",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "3/13/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138855",
+      "scraped_at": "2026-03-14T18:37:45.813Z"
+    },
     {
       "title": "Carpenter",
       "location": "Davis Health System",
