@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-14T18:37:45.815Z",
-  "count": 347,
+  "updated_at": "2026-03-15T02:23:15.301Z",
+  "count": 338,
   "results": [
     {
       "title": "(LVN) Licensed Vocational Nurse - Repro Med",
@@ -2705,78 +2705,6 @@
       "date": "2/14/2026",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711795",
       "scraped_at": "2026-02-14T19:04:56.061Z"
-    },
-    {
-      "title": "(CNM/NP) CNM or Nurse Practitioner, Urogynecology",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "2/13/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138506",
-      "scraped_at": "2026-02-14T19:04:56.061Z"
-    },
-    {
-      "title": "Administrative Assistant",
-      "location": "Irvine",
-      "category": "General Administration",
-      "date": "2/13/2026",
-      "url": "https://careers-uci.icims.com/jobs/140817/job",
-      "scraped_at": "2026-02-14T19:04:56.061Z"
-    },
-    {
-      "title": "Administrative Supervisor, Olympic Analytical Laboratory",
-      "location": "Los Angeles Medical Center",
-      "category": "General Administration",
-      "date": "2/13/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/28889",
-      "scraped_at": "2026-02-14T19:04:56.061Z"
-    },
-    {
-      "title": "Admitting Worker SR-Fulltime-Days",
-      "location": "Irvine Healthcare",
-      "category": "Support Services",
-      "date": "2/13/2026",
-      "url": "https://careers-uci.icims.com/jobs/140482/job",
-      "scraped_at": "2026-02-14T19:04:56.062Z"
-    },
-    {
-      "title": "Admitting Worker SR-Fulltime-Evenings",
-      "location": "Irvine Healthcare",
-      "category": "Support Services",
-      "date": "2/13/2026",
-      "url": "https://careers-uci.icims.com/jobs/140483/job",
-      "scraped_at": "2026-02-14T19:04:56.062Z"
-    },
-    {
-      "title": "Assistant Clinical Research Coordinator",
-      "location": "San Diego",
-      "category": "Clinical Laboratory Services",
-      "date": "2/13/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=TP138562",
-      "scraped_at": "2026-02-14T19:04:56.063Z"
-    },
-    {
-      "title": "Assistant Clinical Research Coordinator",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "2/13/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711524",
-      "scraped_at": "2026-02-13T19:55:46.931Z"
-    },
-    {
-      "title": "Clinical Nurse Specialist",
-      "location": "San Francisco Medical Center",
-      "category": "Nursing",
-      "date": "2/13/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3705308",
-      "scraped_at": "2026-02-13T19:55:46.932Z"
-    },
-    {
-      "title": "Staff Research Associate",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "2/13/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711525",
-      "scraped_at": "2026-02-13T19:55:46.933Z"
     }
   ]
 }
