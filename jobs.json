@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-03-16T13:10:45.591Z",
-  "count": 333,
+  "updated_at": "2026-03-16T19:00:21.448Z",
+  "count": 335,
   "results": [
+    {
+      "title": "Security Officer - Ronald Reagan Medical Center",
+      "location": "Los Angeles Medical Center",
+      "category": "Public Safety and Security",
+      "date": "3/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28885",
+      "scraped_at": "2026-03-16T19:00:21.446Z"
+    },
+    {
+      "title": "Security Officer - Ronald Reagan Medical Center",
+      "location": "Los Angeles Medical Center",
+      "category": "Public Safety and Security",
+      "date": "3/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29178",
+      "scraped_at": "2026-03-16T19:00:21.447Z"
+    },
     {
       "title": "(LVN) Licensed Vocational Nurse - Repro Med",
       "location": "San Diego Health System",
