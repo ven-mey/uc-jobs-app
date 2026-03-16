@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-15T18:37:43.931Z",
-  "count": 338,
+  "updated_at": "2026-03-16T02:24:29.269Z",
+  "count": 333,
   "results": [
     {
       "title": "(LVN) Licensed Vocational Nurse - Repro Med",
@@ -2665,46 +2665,6 @@
       "date": "2/15/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84309&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-02-16T14:32:47.227Z"
-    },
-    {
-      "title": "Information Systems Analyst IV - Remote",
-      "location": "San Diego Health System",
-      "category": "Information Technology",
-      "date": "2/14/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138495",
-      "scraped_at": "2026-02-15T19:05:56.850Z"
-    },
-    {
-      "title": "PACC Customer Success Manager - Hybrid",
-      "location": "San Diego Health System",
-      "category": "Information Technology",
-      "date": "2/14/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138502",
-      "scraped_at": "2026-02-15T19:05:56.851Z"
-    },
-    {
-      "title": "Pharmacist",
-      "location": "San Francisco Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/14/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711797",
-      "scraped_at": "2026-02-14T19:04:56.059Z"
-    },
-    {
-      "title": "Pharmacist - Hematology/Oncology Specialist",
-      "location": "San Francisco Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/14/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711796",
-      "scraped_at": "2026-02-14T19:04:56.060Z"
-    },
-    {
-      "title": "Pharmacist Grad Intern",
-      "location": "San Francisco Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/14/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711795",
-      "scraped_at": "2026-02-14T19:04:56.061Z"
     }
   ]
 }
