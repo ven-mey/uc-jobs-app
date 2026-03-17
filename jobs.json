@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-03-17T13:10:49.784Z",
-  "count": 333,
+  "updated_at": "2026-03-17T19:01:26.603Z",
+  "count": 339,
   "results": [
+    {
+      "title": "Rehab Aide Per Diem",
+      "location": "San Francisco Medical Center",
+      "category": "Support Services",
+      "date": "3/17/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3717830",
+      "scraped_at": "2026-03-17T19:01:26.599Z"
+    },
+    {
+      "title": "Academic Affairs Analyst",
+      "location": "Irvine",
+      "category": "Human Resources",
+      "date": "3/16/2026",
+      "url": "https://careers-uci.icims.com/jobs/141715/job",
+      "scraped_at": "2026-03-17T19:01:26.600Z"
+    },
+    {
+      "title": "ACADEMIC PERSONNEL RESEARCH AND POLICY ANALYST - REMOTE",
+      "location": "Office of the President",
+      "category": "N/A",
+      "date": "3/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucop/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85006&PostingSeq=1&SiteId=19&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-17T19:01:26.601Z"
+    },
+    {
+      "title": "Administrative Assistant III (Laboratory Directorate-Chief of Staff's Office)",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "General Administration",
+      "date": "3/16/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=106058",
+      "scraped_at": "2026-03-17T19:01:26.601Z"
+    },
+    {
+      "title": "Administrative Officer",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "3/16/2026",
+      "url": "https://careers-uci.icims.com/jobs/141618/job",
+      "scraped_at": "2026-03-17T19:01:26.602Z"
+    },
+    {
+      "title": "Ambulatory/Outpatient Pharmacy Technician",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "3/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28597",
+      "scraped_at": "2026-03-17T19:01:26.602Z"
+    },
     {
       "title": "Security Officer - Ronald Reagan Medical Center",
       "location": "Los Angeles Medical Center",
