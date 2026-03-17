@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-16T19:00:21.448Z",
-  "count": 335,
+  "updated_at": "2026-03-17T02:03:42.586Z",
+  "count": 333,
   "results": [
     {
       "title": "Security Officer - Ronald Reagan Medical Center",
@@ -2665,22 +2665,6 @@
       "date": "2/16/2026",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3711774",
       "scraped_at": "2026-02-17T14:37:17.449Z"
-    },
-    {
-      "title": "Air Quality Field Technician (DEV TCHN 3)",
-      "location": "Davis",
-      "category": "Engineering",
-      "date": "2/15/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84342&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-02-16T14:32:47.226Z"
-    },
-    {
-      "title": "Templeton Farms Equine Health Services Technician (ANML HEALTH TCHN 2)",
-      "location": "Davis",
-      "category": "Clinical Laboratory Services",
-      "date": "2/15/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84309&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-02-16T14:32:47.227Z"
     }
   ]
 }
