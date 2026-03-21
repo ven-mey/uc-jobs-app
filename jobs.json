@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-20T18:50:07.198Z",
-  "count": 395,
+  "updated_at": "2026-03-21T01:56:39.154Z",
+  "count": 382,
   "results": [
     {
       "title": "Medical Assistant 3",
@@ -3057,110 +3057,6 @@
       "date": "2/20/2026",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712950",
       "scraped_at": "2026-02-20T19:49:02.639Z"
-    },
-    {
-      "title": "ACOO Project Analyst - Hybrid",
-      "location": "San Diego Health System",
-      "category": "General Administration",
-      "date": "2/19/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138579",
-      "scraped_at": "2026-02-20T19:49:02.639Z"
-    },
-    {
-      "title": "ADA/504 Compliance Officer",
-      "location": "San Francisco",
-      "category": "Audit Compliance and Ethics",
-      "date": "2/19/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712881",
-      "scraped_at": "2026-02-20T19:49:02.639Z"
-    },
-    {
-      "title": "Administrative Program Manager",
-      "location": "San Francisco",
-      "category": "N/A",
-      "date": "2/19/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712859",
-      "scraped_at": "2026-02-20T19:49:02.639Z"
-    },
-    {
-      "title": "Ambulatory Pharmacist",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/19/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/28996",
-      "scraped_at": "2026-02-20T19:49:02.640Z"
-    },
-    {
-      "title": "Ambulatory Pharmacist",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/19/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/28997",
-      "scraped_at": "2026-02-20T19:49:02.640Z"
-    },
-    {
-      "title": "Ambulatory Pharmacist",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/19/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/28998",
-      "scraped_at": "2026-02-20T19:49:02.641Z"
-    },
-    {
-      "title": "Ambulatory Pharmacy Technician",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/19/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29000",
-      "scraped_at": "2026-02-20T19:49:02.641Z"
-    },
-    {
-      "title": "Ambulatory Pharmacy Technician",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/19/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29001",
-      "scraped_at": "2026-02-20T19:49:03.616Z"
-    },
-    {
-      "title": "Ambulatory Pharmacy Technician",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Health Services",
-      "date": "2/19/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29002",
-      "scraped_at": "2026-02-20T19:49:03.616Z"
-    },
-    {
-      "title": "Ambulatory Practice Coordinator",
-      "location": "San Francisco Medical Center",
-      "category": "General Administration",
-      "date": "2/19/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712938",
-      "scraped_at": "2026-02-20T19:49:03.616Z"
-    },
-    {
-      "title": "Clinical Research Coordinator",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "2/19/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712727",
-      "scraped_at": "2026-02-19T14:39:02.247Z"
-    },
-    {
-      "title": "Clinical Research Coordinator",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "2/19/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3712728",
-      "scraped_at": "2026-02-19T14:39:02.249Z"
-    },
-    {
-      "title": "Microsoft Enterprise Sr Systems Engineer [CAMPUS ONLY]",
-      "location": "Santa Cruz",
-      "category": "Information Technology",
-      "date": "2/19/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84453&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-02-19T14:39:02.249Z"
     }
   ]
 }
