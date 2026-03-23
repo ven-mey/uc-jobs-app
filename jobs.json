@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-23T13:06:11.508Z",
-  "count": 395,
+  "updated_at": "2026-03-23T18:54:21.367Z",
+  "count": 396,
   "results": [
+    {
+      "title": "(NP/PA) APP Supervisor - Orthopaedic Surgery",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "3/22/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138831",
+      "scraped_at": "2026-03-23T18:54:21.365Z"
+    },
     {
       "title": "(PA) Sr. Physician Asst. - Reconstructive Urology",
       "location": "San Diego Health System",
