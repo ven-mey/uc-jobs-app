@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-23T18:54:21.367Z",
-  "count": 396,
+  "updated_at": "2026-03-24T02:02:02.398Z",
+  "count": 394,
   "results": [
     {
       "title": "(NP/PA) APP Supervisor - Orthopaedic Surgery",
@@ -3153,22 +3153,6 @@
       "date": "2/23/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84537&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-02-24T15:11:26.070Z"
-    },
-    {
-      "title": "Custodial Supervisor - Ronald Reagan Medical Center",
-      "location": "Los Angeles Medical Center",
-      "category": "Custodial Services",
-      "date": "2/22/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/28755",
-      "scraped_at": "2026-02-23T14:37:30.016Z"
-    },
-    {
-      "title": "Sr. Custodian - West Valley Medical Center",
-      "location": "Los Angeles Medical Center",
-      "category": "Custodial Services",
-      "date": "2/22/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/28910",
-      "scraped_at": "2026-02-23T14:37:30.017Z"
     }
   ]
 }
