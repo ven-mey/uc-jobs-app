@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-03-26T13:14:32.276Z",
-  "count": 343,
+  "updated_at": "2026-03-26T19:04:56.758Z",
+  "count": 354,
   "results": [
+    {
+      "title": "Clinical Research Coordinator Sudden Cardiac Death Study",
+      "location": "San Francisco",
+      "category": "Clinical Laboratory Services",
+      "date": "3/26/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3693766",
+      "scraped_at": "2026-03-26T19:04:55.570Z"
+    },
+    {
+      "title": "Medical Assistant 3",
+      "location": "San Francisco Medical Center",
+      "category": "Support Services",
+      "date": "3/26/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719921",
+      "scraped_at": "2026-03-26T19:04:55.571Z"
+    },
+    {
+      "title": "Medical Assistant 3",
+      "location": "San Francisco Medical Center",
+      "category": "Support Services",
+      "date": "3/26/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719943",
+      "scraped_at": "2026-03-26T19:04:55.571Z"
+    },
+    {
+      "title": "Administrative Assistant II - Ophthalmology, Calabasas",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "3/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29643",
+      "scraped_at": "2026-03-26T19:04:55.571Z"
+    },
+    {
+      "title": "Agile Delivery & Data Operations Specialist",
+      "location": "Riverside",
+      "category": "Information Technology",
+      "date": "3/25/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37246354",
+      "scraped_at": "2026-03-26T19:04:55.572Z"
+    },
+    {
+      "title": "Ambulatory Pharmacy Technician - Prescription Management",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "3/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29651",
+      "scraped_at": "2026-03-26T19:04:55.572Z"
+    },
+    {
+      "title": "Assistant Director, UC National Center for Free Speech and Civic Engagement",
+      "location": "Irvine",
+      "category": "N/A",
+      "date": "3/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/145899/job",
+      "scraped_at": "2026-03-26T19:04:55.572Z"
+    },
+    {
+      "title": "BCH Wound Ostomy Clinical Nurse",
+      "location": "San Francisco Medical Center",
+      "category": "Nursing",
+      "date": "3/25/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716685",
+      "scraped_at": "2026-03-26T19:04:55.572Z"
+    },
+    {
+      "title": "CLICC Services Administrator",
+      "location": "Los Angeles",
+      "category": "General Administration",
+      "date": "3/25/2026",
+      "url": "https://jobs.ucla.edu/jobs/10204",
+      "scraped_at": "2026-03-26T19:04:55.573Z"
+    },
+    {
+      "title": "Clinical Nurse II - Acute Rehab - Days - FT - Irvine",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "3/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/145959/job",
+      "scraped_at": "2026-03-26T19:04:55.573Z"
+    },
+    {
+      "title": "Clinical Nurse II - Acute Rehab -Nights - FT - Irvine",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "3/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/145963/job",
+      "scraped_at": "2026-03-26T19:04:56.756Z"
+    },
     {
       "title": "Medical Assistant 3",
       "location": "San Francisco Medical Center",
