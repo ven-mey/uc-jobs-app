@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-27T18:55:11.114Z",
-  "count": 381,
+  "updated_at": "2026-03-28T02:05:47.892Z",
+  "count": 376,
   "results": [
     {
       "title": "Peer Case Manager",
@@ -3009,46 +3009,6 @@
       "date": "2/27/2026",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716920",
       "scraped_at": "2026-02-27T19:48:16.458Z"
-    },
-    {
-      "title": "(NP) Nurse Practitioner - Eating Disorder Clinic",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "2/26/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138662",
-      "scraped_at": "2026-02-27T19:48:16.458Z"
-    },
-    {
-      "title": "Academic Human Resources Analyst 3",
-      "location": "San Francisco",
-      "category": "Human Resources",
-      "date": "2/26/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716902",
-      "scraped_at": "2026-02-27T19:48:16.459Z"
-    },
-    {
-      "title": "Academic Personnel Analyst 2",
-      "location": "San Francisco",
-      "category": "Human Resources",
-      "date": "2/26/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716905",
-      "scraped_at": "2026-02-27T19:48:16.459Z"
-    },
-    {
-      "title": "Academic Program Director - Bioscience",
-      "location": "Los Angeles Medical Center",
-      "category": "Academic Staff",
-      "date": "2/26/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29067",
-      "scraped_at": "2026-02-27T19:48:16.460Z"
-    },
-    {
-      "title": "Administrative Correspondence Representative",
-      "location": "San Francisco Medical Center",
-      "category": "General Administration",
-      "date": "2/26/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716706",
-      "scraped_at": "2026-02-26T14:39:59.751Z"
     }
   ]
 }
