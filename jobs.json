@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-03-30T13:18:40.728Z",
-  "count": 368,
+  "updated_at": "2026-03-30T18:59:14.277Z",
+  "count": 370,
   "results": [
+    {
+      "title": "Security Officer - Santa Monica Hospital",
+      "location": "Los Angeles Medical Center",
+      "category": "Public Safety and Security",
+      "date": "3/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29590",
+      "scraped_at": "2026-03-30T18:59:14.275Z"
+    },
+    {
+      "title": "Unit Director - Ronald Reagan Main OR",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29915",
+      "scraped_at": "2026-03-30T18:59:14.276Z"
+    },
     {
       "title": "Director, Case Management Fountain Valley/ Placentia Linda - Full Time - Days",
       "location": "Irvine Healthcare",
