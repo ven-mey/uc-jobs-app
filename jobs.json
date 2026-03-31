@@ -1,7 +1,231 @@
 {
-  "updated_at": "2026-03-31T13:17:20.605Z",
-  "count": 365,
+  "updated_at": "2026-03-31T19:01:31.576Z",
+  "count": 393,
   "results": [
+    {
+      "title": "Staff Research Associate 1",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "3/31/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29603",
+      "scraped_at": "2026-03-31T19:01:29.359Z"
+    },
+    {
+      "title": "Staff Research Associate 1",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "3/31/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29604",
+      "scraped_at": "2026-03-31T19:01:29.360Z"
+    },
+    {
+      "title": "Staff Research Associate 1",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "3/31/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29647",
+      "scraped_at": "2026-03-31T19:01:29.361Z"
+    },
+    {
+      "title": "Administrative Assistant II, Float - Urology (Torrance)",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "3/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29791",
+      "scraped_at": "2026-03-31T19:01:29.361Z"
+    },
+    {
+      "title": "Administrative Supervisor, Float - Urology (Northwest Valley)",
+      "location": "Los Angeles Medical Center",
+      "category": "Support Services",
+      "date": "3/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29767",
+      "scraped_at": "2026-03-31T19:01:29.362Z"
+    },
+    {
+      "title": "Affiliate Network Program Manager",
+      "location": "Davis Health System",
+      "category": "General Administration",
+      "date": "3/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84265&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-31T19:01:29.362Z"
+    },
+    {
+      "title": "Animal Health Technician - Emergency/Critical Care (ANML HEALTH TCHN 3)",
+      "location": "Davis",
+      "category": "Clinical Laboratory Services",
+      "date": "3/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85166&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-31T19:01:29.362Z"
+    },
+    {
+      "title": "Animal Health Technician 3 - Oncology (ANML HEALTH TCHN 3)",
+      "location": "Davis",
+      "category": "Clinical Laboratory Services",
+      "date": "3/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85164&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-31T19:01:29.363Z"
+    },
+    {
+      "title": "Assistant Director, Central Lab - F/T - Days",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Laboratory Services",
+      "date": "3/30/2026",
+      "url": "https://careers-uci.icims.com/jobs/146413/job",
+      "scraped_at": "2026-03-31T19:01:29.363Z"
+    },
+    {
+      "title": "Assistant Director for SACL Social Media and Brand",
+      "location": "San Diego",
+      "category": "Communications",
+      "date": "3/30/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138966",
+      "scraped_at": "2026-03-31T19:01:29.364Z"
+    },
+    {
+      "title": "Assistant Housing Operations Manager",
+      "location": "Los Angeles",
+      "category": "General Administration",
+      "date": "3/30/2026",
+      "url": "https://jobs.ucla.edu/jobs/10196",
+      "scraped_at": "2026-03-31T19:01:30.519Z"
+    },
+    {
+      "title": "Assistant Nurse Manager, Perioperative Services - Lakewood - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://careers-uci.icims.com/jobs/146435/job",
+      "scraped_at": "2026-03-31T19:01:30.520Z"
+    },
+    {
+      "title": "Assistant Nurse Manager, Perioperative Services - Placentia Linda - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://careers-uci.icims.com/jobs/146437/job",
+      "scraped_at": "2026-03-31T19:01:30.520Z"
+    },
+    {
+      "title": "Assistant Nurse Manager - Cardiology (NURSE SVC SUPV 2)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84130&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-31T19:01:30.520Z"
+    },
+    {
+      "title": "Assistant Regional Director",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "3/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28837",
+      "scraped_at": "2026-03-31T19:01:30.521Z"
+    },
+    {
+      "title": "Assistant Unit Director",
+      "location": "San Francisco Medical Center",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3708514",
+      "scraped_at": "2026-03-31T19:01:30.521Z"
+    },
+    {
+      "title": "Associate Executive Director",
+      "location": "Davis Health System",
+      "category": "Facilities and Environment Health",
+      "date": "3/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84409&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-31T19:01:30.521Z"
+    },
+    {
+      "title": "Budget Amendment Negotiator (Fully Remote)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Research",
+      "date": "3/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29715",
+      "scraped_at": "2026-03-31T19:01:30.522Z"
+    },
+    {
+      "title": "Building Maintenance Worker Senior (8212C), Haas School of Business - #84712",
+      "location": "Berkeley",
+      "category": "General Services",
+      "date": "3/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84712&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-31T19:01:30.522Z"
+    },
+    {
+      "title": "Cardiology RN (CLIN NURSE 2)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84610&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-31T19:01:30.522Z"
+    },
+    {
+      "title": "Cardiovascular Technologist, Part-time",
+      "location": "San Francisco Medical Center",
+      "category": "Clinical Health Services",
+      "date": "3/30/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3709882",
+      "scraped_at": "2026-03-31T19:01:31.573Z"
+    },
+    {
+      "title": "Chief of Staff to the Chancellor (EXEC ADVISOR MGR 3)",
+      "location": "Davis",
+      "category": "General Administration",
+      "date": "3/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85172&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-03-31T19:01:31.573Z"
+    },
+    {
+      "title": "Clinical Nurse II - MED/SURG TELEMETRY-IRV (5) - PT - Days",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://careers-uci.icims.com/jobs/146105/job",
+      "scraped_at": "2026-03-31T19:01:31.573Z"
+    },
+    {
+      "title": "Clinical Nurse II-Medical/Surgical 5T-FT, Nights",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://careers-uci.icims.com/jobs/123264/job",
+      "scraped_at": "2026-03-31T19:01:31.574Z"
+    },
+    {
+      "title": "Clinical Nurse IV- ED Observation Unit, Irvine- F/T, Night Shift",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://careers-uci.icims.com/jobs/123145/job",
+      "scraped_at": "2026-03-31T19:01:31.574Z"
+    },
+    {
+      "title": "Clinical Nurse IV- Irvine Operating Room- FT, Day Shift",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "3/30/2026",
+      "url": "https://careers-uci.icims.com/jobs/146410/job",
+      "scraped_at": "2026-03-31T19:01:31.574Z"
+    },
+    {
+      "title": "Clinical Research Coordinator - Hematology/Oncology (Santa Monica)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "3/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29716",
+      "scraped_at": "2026-03-31T19:01:31.575Z"
+    },
+    {
+      "title": "Clinical Research Coordinator Cardiology",
+      "location": "San Francisco",
+      "category": "Clinical Laboratory Services",
+      "date": "3/30/2026",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3706769",
+      "scraped_at": "2026-03-31T19:01:31.575Z"
+    },
     {
       "title": "Security Officer - Santa Monica Hospital",
       "location": "Los Angeles Medical Center",
