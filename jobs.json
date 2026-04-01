@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T19:01:31.576Z",
-  "count": 393,
+  "updated_at": "2026-04-01T02:32:40.645Z",
+  "count": 389,
   "results": [
     {
       "title": "Staff Research Associate 1",
@@ -3113,38 +3113,6 @@
       "date": "3/4/2026",
       "url": "https://jobs.ucla.edu/jobs/9948",
       "scraped_at": "2026-03-05T14:33:38.771Z"
-    },
-    {
-      "title": "(NP) Nurse Practitioner - Bleeding Disorders Ctr",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "3/2/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138685",
-      "scraped_at": "2026-03-03T14:31:59.397Z"
-    },
-    {
-      "title": "(Sr. CRNA) Sr. Certified Registered Nurse Anesthetist",
-      "location": "Irvine",
-      "category": "Nursing",
-      "date": "3/2/2026",
-      "url": "https://careers-uci.icims.com/jobs/88558/job",
-      "scraped_at": "2026-03-03T14:31:59.398Z"
-    },
-    {
-      "title": "Experienced RN - OR Training Program",
-      "location": "Los Angeles Medical Center",
-      "category": "Nursing",
-      "date": "3/2/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29235",
-      "scraped_at": "2026-03-02T14:30:41.925Z"
-    },
-    {
-      "title": "Nurse Residency Program",
-      "location": "Los Angeles Medical Center",
-      "category": "Nursing",
-      "date": "3/2/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29233",
-      "scraped_at": "2026-03-02T14:30:41.926Z"
     }
   ]
 }
