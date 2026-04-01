@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-04-01T13:20:25.712Z",
-  "count": 389,
+  "updated_at": "2026-04-01T19:01:08.335Z",
+  "count": 397,
   "results": [
+    {
+      "title": "Medical Assistant - Primary Care, Ventura",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "4/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29695",
+      "scraped_at": "2026-04-01T19:01:08.330Z"
+    },
+    {
+      "title": "New Graduate Nurse Residency Program Fall 2026 (CLIN NURSE 1)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "4/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85210&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-01T19:01:08.331Z"
+    },
+    {
+      "title": "Patient Services Representative - Primary Care, Ventura",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "4/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29691",
+      "scraped_at": "2026-04-01T19:01:08.332Z"
+    },
+    {
+      "title": "Temporary Administrative Positions",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "4/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/146484/job",
+      "scraped_at": "2026-04-01T19:01:08.332Z"
+    },
+    {
+      "title": "Temporary Admitting Worker Positions",
+      "location": "Irvine",
+      "category": "Support Services",
+      "date": "4/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/146494/job",
+      "scraped_at": "2026-04-01T19:01:08.332Z"
+    },
+    {
+      "title": "Temporary Licensed Vocational Nurse Positions",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "4/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/146491/job",
+      "scraped_at": "2026-04-01T19:01:08.333Z"
+    },
+    {
+      "title": "Temporary Medical Assistant Positions",
+      "location": "Irvine",
+      "category": "Ambulatory Care Clinics",
+      "date": "4/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/146495/job",
+      "scraped_at": "2026-04-01T19:01:08.333Z"
+    },
+    {
+      "title": "(CLS) Clinical Lab Scientist - Clinical Lab",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "3/31/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139057",
+      "scraped_at": "2026-04-01T19:01:08.333Z"
+    },
     {
       "title": "Staff Research Associate 1",
       "location": "Los Angeles Medical Center",
