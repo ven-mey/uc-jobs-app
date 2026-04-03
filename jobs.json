@@ -1,7 +1,127 @@
 {
-  "updated_at": "2026-04-03T13:02:31.774Z",
-  "count": 393,
+  "updated_at": "2026-04-03T18:46:28.961Z",
+  "count": 408,
   "results": [
+    {
+      "title": "(RD) Registered Dietitian - Inpatient",
+      "location": "San Diego Health System",
+      "category": "Clinical Support Services",
+      "date": "4/2/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139080",
+      "scraped_at": "2026-04-03T18:46:27.672Z"
+    },
+    {
+      "title": "Administrative Assistant - Psychiatry",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "4/2/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29949",
+      "scraped_at": "2026-04-03T18:46:27.673Z"
+    },
+    {
+      "title": "Administrative Specialist",
+      "location": "Los Angeles",
+      "category": "General Administration",
+      "date": "4/2/2026",
+      "url": "https://jobs.ucla.edu/jobs/10244",
+      "scraped_at": "2026-04-03T18:46:27.673Z"
+    },
+    {
+      "title": "Anesthesia Tech - La Jolla Anesthesia Monitoring",
+      "location": "San Diego Health System",
+      "category": "Clinical Health Services",
+      "date": "4/2/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138779",
+      "scraped_at": "2026-04-03T18:46:27.674Z"
+    },
+    {
+      "title": "Assistant Case Coordinator- Health/Community Network",
+      "location": "Irvine",
+      "category": "Audit Compliance and Ethics",
+      "date": "4/2/2026",
+      "url": "https://careers-uci.icims.com/jobs/146583/job",
+      "scraped_at": "2026-04-03T18:46:27.674Z"
+    },
+    {
+      "title": "Assistant Dean of Undergraduate Advising (0324U) #85361",
+      "location": "Berkeley",
+      "category": "Student Services",
+      "date": "4/2/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85361&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-03T18:46:27.674Z"
+    },
+    {
+      "title": "Assistant Director of Engagement, Cal Aggie Alumni Association (ALUMNI EXTERNAL REL SPEC 3)",
+      "location": "Davis",
+      "category": "Advancement/Fundraising",
+      "date": "4/2/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85376&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-03T18:46:27.675Z"
+    },
+    {
+      "title": "Associate Director of Onsite Learning & Volunteer Engagements (7374U) Lawrence Hall of Science, #853",
+      "location": "Berkeley",
+      "category": "General Administration",
+      "date": "4/2/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85370&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-03T18:46:27.675Z"
+    },
+    {
+      "title": "Business Coordinator, Intelligent Care",
+      "location": "San Diego Health System",
+      "category": "N/A",
+      "date": "4/2/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138810",
+      "scraped_at": "2026-04-03T18:46:27.676Z"
+    },
+    {
+      "title": "Clinical Nurse II - Med/Surg Telemetry- Irvine (5)-FT, Days (8hr Shifts)",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "4/2/2026",
+      "url": "https://careers-uci.icims.com/jobs/146106/job",
+      "scraped_at": "2026-04-03T18:46:27.677Z"
+    },
+    {
+      "title": "Clinical Nurse II -Med/Surg Telemetry-Irvine (5)-FT-Nights (8hr Shift)",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "4/2/2026",
+      "url": "https://careers-uci.icims.com/jobs/146089/job",
+      "scraped_at": "2026-04-03T18:46:28.958Z"
+    },
+    {
+      "title": "Clinical Nurse IV - Operating Room - Days",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "4/2/2026",
+      "url": "https://careers-uci.icims.com/jobs/145883/job",
+      "scraped_at": "2026-04-03T18:46:28.959Z"
+    },
+    {
+      "title": "Clinical Pharmacist, Oncology",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "4/2/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85349&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-03T18:46:28.959Z"
+    },
+    {
+      "title": "Clinical Pharmacist, Oncology",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "4/2/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85353&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-03T18:46:28.959Z"
+    },
+    {
+      "title": "Clinical Research Coordinator - SOM:Emergency Medicine",
+      "location": "Davis",
+      "category": "Clinical Laboratory Services",
+      "date": "4/2/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85320&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-03T18:46:28.960Z"
+    },
     {
       "title": "Clinical Research Coordinator Cardiology",
       "location": "San Francisco",
