@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-03T18:46:28.961Z",
-  "count": 408,
+  "updated_at": "2026-04-04T02:05:37.363Z",
+  "count": 400,
   "results": [
     {
       "title": "(RD) Registered Dietitian - Inpatient",
@@ -3201,70 +3201,6 @@
       "date": "3/6/2026",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3713123",
       "scraped_at": "2026-03-06T19:49:11.225Z"
-    },
-    {
-      "title": "Associate Director for Clinical Research Programs",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "3/5/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718261",
-      "scraped_at": "2026-03-05T14:33:32.877Z"
-    },
-    {
-      "title": "Charge Nurse- Stepdown, Irvine (4N)- FT, Night Shift",
-      "location": "Irvine Healthcare",
-      "category": "Nursing",
-      "date": "3/5/2026",
-      "url": "https://careers-uci.icims.com/jobs/141371/job",
-      "scraped_at": "2026-03-05T14:33:32.878Z"
-    },
-    {
-      "title": "Clinical Research Coordinator",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "3/5/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718262",
-      "scraped_at": "2026-03-05T14:33:32.878Z"
-    },
-    {
-      "title": "Clinical Research Support Coordinator",
-      "location": "San Francisco",
-      "category": "N/A",
-      "date": "3/5/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718265",
-      "scraped_at": "2026-03-05T14:33:32.879Z"
-    },
-    {
-      "title": "Nurse Practitioner",
-      "location": "San Francisco",
-      "category": "Nursing",
-      "date": "3/5/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718263",
-      "scraped_at": "2026-03-05T14:33:32.879Z"
-    },
-    {
-      "title": "Nurse Practitioner",
-      "location": "San Francisco",
-      "category": "Nursing",
-      "date": "3/5/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718264",
-      "scraped_at": "2026-03-05T14:33:32.879Z"
-    },
-    {
-      "title": "Per Diem Nursing Assistant- Medical/Surgical Telemetry - Irvine (5)- Day Shift",
-      "location": "Irvine Healthcare",
-      "category": "Support Services",
-      "date": "3/5/2026",
-      "url": "https://careers-uci.icims.com/jobs/111680/job",
-      "scraped_at": "2026-03-05T14:33:32.880Z"
-    },
-    {
-      "title": "Radiation Safety Specialist",
-      "location": "San Francisco",
-      "category": "N/A",
-      "date": "3/5/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718260",
-      "scraped_at": "2026-03-05T14:33:32.880Z"
     }
   ]
 }
