@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-05T18:42:40.271Z",
-  "count": 412,
+  "updated_at": "2026-04-06T02:28:24.044Z",
+  "count": 411,
   "results": [
     {
       "title": "(LVN) Resource Vocational Nurse - Primary Care",
@@ -3289,14 +3289,6 @@
       "date": "3/8/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=81230&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-03-09T14:39:53.594Z"
-    },
-    {
-      "title": "IT Support Analyst",
-      "location": "San Francisco",
-      "category": "Information Technology",
-      "date": "3/7/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718821",
-      "scraped_at": "2026-03-07T18:59:33.693Z"
     }
   ]
 }
