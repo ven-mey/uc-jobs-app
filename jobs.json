@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-04-08T13:19:03.450Z",
-  "count": 432,
+  "updated_at": "2026-04-09T02:10:33.710Z",
+  "count": 431,
   "results": [
+    {
+      "title": "(RN) Registered Nurse - Infusion",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "4/7/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139084",
+      "scraped_at": "2026-04-09T02:10:33.704Z"
+    },
+    {
+      "title": "(SPD) Sterile Processing Tech",
+      "location": "San Diego Health System",
+      "category": "Clinical Support Services",
+      "date": "4/7/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139059",
+      "scraped_at": "2026-04-09T02:10:33.705Z"
+    },
+    {
+      "title": "(SPD) Sterile Processing Tech - La Jolla",
+      "location": "San Diego Health System",
+      "category": "Clinical Support Services",
+      "date": "4/7/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139195",
+      "scraped_at": "2026-04-09T02:10:33.706Z"
+    },
+    {
+      "title": "(SPD) Sterile Processing Tech III",
+      "location": "San Diego Health System",
+      "category": "Clinical Support Services",
+      "date": "4/7/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138993",
+      "scraped_at": "2026-04-09T02:10:33.706Z"
+    },
+    {
+      "title": "Admin Clinical Care Partner- Multi Acute Care- 6West",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "4/7/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29903",
+      "scraped_at": "2026-04-09T02:10:33.707Z"
+    },
+    {
+      "title": "Administrative Assistant II, Float - Urology (Westwood)",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "4/7/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30133",
+      "scraped_at": "2026-04-09T02:10:33.707Z"
+    },
+    {
+      "title": "Administrative Assistant II - Neurology",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "4/7/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29846",
+      "scraped_at": "2026-04-09T02:10:33.707Z"
+    },
+    {
+      "title": "Administrative Assistant III - Neurology Clinic",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "4/7/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29854",
+      "scraped_at": "2026-04-09T02:10:33.708Z"
+    },
+    {
+      "title": "Administrative Assistant III - Radiology",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "4/7/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29823",
+      "scraped_at": "2026-04-09T02:10:33.708Z"
+    },
     {
       "title": "Battery Cathode Postdoctoral Fellow",
       "location": "Lawrence Berkeley National Lab",
@@ -3377,86 +3449,6 @@
       "date": "3/11/2026",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718644",
       "scraped_at": "2026-03-11T14:37:29.751Z"
-    },
-    {
-      "title": "(CLS) Clinical Lab Scientist - Microbiology Lab",
-      "location": "San Diego Health System",
-      "category": "Clinical Laboratory Services",
-      "date": "3/10/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138795",
-      "scraped_at": "2026-03-11T14:37:29.752Z"
-    },
-    {
-      "title": "(CLS) Sr. Clinical Laboratory Scientist Specialist",
-      "location": "San Diego Health System",
-      "category": "Clinical Laboratory Services",
-      "date": "3/10/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138780",
-      "scraped_at": "2026-03-11T14:37:29.752Z"
-    },
-    {
-      "title": "Administrative Assistant II - Primary & Specialty Care Clinics (Pasadena)",
-      "location": "Los Angeles Medical Center",
-      "category": "General Administration",
-      "date": "3/10/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29339",
-      "scraped_at": "2026-03-11T14:37:29.753Z"
-    },
-    {
-      "title": "Administrative Coordinator",
-      "location": "San Francisco",
-      "category": "N/A",
-      "date": "3/10/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719375",
-      "scraped_at": "2026-03-11T14:37:29.753Z"
-    },
-    {
-      "title": "Administrative Supervisor - Psychiatry",
-      "location": "San Diego Health System",
-      "category": "Ambulatory Care Clinics",
-      "date": "3/10/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138708",
-      "scraped_at": "2026-03-11T14:37:29.754Z"
-    },
-    {
-      "title": "Admin Research Project Manager",
-      "location": "San Francisco",
-      "category": "N/A",
-      "date": "3/10/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719372",
-      "scraped_at": "2026-03-11T14:37:30.805Z"
-    },
-    {
-      "title": "ASPIRE DDS Program Director",
-      "location": "San Francisco",
-      "category": "Instructional Services",
-      "date": "3/10/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3709684",
-      "scraped_at": "2026-03-11T14:37:30.805Z"
-    },
-    {
-      "title": "Assistant Program Manager",
-      "location": "San Francisco",
-      "category": "N/A",
-      "date": "3/10/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719225",
-      "scraped_at": "2026-03-11T14:37:30.805Z"
-    },
-    {
-      "title": "Assistant Unit Director, Perioperative Services",
-      "location": "San Francisco Medical Center",
-      "category": "Nursing",
-      "date": "3/10/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719345",
-      "scraped_at": "2026-03-11T14:37:30.805Z"
-    },
-    {
-      "title": "Audiologist",
-      "location": "Davis Health System",
-      "category": "Rehabilitation",
-      "date": "3/10/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84040&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-03-11T14:37:30.805Z"
     }
   ]
 }
