@@ -1,7 +1,127 @@
 {
-  "updated_at": "2026-04-09T13:25:53.290Z",
-  "count": 431,
+  "updated_at": "2026-04-09T19:05:44.270Z",
+  "count": 446,
   "results": [
+    {
+      "title": "(NP) Nurse Pract. - Anesthesia Preparedness Clinic",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "4/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139174",
+      "scraped_at": "2026-04-09T19:05:42.968Z"
+    },
+    {
+      "title": "(PA)Physician Asst- Anesthesia Preparedness Clinic",
+      "location": "San Diego Health System",
+      "category": "Physician",
+      "date": "4/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139175",
+      "scraped_at": "2026-04-09T19:05:42.969Z"
+    },
+    {
+      "title": "Academic Advisor",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "4/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139193",
+      "scraped_at": "2026-04-09T19:05:42.970Z"
+    },
+    {
+      "title": "Academic Personnel Analyst",
+      "location": "Los Angeles",
+      "category": "Human Resources",
+      "date": "4/8/2026",
+      "url": "https://jobs.ucla.edu/jobs/10290",
+      "scraped_at": "2026-04-09T19:05:42.970Z"
+    },
+    {
+      "title": "Animal Technician - Cage Wash, DLAM",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "4/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29976",
+      "scraped_at": "2026-04-09T19:05:42.970Z"
+    },
+    {
+      "title": "Application Programmer",
+      "location": "Irvine",
+      "category": "Information Technology",
+      "date": "4/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/146866/job",
+      "scraped_at": "2026-04-09T19:05:42.971Z"
+    },
+    {
+      "title": "Assistant Baker",
+      "location": "Los Angeles",
+      "category": "Food Services",
+      "date": "4/8/2026",
+      "url": "https://jobs.ucla.edu/jobs/10224",
+      "scraped_at": "2026-04-09T19:05:42.971Z"
+    },
+    {
+      "title": "Assistant Chief of Police",
+      "location": "Riverside",
+      "category": "Public Safety and Security",
+      "date": "4/8/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/30312530",
+      "scraped_at": "2026-04-09T19:05:42.972Z"
+    },
+    {
+      "title": "Assistant Clinical Research Coordinator",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "4/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29862",
+      "scraped_at": "2026-04-09T19:05:42.972Z"
+    },
+    {
+      "title": "Assistant Clinical Research Coordinator - Pediatrics",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "4/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29965",
+      "scraped_at": "2026-04-09T19:05:42.973Z"
+    },
+    {
+      "title": "Assistant Study Coordinator",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "4/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29863",
+      "scraped_at": "2026-04-09T19:05:44.267Z"
+    },
+    {
+      "title": "Associate Director, Disability Resource Center",
+      "location": "Santa Cruz",
+      "category": "Student Services",
+      "date": "4/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85431&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-09T19:05:44.267Z"
+    },
+    {
+      "title": "Building Controls Engineer",
+      "location": "Riverside",
+      "category": "Facilities and Environment Health",
+      "date": "4/8/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37044780",
+      "scraped_at": "2026-04-09T19:05:44.268Z"
+    },
+    {
+      "title": "Certified Phlebotomy Tech",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "4/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139178",
+      "scraped_at": "2026-04-09T19:05:44.268Z"
+    },
+    {
+      "title": "Clinical Nurse Educator 4 - Center for Professional Practice of Nursing",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "4/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85448&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-09T19:05:44.269Z"
+    },
     {
       "title": "(RN) Registered Nurse - Infusion",
       "location": "San Diego Health System",
