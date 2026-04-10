@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-09T19:05:44.270Z",
-  "count": 446,
+  "updated_at": "2026-04-10T02:30:19.104Z",
+  "count": 434,
   "results": [
     {
       "title": "(NP) Nurse Pract. - Anesthesia Preparedness Clinic",
@@ -3473,102 +3473,6 @@
       "date": "3/12/2026",
       "url": "https://jobs.ucla.edu/jobs/10035",
       "scraped_at": "2026-03-12T14:37:16.708Z"
-    },
-    {
-      "title": "(NP) Nurse Practitioner - Liver Transplant",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "3/11/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=137740",
-      "scraped_at": "2026-03-12T14:37:16.708Z"
-    },
-    {
-      "title": "(PA) Physician Assistant - Liver Transplant",
-      "location": "San Diego Health System",
-      "category": "Physician",
-      "date": "3/11/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=137739",
-      "scraped_at": "2026-03-12T14:37:16.708Z"
-    },
-    {
-      "title": "(PB to 140309) Surgical Tech - Irvine Operating Room - IP - FT Days",
-      "location": "Irvine Healthcare",
-      "category": "Clinical Health Services",
-      "date": "3/11/2026",
-      "url": "https://careers-uci.icims.com/jobs/140317/job",
-      "scraped_at": "2026-03-12T14:37:16.709Z"
-    },
-    {
-      "title": "(PB to 140309) Surgical Tech - Irvine Operating Room - IP - FT Days",
-      "location": "Irvine Healthcare",
-      "category": "Clinical Health Services",
-      "date": "3/11/2026",
-      "url": "https://careers-uci.icims.com/jobs/140318/job",
-      "scraped_at": "2026-03-12T14:37:16.709Z"
-    },
-    {
-      "title": "(RN) Registered Nurse - Breast Health Center",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "3/11/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138832",
-      "scraped_at": "2026-03-12T14:37:16.710Z"
-    },
-    {
-      "title": "(RN) Registered Nurse - Same-Day Oncology Clinic",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "3/11/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138718",
-      "scraped_at": "2026-03-12T14:37:16.711Z"
-    },
-    {
-      "title": "Administrative Coordinator",
-      "location": "Los Angeles",
-      "category": "N/A",
-      "date": "3/11/2026",
-      "url": "https://jobs.ucla.edu/jobs/9689",
-      "scraped_at": "2026-03-12T14:37:16.711Z"
-    },
-    {
-      "title": "Clinical Research Coordinator",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "3/11/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719496",
-      "scraped_at": "2026-03-11T14:37:29.749Z"
-    },
-    {
-      "title": "Clinical Research Coordinator",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "3/11/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719497",
-      "scraped_at": "2026-03-11T14:37:29.750Z"
-    },
-    {
-      "title": "Hospital Blank Assist 3",
-      "location": "San Francisco Medical Center",
-      "category": "General Administration",
-      "date": "3/11/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719493",
-      "scraped_at": "2026-03-11T14:37:29.751Z"
-    },
-    {
-      "title": "Per Diem Medical Assistant 3",
-      "location": "San Francisco Medical Center",
-      "category": "Support Services",
-      "date": "3/11/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3716613",
-      "scraped_at": "2026-03-11T14:37:29.751Z"
-    },
-    {
-      "title": "Practice Coordinator 3 - Contact Center",
-      "location": "San Francisco Medical Center",
-      "category": "Support Services",
-      "date": "3/11/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3718644",
-      "scraped_at": "2026-03-11T14:37:29.751Z"
     }
   ]
 }
