@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-04-20T13:27:59.670Z",
-  "count": 315,
+  "updated_at": "2026-04-20T19:07:15.897Z",
+  "count": 319,
   "results": [
+    {
+      "title": "Case Management Supervisor (CASE MGT HC SUPV 2)",
+      "location": "Davis Health System",
+      "category": "Care Coordination",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=82645&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-20T19:07:15.895Z"
+    },
+    {
+      "title": "Early Academic Outreach Program (EAOP) Regional Outreach Coordinator (K to 14 ACAD PREP SPEC 3)",
+      "location": "Davis",
+      "category": "Student Services",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85499&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-20T19:07:15.895Z"
+    },
+    {
+      "title": "Reimbursement HC Supervisor",
+      "location": "Davis Health System",
+      "category": "Support Services",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85429&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-20T19:07:15.896Z"
+    },
+    {
+      "title": "Surgical Tech-Westwood Surgery Center",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "4/19/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28575",
+      "scraped_at": "2026-04-20T19:07:15.896Z"
+    },
     {
       "title": "Patient Services Representative 3",
       "location": "Davis Health System",
