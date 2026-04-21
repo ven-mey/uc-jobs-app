@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-04-21T13:25:00.990Z",
-  "count": 318,
+  "updated_at": "2026-04-21T19:10:42.935Z",
+  "count": 331,
   "results": [
+    {
+      "title": "(NP) Nurse Practitioner - Gastroenterology",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "4/20/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139386",
+      "scraped_at": "2026-04-21T19:10:41.428Z"
+    },
+    {
+      "title": "(PA) Sr. Physician Assistant - Gastroenterology",
+      "location": "San Diego Health System",
+      "category": "Physician",
+      "date": "4/20/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139387",
+      "scraped_at": "2026-04-21T19:10:41.429Z"
+    },
+    {
+      "title": "Academic & Staff Personnel Coordinator - Medicine",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "4/20/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139389",
+      "scraped_at": "2026-04-21T19:10:41.429Z"
+    },
+    {
+      "title": "Administrative Assistant 3",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "4/20/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/27854",
+      "scraped_at": "2026-04-21T19:10:41.429Z"
+    },
+    {
+      "title": "Ambulatory Care Patient Supv 2 - Infusion Center - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Ambulatory Care Clinics",
+      "date": "4/20/2026",
+      "url": "https://careers-uci.icims.com/jobs/141562/job",
+      "scraped_at": "2026-04-21T19:10:41.430Z"
+    },
+    {
+      "title": "Assistant Director, Undergraduate Admissions & Transfer Opportunity Program - Bay Area (ADMISSIONS R",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85492&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-21T19:10:41.430Z"
+    },
+    {
+      "title": "Assistant Nurse Manager - Pediatrics (NURSE SVC SUPV 2)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85659&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-21T19:10:41.430Z"
+    },
+    {
+      "title": "Bioinformatics Programmer 3 (5227C) #85723",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85723&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-21T19:10:41.430Z"
+    },
+    {
+      "title": "Biomed Equipment Technician 3",
+      "location": "Davis Health System",
+      "category": "Engineering",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85601&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-21T19:10:41.430Z"
+    },
+    {
+      "title": "BioSafety Officer & High Containment Lab Director (Onsite)",
+      "location": "Merced",
+      "category": "Facilities and Environment Health",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85725&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-21T19:10:41.431Z"
+    },
+    {
+      "title": "Business Intelligence Partner - Care at Home Platform - FT - Day",
+      "location": "Irvine Healthcare",
+      "category": "General Administration",
+      "date": "4/20/2026",
+      "url": "https://careers-uci.icims.com/jobs/141106/job",
+      "scraped_at": "2026-04-21T19:10:42.934Z"
+    },
+    {
+      "title": "Campus Tours Coordinator (ADMISSIONS RECRMT SPEC 2 SV)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "4/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85667&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-21T19:10:42.934Z"
+    },
+    {
+      "title": "Cardiovascular Scheduler - Hybrid",
+      "location": "San Diego Health System",
+      "category": "Support Services",
+      "date": "4/20/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139352",
+      "scraped_at": "2026-04-21T19:10:42.934Z"
+    },
     {
       "title": "Case Management Supervisor (CASE MGT HC SUPV 2)",
       "location": "Davis Health System",
