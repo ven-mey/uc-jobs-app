@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T19:07:15.897Z",
-  "count": 319,
+  "updated_at": "2026-04-21T02:32:33.472Z",
+  "count": 318,
   "results": [
     {
       "title": "Case Management Supervisor (CASE MGT HC SUPV 2)",
@@ -2545,14 +2545,6 @@
       "date": "3/23/2026",
       "url": "https://uclahealth.avature.net/careers/JobDetail/29641",
       "scraped_at": "2026-03-24T19:02:20.551Z"
-    },
-    {
-      "title": "(NP/PA) APP Supervisor - Orthopaedic Surgery",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "3/22/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138831",
-      "scraped_at": "2026-03-23T18:54:21.365Z"
     }
   ]
 }
