@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T19:10:42.935Z",
-  "count": 331,
+  "updated_at": "2026-04-22T02:30:54.257Z",
+  "count": 326,
   "results": [
     {
       "title": "(NP) Nurse Practitioner - Gastroenterology",
@@ -2609,46 +2609,6 @@
       "date": "3/24/2026",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719287",
       "scraped_at": "2026-03-24T19:02:20.549Z"
-    },
-    {
-      "title": "4-H College and Career Readiness Coordinator- Santa Maria, CA, Job ID 84824",
-      "location": "Agriculture and Natural Resources",
-      "category": "Instructional Services",
-      "date": "3/23/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucanr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84824&PostingSeq=1&SiteId=17&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-03-24T19:02:20.549Z"
-    },
-    {
-      "title": "Academic Advisor (STDT SVC ADVISOR 3 SV)",
-      "location": "Davis",
-      "category": "N/A",
-      "date": "3/23/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85162&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-03-24T19:02:20.550Z"
-    },
-    {
-      "title": "Academic Analyst - School of Medicine",
-      "location": "San Diego Health System",
-      "category": "Human Resources",
-      "date": "3/23/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138897",
-      "scraped_at": "2026-03-24T19:02:20.550Z"
-    },
-    {
-      "title": "Accounting Analyst 3",
-      "location": "Los Angeles Medical Center",
-      "category": "N/A",
-      "date": "3/23/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29461",
-      "scraped_at": "2026-03-24T19:02:20.550Z"
-    },
-    {
-      "title": "Administrative Clinical Care Partner - Med Surg/Telemetry Overflow - Santa Monica",
-      "location": "Los Angeles Medical Center",
-      "category": "Ambulatory Care Clinics",
-      "date": "3/23/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29641",
-      "scraped_at": "2026-03-24T19:02:20.551Z"
     }
   ]
 }
