@@ -1,7 +1,159 @@
 {
-  "updated_at": "2026-04-22T13:25:40.317Z",
-  "count": 326,
+  "updated_at": "2026-04-22T19:12:12.243Z",
+  "count": 345,
   "results": [
+    {
+      "title": "(RN)Clinical Nurse Case Manager-Radiation Oncology",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "4/21/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139322",
+      "scraped_at": "2026-04-22T19:12:10.729Z"
+    },
+    {
+      "title": "Admin Clinical Care Partner- Acute Medicine- 7East",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "4/21/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30178",
+      "scraped_at": "2026-04-22T19:12:10.730Z"
+    },
+    {
+      "title": "Admin Clinical Care Partner- Acute Medicine- 7East",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "4/21/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30185",
+      "scraped_at": "2026-04-22T19:12:10.731Z"
+    },
+    {
+      "title": "Admin Clinical Care Partner-PACU-Westwood Surgery Center",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "4/21/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29851",
+      "scraped_at": "2026-04-22T19:12:10.731Z"
+    },
+    {
+      "title": "Administrative Clinical Care Partner - Med Surg/Telemetry Overflow - Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "4/21/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/27874",
+      "scraped_at": "2026-04-22T19:12:10.731Z"
+    },
+    {
+      "title": "Administrative Officer 2",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "4/21/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30129",
+      "scraped_at": "2026-04-22T19:12:10.731Z"
+    },
+    {
+      "title": "Administrative Specialist III, DBP - Dean's Office",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "4/21/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30296",
+      "scraped_at": "2026-04-22T19:12:10.732Z"
+    },
+    {
+      "title": "Admin Nursing Ops Manager - Clinical Care Ops - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "4/21/2026",
+      "url": "https://careers-uci.icims.com/jobs/147211/job",
+      "scraped_at": "2026-04-22T19:12:10.732Z"
+    },
+    {
+      "title": "Assistant Clinical Research Coordinator / Clinical Research Coordinator",
+      "location": "Davis",
+      "category": "Clinical Laboratory Services",
+      "date": "4/21/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85714&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-22T19:12:10.732Z"
+    },
+    {
+      "title": "Assistant Coach Field Hockey (COACH AST 3)",
+      "location": "Davis",
+      "category": "Sports and Recreation",
+      "date": "4/21/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85613&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-22T19:12:10.732Z"
+    },
+    {
+      "title": "Assistant Director, Student Compliance",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "4/21/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139344",
+      "scraped_at": "2026-04-22T19:12:12.241Z"
+    },
+    {
+      "title": "Assistant Director, Travel Operations",
+      "location": "Los Angeles",
+      "category": "Finance",
+      "date": "4/21/2026",
+      "url": "https://jobs.ucla.edu/jobs/10393",
+      "scraped_at": "2026-04-22T19:12:12.241Z"
+    },
+    {
+      "title": "CARE Program Director",
+      "location": "Los Angeles",
+      "category": "Other",
+      "date": "4/21/2026",
+      "url": "https://jobs.ucla.edu/jobs/10371",
+      "scraped_at": "2026-04-22T19:12:12.241Z"
+    },
+    {
+      "title": "Certified Phlebotomy Technician 1-Laboratory-Fulltime-Variable",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Laboratory Services",
+      "date": "4/21/2026",
+      "url": "https://careers-uci.icims.com/jobs/146172/job",
+      "scraped_at": "2026-04-22T19:12:12.242Z"
+    },
+    {
+      "title": "Chef (5523C) Lawrence Hall of Science, #85759",
+      "location": "Berkeley",
+      "category": "Food Services",
+      "date": "4/21/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85759&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-22T19:12:12.242Z"
+    },
+    {
+      "title": "Clinical Monitor (CRA) - Neurosciences - Remote",
+      "location": "San Diego Health System",
+      "category": "N/A",
+      "date": "4/21/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139341",
+      "scraped_at": "2026-04-22T19:12:12.242Z"
+    },
+    {
+      "title": "Clinical Nurse II - Burn ICU - FT, Nights",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "4/21/2026",
+      "url": "https://careers-uci.icims.com/jobs/141381/job",
+      "scraped_at": "2026-04-22T19:12:12.242Z"
+    },
+    {
+      "title": "Clinical Nurse II - Irvine Operating Room - FT, Days",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "4/21/2026",
+      "url": "https://careers-uci.icims.com/jobs/141071/job",
+      "scraped_at": "2026-04-22T19:12:12.242Z"
+    },
+    {
+      "title": "Clinical Nurse II - Irvine Operating Room - FT, Nights",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "4/21/2026",
+      "url": "https://careers-uci.icims.com/jobs/141282/job",
+      "scraped_at": "2026-04-22T19:12:12.242Z"
+    },
     {
       "title": "(NP) Nurse Practitioner - Gastroenterology",
       "location": "San Diego Health System",
