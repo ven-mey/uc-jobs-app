@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T19:12:12.243Z",
-  "count": 345,
+  "updated_at": "2026-04-23T02:34:05.380Z",
+  "count": 339,
   "results": [
     {
       "title": "(RN)Clinical Nurse Case Manager-Radiation Oncology",
@@ -2713,54 +2713,6 @@
       "date": "3/25/2026",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719699",
       "scraped_at": "2026-03-25T18:55:00.290Z"
-    },
-    {
-      "title": "(NP/PA) APP Supervisor - Oncology Infusion",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "3/24/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139018",
-      "scraped_at": "2026-03-25T18:55:00.291Z"
-    },
-    {
-      "title": "48X Operating Room RN (CLIN NURSE 2)",
-      "location": "Davis Health System",
-      "category": "Nursing",
-      "date": "3/24/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85179&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-03-25T18:55:00.292Z"
-    },
-    {
-      "title": "Hospital Assistant 2",
-      "location": "San Francisco Medical Center",
-      "category": "Support Services",
-      "date": "3/24/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719277",
-      "scraped_at": "2026-03-24T19:02:20.547Z"
-    },
-    {
-      "title": "Hospital Assistant 2",
-      "location": "San Francisco Medical Center",
-      "category": "Support Services",
-      "date": "3/24/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719282",
-      "scraped_at": "2026-03-24T19:02:20.548Z"
-    },
-    {
-      "title": "Hospital Assistant 2",
-      "location": "San Francisco Medical Center",
-      "category": "Support Services",
-      "date": "3/24/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719284",
-      "scraped_at": "2026-03-24T19:02:20.549Z"
-    },
-    {
-      "title": "Hospital Assistant 2 Per Diem",
-      "location": "San Francisco Medical Center",
-      "category": "Support Services",
-      "date": "3/24/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3719287",
-      "scraped_at": "2026-03-24T19:02:20.549Z"
     }
   ]
 }
