@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T18:52:09.598Z",
-  "count": 410,
+  "updated_at": "2026-04-26T02:39:50.666Z",
+  "count": 407,
   "results": [
     {
       "title": "Administrative and Operations Coordinator (4800C) #85819",
@@ -3257,30 +3257,6 @@
       "date": "3/28/2026",
       "url": "https://careers-uci.icims.com/jobs/146306/job",
       "scraped_at": "2026-03-29T18:41:30.996Z"
-    },
-    {
-      "title": "Peer Case Manager",
-      "location": "San Francisco",
-      "category": "N/A",
-      "date": "3/27/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3704218",
-      "scraped_at": "2026-03-27T18:55:07.671Z"
-    },
-    {
-      "title": "Polysomnographic Technologist (PRN)",
-      "location": "San Francisco",
-      "category": "Clinical Laboratory Services",
-      "date": "3/27/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3709534",
-      "scraped_at": "2026-03-27T18:55:07.672Z"
-    },
-    {
-      "title": "Registered Nurse",
-      "location": "San Francisco Medical Center",
-      "category": "Nursing",
-      "date": "3/27/2026",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=6495&siteid=5861&jobid=3721634",
-      "scraped_at": "2026-03-27T18:55:07.673Z"
     }
   ]
 }
