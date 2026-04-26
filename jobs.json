@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-26T13:04:35.913Z",
-  "count": 407,
+  "updated_at": "2026-04-26T18:53:46.020Z",
+  "count": 408,
   "results": [
+    {
+      "title": "Staff Research Associate",
+      "location": "San Diego",
+      "category": "Clinical Laboratory Services",
+      "date": "4/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=TP139450",
+      "scraped_at": "2026-04-26T18:53:46.019Z"
+    },
     {
       "title": "Administrative and Operations Coordinator (4800C) #85819",
       "location": "Berkeley",
