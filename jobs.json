@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-27T08:23:45.379Z",
-  "count": 396,
+  "updated_at": "2026-04-27T13:51:10.447Z",
+  "count": 399,
   "results": [
+    {
+      "title": "GI Endoscopy Technician 2 - Special Procedures",
+      "location": "San Diego Health System",
+      "category": "Clinical Health Services",
+      "date": "4/26/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139451",
+      "scraped_at": "2026-04-27T13:51:10.445Z"
+    },
+    {
+      "title": "Marine eDNA Seagoing Technician",
+      "location": "San Diego",
+      "category": "Clinical Laboratory Services",
+      "date": "4/26/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139086",
+      "scraped_at": "2026-04-27T13:51:10.445Z"
+    },
+    {
+      "title": "Radiology Services Supervisor 2",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "4/26/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=81866&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-04-27T13:51:10.446Z"
+    },
     {
       "title": "Staff Research Associate",
       "location": "San Diego",
