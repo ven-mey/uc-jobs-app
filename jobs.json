@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T19:24:02.233Z",
-  "count": 449,
+  "updated_at": "2026-04-30T02:50:34.778Z",
+  "count": 445,
   "results": [
     {
       "title": "Academic Personnel Analyst",
@@ -3561,38 +3561,6 @@
       "date": "4/1/2026",
       "url": "https://careers-uci.icims.com/jobs/146495/job",
       "scraped_at": "2026-04-01T19:01:08.333Z"
-    },
-    {
-      "title": "(CLS) Clinical Lab Scientist - Clinical Lab",
-      "location": "San Diego Health System",
-      "category": "Clinical Laboratory Services",
-      "date": "3/31/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139057",
-      "scraped_at": "2026-04-01T19:01:08.333Z"
-    },
-    {
-      "title": "Staff Research Associate 1",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Laboratory Services",
-      "date": "3/31/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29603",
-      "scraped_at": "2026-03-31T19:01:29.359Z"
-    },
-    {
-      "title": "Staff Research Associate 1",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Laboratory Services",
-      "date": "3/31/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29604",
-      "scraped_at": "2026-03-31T19:01:29.360Z"
-    },
-    {
-      "title": "Staff Research Associate 1",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Laboratory Services",
-      "date": "3/31/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29647",
-      "scraped_at": "2026-03-31T19:01:29.361Z"
     }
   ]
 }
