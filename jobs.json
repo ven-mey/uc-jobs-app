@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T19:45:05.935Z",
-  "count": 420,
+  "updated_at": "2026-05-07T02:46:51.338Z",
+  "count": 410,
   "results": [
     {
       "title": "(LVN) Sr. Resource Licensed Vocational Nurse",
@@ -3281,86 +3281,6 @@
       "date": "4/8/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85448&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-04-09T19:05:44.269Z"
-    },
-    {
-      "title": "(RN) Registered Nurse - Infusion",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "4/7/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139084",
-      "scraped_at": "2026-04-09T02:10:33.704Z"
-    },
-    {
-      "title": "(SPD) Sterile Processing Tech",
-      "location": "San Diego Health System",
-      "category": "Clinical Support Services",
-      "date": "4/7/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139059",
-      "scraped_at": "2026-04-09T02:10:33.705Z"
-    },
-    {
-      "title": "(SPD) Sterile Processing Tech - La Jolla",
-      "location": "San Diego Health System",
-      "category": "Clinical Support Services",
-      "date": "4/7/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139195",
-      "scraped_at": "2026-04-09T02:10:33.706Z"
-    },
-    {
-      "title": "(SPD) Sterile Processing Tech III",
-      "location": "San Diego Health System",
-      "category": "Clinical Support Services",
-      "date": "4/7/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138993",
-      "scraped_at": "2026-04-09T02:10:33.706Z"
-    },
-    {
-      "title": "Admin Clinical Care Partner- Multi Acute Care- 6West",
-      "location": "Los Angeles Medical Center",
-      "category": "Ambulatory Care Clinics",
-      "date": "4/7/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29903",
-      "scraped_at": "2026-04-09T02:10:33.707Z"
-    },
-    {
-      "title": "Administrative Assistant II, Float - Urology (Westwood)",
-      "location": "Los Angeles Medical Center",
-      "category": "General Administration",
-      "date": "4/7/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30133",
-      "scraped_at": "2026-04-09T02:10:33.707Z"
-    },
-    {
-      "title": "Administrative Assistant II - Neurology",
-      "location": "Los Angeles Medical Center",
-      "category": "General Administration",
-      "date": "4/7/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29846",
-      "scraped_at": "2026-04-09T02:10:33.707Z"
-    },
-    {
-      "title": "Administrative Assistant III - Neurology Clinic",
-      "location": "Los Angeles Medical Center",
-      "category": "General Administration",
-      "date": "4/7/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29854",
-      "scraped_at": "2026-04-09T02:10:33.708Z"
-    },
-    {
-      "title": "Administrative Assistant III - Radiology",
-      "location": "Los Angeles Medical Center",
-      "category": "General Administration",
-      "date": "4/7/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29823",
-      "scraped_at": "2026-04-09T02:10:33.708Z"
-    },
-    {
-      "title": "Battery Cathode Postdoctoral Fellow",
-      "location": "Lawrence Berkeley National Lab",
-      "category": "N/A",
-      "date": "4/7/2026",
-      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=105943",
-      "scraped_at": "2026-04-07T19:02:40.978Z"
     }
   ]
 }
