@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-05-14T08:36:12.799Z",
-  "count": 655,
+  "updated_at": "2026-05-14T14:09:21.554Z",
+  "count": 673,
   "results": [
+    {
+      "title": "(NP) Nurse Practitioner - Concierge Medicine",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "5/13/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139713",
+      "scraped_at": "2026-05-14T14:09:20.269Z"
+    },
+    {
+      "title": "(PA) Sr. Physician Assistant - Concierge Medicine",
+      "location": "San Diego Health System",
+      "category": "Physician",
+      "date": "5/13/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139712",
+      "scraped_at": "2026-05-14T14:09:20.269Z"
+    },
+    {
+      "title": "(RD) Principal Dietitian Supervisor",
+      "location": "San Diego Health System",
+      "category": "Clinical Support Services",
+      "date": "5/13/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139702",
+      "scraped_at": "2026-05-14T14:09:20.269Z"
+    },
+    {
+      "title": "(RD) Registered Dietitian - Inpatient",
+      "location": "San Diego Health System",
+      "category": "Clinical Support Services",
+      "date": "5/13/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139703",
+      "scraped_at": "2026-05-14T14:09:20.270Z"
+    },
+    {
+      "title": "Administrative Assistant II - Ophthalmology, Westwood",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "5/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30868",
+      "scraped_at": "2026-05-14T14:09:20.270Z"
+    },
+    {
+      "title": "Animal Technician",
+      "location": "Irvine",
+      "category": "Clinical Laboratory Services",
+      "date": "5/13/2026",
+      "url": "https://careers-uci.icims.com/jobs/147743/job",
+      "scraped_at": "2026-05-14T14:09:20.270Z"
+    },
+    {
+      "title": "Assistant Director (0374U) Office for Protection of Human Subjects #86223",
+      "location": "Berkeley",
+      "category": "Clinical Research",
+      "date": "5/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86223&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-14T14:09:20.270Z"
+    },
+    {
+      "title": "Assistant Director, Personnel & Recruiting Operations",
+      "location": "Los Angeles",
+      "category": "Sports and Recreation",
+      "date": "5/13/2026",
+      "url": "https://jobs.ucla.edu/jobs/10561",
+      "scraped_at": "2026-05-14T14:09:20.271Z"
+    },
+    {
+      "title": "Assistant Director of Student Services (5156) Job #86244 - The Blum Center for Developing Economies",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "5/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86244&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-14T14:09:20.271Z"
+    },
+    {
+      "title": "Associate Director of Corporate Partnerships (0462U) - College of Engineering",
+      "location": "Berkeley",
+      "category": "Advancement/Fundraising",
+      "date": "5/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86230&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-14T14:09:20.271Z"
+    },
+    {
+      "title": "Bowyer Clinical Social Worker - Simms Mann Center",
+      "location": "Los Angeles Medical Center",
+      "category": "Care Coordination",
+      "date": "5/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30867",
+      "scraped_at": "2026-05-14T14:09:21.551Z"
+    },
+    {
+      "title": "Business Officer",
+      "location": "Santa Barbara",
+      "category": "General Administration",
+      "date": "5/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85445&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-14T14:09:21.551Z"
+    },
+    {
+      "title": "Business Services Manager",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "5/13/2026",
+      "url": "https://careers-uci.icims.com/jobs/83929/job",
+      "scraped_at": "2026-05-14T14:09:21.552Z"
+    },
+    {
+      "title": "Business Systems Analyst (CONTRACT)",
+      "location": "Riverside",
+      "category": "Information Technology",
+      "date": "5/13/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37413674",
+      "scraped_at": "2026-05-14T14:09:21.552Z"
+    },
+    {
+      "title": "Campus Biosafety Officer (0491U), Office of Environment, Health & Safety - #86248",
+      "location": "Berkeley",
+      "category": "Facilities and Environment Health",
+      "date": "5/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86248&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-14T14:09:21.552Z"
+    },
+    {
+      "title": "Cancer Registry abstractor IV - 100% Remote",
+      "location": "Los Angeles Medical Center",
+      "category": "Support Services",
+      "date": "5/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29901",
+      "scraped_at": "2026-05-14T14:09:21.552Z"
+    },
+    {
+      "title": "Central Sterile Technician I - Sterile Processing - FT Mid Shift",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Support Services",
+      "date": "5/13/2026",
+      "url": "https://careers-uci.icims.com/jobs/141077/job",
+      "scraped_at": "2026-05-14T14:09:21.552Z"
+    },
+    {
+      "title": "Certified Phlebotomy Tech - Clinical Lab",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "5/13/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139652",
+      "scraped_at": "2026-05-14T14:09:21.552Z"
+    },
     {
       "title": "Chemist Postdoctoral Scholar",
       "location": "Lawrence Berkeley National Lab",
