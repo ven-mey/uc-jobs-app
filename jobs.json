@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-05-15T08:47:36.211Z",
-  "count": 673,
+  "updated_at": "2026-05-15T14:05:13.142Z",
+  "count": 683,
   "results": [
+    {
+      "title": "Senior Care Physician, Encino",
+      "location": "Los Angeles Medical Center",
+      "category": "Physician",
+      "date": "5/15/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30910",
+      "scraped_at": "2026-05-15T14:05:11.678Z"
+    },
+    {
+      "title": "(NP) Nurse Practitioner II - Hepatology",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "5/14/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139725",
+      "scraped_at": "2026-05-15T14:05:11.679Z"
+    },
+    {
+      "title": "(RN) Assistant Nurse Manager, Hillcrest OR",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "5/14/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139636",
+      "scraped_at": "2026-05-15T14:05:11.680Z"
+    },
+    {
+      "title": "(RN) Assistant Nurse Manager - IR",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "5/14/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139741",
+      "scraped_at": "2026-05-15T14:05:11.680Z"
+    },
+    {
+      "title": "Administrative Assistant - Kidney Transplant, Westwood",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "5/14/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30579",
+      "scraped_at": "2026-05-15T14:05:11.680Z"
+    },
+    {
+      "title": "Administrative Assistant 3",
+      "location": "Davis",
+      "category": "General Administration",
+      "date": "5/14/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=82848&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-15T14:05:11.680Z"
+    },
+    {
+      "title": "Angiography Technologist",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "5/14/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84458&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-15T14:05:11.680Z"
+    },
+    {
+      "title": "ASC PHYSCN DIPLOMATE - For HR Use Only",
+      "location": "Davis",
+      "category": "Physician",
+      "date": "5/14/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86282&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-15T14:05:11.681Z"
+    },
+    {
+      "title": "Assistant Clinical Research Coordinator - Hematology/Oncology",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "5/14/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30374",
+      "scraped_at": "2026-05-15T14:05:11.681Z"
+    },
+    {
+      "title": "Assistant Dean of Academic Advising and Operations",
+      "location": "Santa Barbara",
+      "category": "Student Services",
+      "date": "5/14/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86260&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-15T14:05:11.681Z"
+    },
     {
       "title": "(NP) Nurse Practitioner - Concierge Medicine",
       "location": "San Diego Health System",
