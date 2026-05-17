@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-17T13:18:10.145Z",
-  "count": 681,
+  "updated_at": "2026-05-17T19:07:11.394Z",
+  "count": 682,
   "results": [
+    {
+      "title": "Musician 3",
+      "location": "Los Angeles",
+      "category": "Arts",
+      "date": "5/16/2026",
+      "url": "https://jobs.ucla.edu/jobs/10551",
+      "scraped_at": "2026-05-17T19:07:11.392Z"
+    },
     {
       "title": "Administrative Operations Manager",
       "location": "Los Angeles",
