@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T19:07:11.394Z",
-  "count": 682,
+  "updated_at": "2026-05-18T03:36:20.532Z",
+  "count": 681,
   "results": [
     {
       "title": "Musician 3",
@@ -5449,14 +5449,6 @@
       "date": "4/19/2026",
       "url": "https://uclahealth.avature.net/careers/JobDetail/28575",
       "scraped_at": "2026-04-20T19:07:15.896Z"
-    },
-    {
-      "title": "Patient Services Representative 3",
-      "location": "Davis Health System",
-      "category": "Support Services",
-      "date": "4/18/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=83756&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-04-19T04:08:08.524Z"
     }
   ]
 }
