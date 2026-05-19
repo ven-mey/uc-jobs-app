@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-18T19:43:27.150Z",
-  "count": 686,
+  "updated_at": "2026-05-19T03:29:25.259Z",
+  "count": 685,
   "results": [
     {
       "title": "Security Officer - Culver City",
@@ -5480,14 +5480,6 @@
       "category": "Support Services",
       "date": "4/20/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85429&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-04-20T19:07:15.896Z"
-    },
-    {
-      "title": "Surgical Tech-Westwood Surgery Center",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Health Services",
-      "date": "4/19/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/28575",
       "scraped_at": "2026-04-20T19:07:15.896Z"
     }
   ]
