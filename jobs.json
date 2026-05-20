@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-05-20T09:31:23.908Z",
-  "count": 679,
+  "updated_at": "2026-05-20T15:17:40.181Z",
+  "count": 693,
   "results": [
+    {
+      "title": "Electrochemical Engineering Postdoctoral Scholar",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "Clinical Laboratory Services",
+      "date": "5/20/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=106584",
+      "scraped_at": "2026-05-20T15:17:38.812Z"
+    },
+    {
+      "title": "Academic HR Analyst 2",
+      "location": "Davis",
+      "category": "Human Resources",
+      "date": "5/19/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86162&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-20T15:17:38.813Z"
+    },
+    {
+      "title": "Academic HR Analyst 3",
+      "location": "Davis",
+      "category": "Human Resources",
+      "date": "5/19/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86163&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-20T15:17:38.813Z"
+    },
+    {
+      "title": "Academic Initiatives Coordinator",
+      "location": "Los Angeles",
+      "category": "N/A",
+      "date": "5/19/2026",
+      "url": "https://jobs.ucla.edu/jobs/10580",
+      "scraped_at": "2026-05-20T15:17:38.813Z"
+    },
+    {
+      "title": "AI Engineering Lead",
+      "location": "Riverside",
+      "category": "Information Technology",
+      "date": "5/19/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37325788",
+      "scraped_at": "2026-05-20T15:17:38.814Z"
+    },
+    {
+      "title": "Assistant Lead Teacher",
+      "location": "Los Angeles",
+      "category": "Instructional Services",
+      "date": "5/19/2026",
+      "url": "https://jobs.ucla.edu/jobs/10591",
+      "scraped_at": "2026-05-20T15:17:38.814Z"
+    },
+    {
+      "title": "Associate Director of Applications Development",
+      "location": "Los Angeles",
+      "category": "Information Technology",
+      "date": "5/19/2026",
+      "url": "https://jobs.ucla.edu/jobs/10581",
+      "scraped_at": "2026-05-20T15:17:38.814Z"
+    },
+    {
+      "title": "Associate Director of the Office of Public Interest Counseling",
+      "location": "Los Angeles",
+      "category": "N/A",
+      "date": "5/19/2026",
+      "url": "https://jobs.ucla.edu/jobs/10584",
+      "scraped_at": "2026-05-20T15:17:38.814Z"
+    },
+    {
+      "title": "Center Manager",
+      "location": "Los Angeles",
+      "category": "General Services",
+      "date": "5/19/2026",
+      "url": "https://jobs.ucla.edu/jobs/10589",
+      "scraped_at": "2026-05-20T15:17:38.814Z"
+    },
+    {
+      "title": "Clerkship Coordinator",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "5/19/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=TP139778",
+      "scraped_at": "2026-05-20T15:17:38.814Z"
+    },
+    {
+      "title": "Clinical Nurse II - Cardiac Care ICU - FT, Nights",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "5/19/2026",
+      "url": "https://careers-uci.icims.com/jobs/146988/job",
+      "scraped_at": "2026-05-20T15:17:40.179Z"
+    },
+    {
+      "title": "Clinical Nurse II - ICU Irvine - FT, Nights",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "5/19/2026",
+      "url": "https://careers-uci.icims.com/jobs/147900/job",
+      "scraped_at": "2026-05-20T15:17:40.180Z"
+    },
+    {
+      "title": "Clinical Research Supervisor",
+      "location": "Irvine",
+      "category": "Clinical Laboratory Services",
+      "date": "5/19/2026",
+      "url": "https://careers-uci.icims.com/jobs/147744/job",
+      "scraped_at": "2026-05-20T15:17:40.180Z"
+    },
+    {
+      "title": "Clinical Study Initiation (CSI) Analyst",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "5/19/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30517",
+      "scraped_at": "2026-05-20T15:17:40.180Z"
+    },
     {
       "title": "Security Officer - CARE on Roxbury",
       "location": "Los Angeles Medical Center",
