@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T19:15:27.825Z",
-  "count": 671,
+  "updated_at": "2026-05-25T03:42:25.033Z",
+  "count": 670,
   "results": [
     {
       "title": "Assistant Director of Academic Affairs",
@@ -5361,14 +5361,6 @@
       "date": "4/26/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=81866&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-04-27T13:51:10.446Z"
-    },
-    {
-      "title": "Staff Research Associate",
-      "location": "San Diego",
-      "category": "Clinical Laboratory Services",
-      "date": "4/25/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=TP139450",
-      "scraped_at": "2026-04-26T18:53:46.019Z"
     }
   ]
 }
