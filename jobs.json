@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-05-26T09:54:48.507Z",
-  "count": 667,
+  "updated_at": "2026-05-26T15:23:54.834Z",
+  "count": 675,
   "results": [
+    {
+      "title": "Security Officer - Century City",
+      "location": "Los Angeles Medical Center",
+      "category": "Public Safety and Security",
+      "date": "5/26/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30842",
+      "scraped_at": "2026-05-26T15:23:54.828Z"
+    },
+    {
+      "title": "Senior Custodian - Roxbury Dr.",
+      "location": "Los Angeles Medical Center",
+      "category": "Custodial Services",
+      "date": "5/26/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30750",
+      "scraped_at": "2026-05-26T15:23:54.829Z"
+    },
+    {
+      "title": "Clinical Nurse II-Stepdown Float Pool Orange & Irvine-FT Day Shift",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "5/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/147859/job",
+      "scraped_at": "2026-05-26T15:23:54.829Z"
+    },
+    {
+      "title": "Clinical Nurse II-Stepdown Float Pool Orange & Irvine-FT Night Shift",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "5/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/147864/job",
+      "scraped_at": "2026-05-26T15:23:54.829Z"
+    },
+    {
+      "title": "CT Technologist",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "5/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=78656&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-05-26T15:23:54.830Z"
+    },
+    {
+      "title": "Per Diem Nurse-Stepdown Float Pool Orange & Irvine-Day Shift",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "5/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/147803/job",
+      "scraped_at": "2026-05-26T15:23:54.830Z"
+    },
+    {
+      "title": "Per Diem Nurse-Stepdown Float Pool Orange & Irvine-Night Shift",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "5/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/147802/job",
+      "scraped_at": "2026-05-26T15:23:54.830Z"
+    },
+    {
+      "title": "Sr. Business Intelligence Developer/Hybrid",
+      "location": "San Diego Health System",
+      "category": "General Administration",
+      "date": "5/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139825",
+      "scraped_at": "2026-05-26T15:23:54.831Z"
+    },
     {
       "title": "Assistant Director of Academic Affairs",
       "location": "Riverside",
