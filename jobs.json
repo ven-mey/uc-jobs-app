@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-28T10:02:30.100Z",
-  "count": 656,
+  "updated_at": "2026-05-28T15:51:27.991Z",
+  "count": 659,
   "results": [
+    {
+      "title": "(NP) Nurse Practitioner - Lung Transplant",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "5/27/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139790",
+      "scraped_at": "2026-05-28T15:51:27.989Z"
+    },
+    {
+      "title": "(PA) Sr. Physician Assistant - Lung Transplant",
+      "location": "San Diego Health System",
+      "category": "Physician",
+      "date": "5/27/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139791",
+      "scraped_at": "2026-05-28T15:51:27.990Z"
+    },
+    {
+      "title": "(RN) Assistant Director, Care Connections Hub",
+      "location": "San Diego Health System",
+      "category": "Care Coordination",
+      "date": "5/27/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139829",
+      "scraped_at": "2026-05-28T15:51:27.990Z"
+    },
     {
       "title": "Administrative Assistant 3",
       "location": "Davis Health System",
