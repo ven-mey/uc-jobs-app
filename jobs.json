@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T20:23:34.565Z",
-  "count": 722,
+  "updated_at": "2026-05-30T02:57:07.088Z",
+  "count": 714,
   "results": [
     {
       "title": "(LVN) Licensed Vocational Nurse - Family Medicine",
@@ -5713,70 +5713,6 @@
       "date": "5/1/2026",
       "url": "https://careers-uci.icims.com/jobs/147468/job",
       "scraped_at": "2026-05-01T19:10:47.384Z"
-    },
-    {
-      "title": "(LVN) Sr. Licensed Vocational Nurse -  Occ Med",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "4/30/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=137789",
-      "scraped_at": "2026-05-01T19:10:47.384Z"
-    },
-    {
-      "title": "(RN) Nurse Supervisor - Infusion Services",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "4/30/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139459",
-      "scraped_at": "2026-05-01T19:10:47.385Z"
-    },
-    {
-      "title": "Accessibility and Inclusion Assessment Specialist",
-      "location": "Santa Cruz",
-      "category": "Instructional Services",
-      "date": "4/30/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85968&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-01T19:10:47.385Z"
-    },
-    {
-      "title": "Administrative Officer (4800C) - Richmond Field Station",
-      "location": "Berkeley",
-      "category": "N/A",
-      "date": "4/30/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85870&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-01T19:10:47.385Z"
-    },
-    {
-      "title": "Ally Care Team (ACT) Supervisor (6811U) University Health Services #85986",
-      "location": "Berkeley",
-      "category": "Counseling and Psychology",
-      "date": "4/30/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85986&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-01T19:10:47.385Z"
-    },
-    {
-      "title": "Applications Program Manager (7300U), Linguistics - #85852",
-      "location": "Berkeley",
-      "category": "Information Technology",
-      "date": "4/30/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85852&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-01T19:10:48.888Z"
-    },
-    {
-      "title": "Assistant Development Engineer (RSCH AND DEV ENGR 2 TX)",
-      "location": "Davis",
-      "category": "N/A",
-      "date": "4/30/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85931&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-01T19:10:48.889Z"
-    },
-    {
-      "title": "Assistant Director, Central Coast Clinic Operations",
-      "location": "Los Angeles Medical Center",
-      "category": "Ambulatory Care Clinics",
-      "date": "4/30/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/29789",
-      "scraped_at": "2026-04-30T13:52:15.465Z"
     }
   ]
 }
