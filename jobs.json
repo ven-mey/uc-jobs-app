@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-31T08:43:23.221Z",
-  "count": 724,
+  "updated_at": "2026-05-31T13:42:53.466Z",
+  "count": 726,
   "results": [
+    {
+      "title": "(RN) Assistant Director, Nursing Clinical Practice",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "5/30/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139837",
+      "scraped_at": "2026-05-31T13:42:53.462Z"
+    },
+    {
+      "title": "Security Dispatch Operations Manager - Ronald Reagan UCLA Medical Center",
+      "location": "Los Angeles Medical Center",
+      "category": "Public Safety and Security",
+      "date": "5/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29898",
+      "scraped_at": "2026-05-31T13:42:53.463Z"
+    },
     {
       "title": "(RN) Assistant Nurse Manager - Hillcrest ICU",
       "location": "San Diego Health System",
