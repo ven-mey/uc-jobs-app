@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-06-01T11:31:12.092Z",
-  "count": 726,
+  "updated_at": "2026-06-01T17:37:19.643Z",
+  "count": 737,
   "results": [
+    {
+      "title": "Custodial Manager - Ambulatory Sites",
+      "location": "Los Angeles Medical Center",
+      "category": "Custodial Services",
+      "date": "6/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30680",
+      "scraped_at": "2026-06-01T17:37:18.312Z"
+    },
+    {
+      "title": "Security Officer, Per-Diem - North Hollywood (weekends)",
+      "location": "Los Angeles Medical Center",
+      "category": "Public Safety and Security",
+      "date": "6/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28042",
+      "scraped_at": "2026-06-01T17:37:18.313Z"
+    },
+    {
+      "title": "Security Officer - North Hollywood",
+      "location": "Los Angeles Medical Center",
+      "category": "Public Safety and Security",
+      "date": "6/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/28043",
+      "scraped_at": "2026-06-01T17:37:18.313Z"
+    },
+    {
+      "title": "Senior Custodian - Colorado St. SM",
+      "location": "Los Angeles Medical Center",
+      "category": "Custodial Services",
+      "date": "6/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30638",
+      "scraped_at": "2026-06-01T17:37:18.314Z"
+    },
+    {
+      "title": "Senior Custodian - Porter Ranch",
+      "location": "Los Angeles Medical Center",
+      "category": "Custodial Services",
+      "date": "6/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30631",
+      "scraped_at": "2026-06-01T17:37:18.314Z"
+    },
+    {
+      "title": "Senior Custodian - Ronald Reagan Medical Center",
+      "location": "Los Angeles Medical Center",
+      "category": "Custodial Services",
+      "date": "6/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30666",
+      "scraped_at": "2026-06-01T17:37:18.314Z"
+    },
+    {
+      "title": "Temporary Administrative Positions",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "6/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/148165/job",
+      "scraped_at": "2026-06-01T17:37:18.314Z"
+    },
+    {
+      "title": "Temporary Admitting Worker Positions",
+      "location": "Irvine",
+      "category": "Support Services",
+      "date": "6/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/148162/job",
+      "scraped_at": "2026-06-01T17:37:18.315Z"
+    },
+    {
+      "title": "Temporary Licensed Vocational Nurse Positions",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "6/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/148163/job",
+      "scraped_at": "2026-06-01T17:37:18.315Z"
+    },
+    {
+      "title": "Temporary Medical Assistant Positions",
+      "location": "Irvine",
+      "category": "Ambulatory Care Clinics",
+      "date": "6/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/148164/job",
+      "scraped_at": "2026-06-01T17:37:18.315Z"
+    },
+    {
+      "title": "Radiology Technologist Principal",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "5/31/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=80639&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-01T17:37:19.642Z"
+    },
     {
       "title": "(RN) Assistant Director, Nursing Clinical Practice",
       "location": "San Diego Health System",
