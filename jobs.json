@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-06-02T10:21:58.522Z",
-  "count": 737,
+  "updated_at": "2026-06-02T16:22:26.379Z",
+  "count": 746,
   "results": [
+    {
+      "title": "(RN) Registered Nurse - College Mental Health",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "6/1/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139923",
+      "scraped_at": "2026-06-02T16:22:26.373Z"
+    },
+    {
+      "title": "Academic HR Analyst (6414C) - Materials Science & Engineering",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "6/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86609&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-02T16:22:26.374Z"
+    },
+    {
+      "title": "Assistant Athletic Director, Development (0463U), Intercollegiate Athletics #86626",
+      "location": "Berkeley",
+      "category": "Advancement/Fundraising",
+      "date": "6/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86626&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-02T16:22:26.374Z"
+    },
+    {
+      "title": "Certified Phlebotomy Technician I",
+      "location": "Los Angeles",
+      "category": "Clinical Laboratory Services",
+      "date": "6/1/2026",
+      "url": "https://jobs.ucla.edu/jobs/10676",
+      "scraped_at": "2026-06-02T16:22:26.375Z"
+    },
+    {
+      "title": "Claims Supervisor - Hybrid",
+      "location": "San Diego Health System",
+      "category": "Health Care Administration",
+      "date": "6/1/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139765",
+      "scraped_at": "2026-06-02T16:22:26.375Z"
+    },
+    {
+      "title": "Clinical Research Coordinator - Pathology",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "6/1/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139930",
+      "scraped_at": "2026-06-02T16:22:26.375Z"
+    },
+    {
+      "title": "Clinical Social Worker - East Campus ED",
+      "location": "San Diego Health System",
+      "category": "Care Coordination",
+      "date": "6/1/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139681",
+      "scraped_at": "2026-06-02T16:22:26.376Z"
+    },
+    {
+      "title": "Clinical Social Worker - Transitional Support Team",
+      "location": "San Diego Health System",
+      "category": "Care Coordination",
+      "date": "6/1/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139891",
+      "scraped_at": "2026-06-02T16:22:26.376Z"
+    },
+    {
+      "title": "Credit Refund Specialist - Remote",
+      "location": "San Diego Health System",
+      "category": "Finance",
+      "date": "6/1/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139701",
+      "scraped_at": "2026-06-02T16:22:26.376Z"
+    },
     {
       "title": "Custodial Manager - Ambulatory Sites",
       "location": "Los Angeles Medical Center",
