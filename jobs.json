@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T20:47:13.835Z",
-  "count": 746,
+  "updated_at": "2026-06-03T04:00:29.209Z",
+  "count": 739,
   "results": [
     {
       "title": "(RN) Registered Nurse - College Mental Health",
@@ -5913,62 +5913,6 @@
       "date": "5/5/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=83742&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-05-06T14:09:02.840Z"
-    },
-    {
-      "title": "(RN) Registered Nurse - Women's Specialties",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "5/4/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139507",
-      "scraped_at": "2026-05-05T13:52:54.835Z"
-    },
-    {
-      "title": "Administrative Assistant II - Westwood PTU",
-      "location": "Los Angeles Medical Center",
-      "category": "General Administration",
-      "date": "5/4/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30418",
-      "scraped_at": "2026-05-05T13:52:54.835Z"
-    },
-    {
-      "title": "AgTech Program Manager - Davis or Irvine, CA, Job ID 86067",
-      "location": "Agriculture and Natural Resources",
-      "category": "N/A",
-      "date": "5/4/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucanr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86067&PostingSeq=1&SiteId=17&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-05T13:52:54.836Z"
-    },
-    {
-      "title": "Assistant Statistician",
-      "location": "Los Angeles",
-      "category": "Clinical Research",
-      "date": "5/4/2026",
-      "url": "https://jobs.ucla.edu/jobs/10456",
-      "scraped_at": "2026-05-05T13:52:54.836Z"
-    },
-    {
-      "title": "Associate Director - Davis, CA, Job ID 86026",
-      "location": "Agriculture and Natural Resources",
-      "category": "Clinical Research",
-      "date": "5/4/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucanr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86026&PostingSeq=1&SiteId=17&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-05T13:52:54.836Z"
-    },
-    {
-      "title": "Biller III - HB Patient Financial Services - FT-Days",
-      "location": "Irvine Healthcare",
-      "category": "Finance",
-      "date": "5/4/2026",
-      "url": "https://careers-uci.icims.com/jobs/111225/job",
-      "scraped_at": "2026-05-05T13:52:54.837Z"
-    },
-    {
-      "title": "Business Continuity Planner",
-      "location": "Davis Health System",
-      "category": "Facilities and Environment Health",
-      "date": "5/4/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85888&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-05T13:52:54.837Z"
     }
   ]
 }
