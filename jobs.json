@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-08T10:51:51.027Z",
-  "count": 683,
+  "updated_at": "2026-06-08T15:49:44.347Z",
+  "count": 684,
   "results": [
+    {
+      "title": "Radiology Assistant 1",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "6/7/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86565&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-08T15:49:44.342Z"
+    },
     {
       "title": "Assistant Women's Volleyball Coach (COACH AST 3)",
       "location": "Davis",
