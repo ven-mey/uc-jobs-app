@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T20:28:13.932Z",
-  "count": 731,
+  "updated_at": "2026-06-11T03:54:01.672Z",
+  "count": 727,
   "results": [
     {
       "title": "Infectious Disease Transition Services (IDTS) RN Navigator",
@@ -5817,38 +5817,6 @@
       "date": "5/13/2026",
       "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=106500",
       "scraped_at": "2026-05-13T14:31:41.092Z"
-    },
-    {
-      "title": "(LVN) Resource Vocational Nurse - Triton Pavilion",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "5/12/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139646",
-      "scraped_at": "2026-05-13T14:31:41.093Z"
-    },
-    {
-      "title": "(RN) Registered Nurse-East Campus Operating Room",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "5/12/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=139029",
-      "scraped_at": "2026-05-13T14:31:41.093Z"
-    },
-    {
-      "title": "Admin/Clinical Care Partner- Emergency Overflow Unit (Med Surg/Telemetry) - Westwood",
-      "location": "Los Angeles Medical Center",
-      "category": "Ambulatory Care Clinics",
-      "date": "5/12/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30594",
-      "scraped_at": "2026-05-13T14:31:41.093Z"
-    },
-    {
-      "title": "Administrative Assistant II - Neurology Clinic",
-      "location": "Los Angeles Medical Center",
-      "category": "General Administration",
-      "date": "5/12/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30491",
-      "scraped_at": "2026-05-13T14:31:41.094Z"
     }
   ]
 }
