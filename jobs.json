@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T19:24:53.266Z",
-  "count": 745,
+  "updated_at": "2026-06-15T04:11:18.823Z",
+  "count": 744,
   "results": [
     {
       "title": "(LVN) Sr. Licensed Vocational Nurse - Concierge",
@@ -5953,14 +5953,6 @@
       "date": "5/18/2026",
       "url": "https://uclahealth.avature.net/careers/JobDetail/30323",
       "scraped_at": "2026-05-18T15:30:18.621Z"
-    },
-    {
-      "title": "Musician 3",
-      "location": "Los Angeles",
-      "category": "Arts",
-      "date": "5/16/2026",
-      "url": "https://jobs.ucla.edu/jobs/10551",
-      "scraped_at": "2026-05-17T19:07:11.392Z"
     }
   ]
 }
