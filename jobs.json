@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-15T20:54:06.248Z",
-  "count": 744,
+  "updated_at": "2026-06-16T04:01:05.881Z",
+  "count": 745,
   "results": [
+    {
+      "title": "Storekeeper - La Jolla Medical Center",
+      "location": "San Diego Health System",
+      "category": "General Services",
+      "date": "6/14/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140099",
+      "scraped_at": "2026-06-16T04:01:05.877Z"
+    },
     {
       "title": "(LVN) Sr. Licensed Vocational Nurse - Concierge",
       "location": "San Diego Health System",
