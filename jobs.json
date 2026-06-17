@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T20:48:58.614Z",
-  "count": 819,
+  "updated_at": "2026-06-17T04:02:06.719Z",
+  "count": 807,
   "results": [
     {
       "title": "(RN) Registered Nurse - Transplant Coordinator",
@@ -6457,102 +6457,6 @@
       "date": "5/19/2026",
       "url": "https://uclahealth.avature.net/careers/JobDetail/30427",
       "scraped_at": "2026-05-19T15:18:30.227Z"
-    },
-    {
-      "title": "A&L Patron Experience Manager",
-      "location": "Santa Barbara",
-      "category": "Event Services",
-      "date": "5/18/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86348&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-19T15:18:30.227Z"
-    },
-    {
-      "title": "Academic Personnel Analyst I - Surgery",
-      "location": "Los Angeles Medical Center",
-      "category": "Human Resources",
-      "date": "5/18/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30300",
-      "scraped_at": "2026-05-19T15:18:30.227Z"
-    },
-    {
-      "title": "Administrative Supervisor 2 - Outreach/Referral Lab- FT Day Shift",
-      "location": "Irvine Healthcare",
-      "category": "General Administration",
-      "date": "5/18/2026",
-      "url": "https://careers-uci.icims.com/jobs/147384/job",
-      "scraped_at": "2026-05-19T15:18:30.228Z"
-    },
-    {
-      "title": "Administrator Officer",
-      "location": "Davis",
-      "category": "N/A",
-      "date": "5/18/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86333&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-19T15:18:30.228Z"
-    },
-    {
-      "title": "ASC PHYSCN - For HR Use Only",
-      "location": "Davis",
-      "category": "Physician",
-      "date": "5/18/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86326&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-19T15:18:30.228Z"
-    },
-    {
-      "title": "ASC PHYSCN - For HR Use Only",
-      "location": "Davis",
-      "category": "Physician",
-      "date": "5/18/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86341&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-05-19T15:18:30.228Z"
-    },
-    {
-      "title": "Assistant Assoc. Athletic Director, Finance",
-      "location": "Irvine",
-      "category": "Finance",
-      "date": "5/18/2026",
-      "url": "https://careers-uci.icims.com/jobs/147865/job",
-      "scraped_at": "2026-05-19T15:18:30.228Z"
-    },
-    {
-      "title": "Security Officer - Culver City",
-      "location": "Los Angeles Medical Center",
-      "category": "Public Safety and Security",
-      "date": "5/18/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30327",
-      "scraped_at": "2026-05-18T15:30:18.620Z"
-    },
-    {
-      "title": "Security Officer - North Hollywood",
-      "location": "Los Angeles Medical Center",
-      "category": "Public Safety and Security",
-      "date": "5/18/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30325",
-      "scraped_at": "2026-05-18T15:30:18.620Z"
-    },
-    {
-      "title": "Security Officer - Thousand Oaks Hampshire",
-      "location": "Los Angeles Medical Center",
-      "category": "Public Safety and Security",
-      "date": "5/18/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30324",
-      "scraped_at": "2026-05-18T15:30:18.621Z"
-    },
-    {
-      "title": "Security Officer - Thousand Oaks Hampshire",
-      "location": "Los Angeles Medical Center",
-      "category": "Public Safety and Security",
-      "date": "5/18/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30328",
-      "scraped_at": "2026-05-18T15:30:18.621Z"
-    },
-    {
-      "title": "Security Officer - Woodland Hills",
-      "location": "Los Angeles Medical Center",
-      "category": "Public Safety and Security",
-      "date": "5/18/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30323",
-      "scraped_at": "2026-05-18T15:30:18.621Z"
     }
   ]
 }
