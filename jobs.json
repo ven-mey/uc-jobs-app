@@ -1,7 +1,143 @@
 {
-  "updated_at": "2026-06-19T10:24:26.018Z",
-  "count": 900,
+  "updated_at": "2026-06-19T15:13:23.249Z",
+  "count": 917,
   "results": [
+    {
+      "title": "Academic HR Analyst - Limited",
+      "location": "Irvine",
+      "category": "N/A",
+      "date": "6/18/2026",
+      "url": "https://careers-uci.icims.com/jobs/148677/job",
+      "scraped_at": "2026-06-19T15:13:21.860Z"
+    },
+    {
+      "title": "Academic Programs Coordinator",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "6/18/2026",
+      "url": "https://careers-uci.icims.com/jobs/148716/job",
+      "scraped_at": "2026-06-19T15:13:21.860Z"
+    },
+    {
+      "title": "ADMINISTRATIVE ASSISTANT",
+      "location": "Office of the President",
+      "category": "General Administration",
+      "date": "6/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucop/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86976&PostingSeq=1&SiteId=19&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-19T15:13:21.861Z"
+    },
+    {
+      "title": "Administrative Assistant III (Engineering Division)",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "General Administration",
+      "date": "6/18/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=106497",
+      "scraped_at": "2026-06-19T15:13:21.861Z"
+    },
+    {
+      "title": "Assistant Clinical Research Coordinator - Pediatrics",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "6/18/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/29491",
+      "scraped_at": "2026-06-19T15:13:21.861Z"
+    },
+    {
+      "title": "Assistant Coach",
+      "location": "Los Angeles",
+      "category": "Sports and Recreation",
+      "date": "6/18/2026",
+      "url": "https://jobs.ucla.edu/jobs/10842",
+      "scraped_at": "2026-06-19T15:13:21.861Z"
+    },
+    {
+      "title": "Assistant Coach",
+      "location": "Los Angeles",
+      "category": "Sports and Recreation",
+      "date": "6/18/2026",
+      "url": "https://jobs.ucla.edu/jobs/10843",
+      "scraped_at": "2026-06-19T15:13:21.861Z"
+    },
+    {
+      "title": "Assistant Coach",
+      "location": "Los Angeles",
+      "category": "Sports and Recreation",
+      "date": "6/18/2026",
+      "url": "https://jobs.ucla.edu/jobs/10844",
+      "scraped_at": "2026-06-19T15:13:21.862Z"
+    },
+    {
+      "title": "Assistant Coach/Director of Basketball Operations",
+      "location": "San Diego",
+      "category": "Sports and Recreation",
+      "date": "6/18/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140182",
+      "scraped_at": "2026-06-19T15:13:21.862Z"
+    },
+    {
+      "title": "Assistant Nurse Manager - Cardiology (NURSE SVC SUPV 2)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "6/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=84130&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-19T15:13:21.862Z"
+    },
+    {
+      "title": "Certified Phlebotomy Tech - Clinical Lab",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "6/18/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140080",
+      "scraped_at": "2026-06-19T15:13:23.247Z"
+    },
+    {
+      "title": "Clinical Informatics Specialist 4",
+      "location": "Davis Health System",
+      "category": "N/A",
+      "date": "6/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86951&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-19T15:13:23.247Z"
+    },
+    {
+      "title": "Clinical Lab Scientist - Cell Therapy Lab",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "6/18/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31267",
+      "scraped_at": "2026-06-19T15:13:23.247Z"
+    },
+    {
+      "title": "Contract Analyst/Officer, VC Health Sciences",
+      "location": "San Diego Health System",
+      "category": "Clinical Research",
+      "date": "6/18/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140189",
+      "scraped_at": "2026-06-19T15:13:23.247Z"
+    },
+    {
+      "title": "Data Systems Analyst 4",
+      "location": "Davis Health System",
+      "category": "Information Technology",
+      "date": "6/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86952&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-19T15:13:23.248Z"
+    },
+    {
+      "title": "Development Associate (7546U) - College of Engineering",
+      "location": "Berkeley",
+      "category": "Advancement/Fundraising",
+      "date": "6/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87027&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-19T15:13:23.248Z"
+    },
+    {
+      "title": "Dining Cook",
+      "location": "Santa Cruz",
+      "category": "Food Services",
+      "date": "6/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86983&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-19T15:13:23.248Z"
+    },
     {
       "title": "Director of Investigations & Resolutions",
       "location": "Los Angeles",
