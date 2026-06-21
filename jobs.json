@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-21T09:48:06.192Z",
-  "count": 829,
+  "updated_at": "2026-06-21T14:08:23.221Z",
+  "count": 831,
   "results": [
+    {
+      "title": "Chief of Staff to the Chancellor (EXEC ADVISOR MGR 3)",
+      "location": "Davis",
+      "category": "General Administration",
+      "date": "6/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=85172&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-21T14:08:23.216Z"
+    },
+    {
+      "title": "PRINCIPAL COUNSEL, INVESTMENT TRANSACTIONS",
+      "location": "Office of the President",
+      "category": "Legal",
+      "date": "6/20/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucop/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86980&PostingSeq=1&SiteId=19&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-21T14:08:23.217Z"
+    },
     {
       "title": "Application Programmer",
       "location": "Irvine",
