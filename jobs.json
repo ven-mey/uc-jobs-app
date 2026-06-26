@@ -1,7 +1,175 @@
 {
-  "updated_at": "2026-06-26T09:24:00.273Z",
-  "count": 877,
+  "updated_at": "2026-06-26T14:22:17.311Z",
+  "count": 898,
   "results": [
+    {
+      "title": "(CLS) Clinical Lab Scientist",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "6/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140263",
+      "scraped_at": "2026-06-26T14:22:14.409Z"
+    },
+    {
+      "title": "(RN) Registered Nurse - Interventional Radiology",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "6/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140280",
+      "scraped_at": "2026-06-26T14:22:14.410Z"
+    },
+    {
+      "title": "Academic Counselor",
+      "location": "Los Angeles",
+      "category": "N/A",
+      "date": "6/25/2026",
+      "url": "https://jobs.ucla.edu/jobs/10849",
+      "scraped_at": "2026-06-26T14:22:14.410Z"
+    },
+    {
+      "title": "AI Education Applications Developer",
+      "location": "Irvine",
+      "category": "Information Technology",
+      "date": "6/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/148851/job",
+      "scraped_at": "2026-06-26T14:22:14.411Z"
+    },
+    {
+      "title": "Assistant Clinical Research Coordinator - Hematology/Oncology",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "6/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31691",
+      "scraped_at": "2026-06-26T14:22:14.411Z"
+    },
+    {
+      "title": "Assistant Coach",
+      "location": "Los Angeles",
+      "category": "Sports and Recreation",
+      "date": "6/25/2026",
+      "url": "https://jobs.ucla.edu/jobs/10891",
+      "scraped_at": "2026-06-26T14:22:14.411Z"
+    },
+    {
+      "title": "Assistant Director, Housing Maintenance Operations, Physical Plant",
+      "location": "Los Angeles",
+      "category": "General Services",
+      "date": "6/25/2026",
+      "url": "https://jobs.ucla.edu/jobs/10865",
+      "scraped_at": "2026-06-26T14:22:14.411Z"
+    },
+    {
+      "title": "Assistant Director for Student Life and Engagement/Intercultural (On-Site)",
+      "location": "Merced",
+      "category": "N/A",
+      "date": "6/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87139&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-26T14:22:14.413Z"
+    },
+    {
+      "title": "Assistant Director of Corporate Partnerships (7547U) - College of Engineering",
+      "location": "Berkeley",
+      "category": "Advancement/Fundraising",
+      "date": "6/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87140&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-26T14:22:14.414Z"
+    },
+    {
+      "title": "Assistant Director of Development, College of Letters & Science (FUNDRAISER 3)",
+      "location": "Davis",
+      "category": "Advancement/Fundraising",
+      "date": "6/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87010&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-26T14:22:14.414Z"
+    },
+    {
+      "title": "Assistant Regulatory Affairs Coordinator",
+      "location": "Irvine",
+      "category": "Clinical Laboratory Services",
+      "date": "6/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/148857/job",
+      "scraped_at": "2026-06-26T14:22:15.891Z"
+    },
+    {
+      "title": "Assoc. Director of Finance & Operations, Medicine",
+      "location": "San Diego Health System",
+      "category": "Finance",
+      "date": "6/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140234",
+      "scraped_at": "2026-06-26T14:22:15.891Z"
+    },
+    {
+      "title": "Associate Director",
+      "location": "Los Angeles",
+      "category": "Student Services",
+      "date": "6/25/2026",
+      "url": "https://jobs.ucla.edu/jobs/10901",
+      "scraped_at": "2026-06-26T14:22:15.891Z"
+    },
+    {
+      "title": "Associate Director - ACTRI Translational Research",
+      "location": "San Diego Health System",
+      "category": "Information Technology",
+      "date": "6/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140254",
+      "scraped_at": "2026-06-26T14:22:15.891Z"
+    },
+    {
+      "title": "Budget Amendment Negotiator - Hematology/Oncology (Fully Remote)",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "6/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31694",
+      "scraped_at": "2026-06-26T14:22:15.891Z"
+    },
+    {
+      "title": "Business Analyst (Hybrid)",
+      "location": "Merced",
+      "category": "Clinical Research",
+      "date": "6/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87155&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-26T14:22:15.891Z"
+    },
+    {
+      "title": "Business and Finance Manager",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "6/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31582",
+      "scraped_at": "2026-06-26T14:22:15.892Z"
+    },
+    {
+      "title": "Cath Lab Radiologic Technologist",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "6/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31576",
+      "scraped_at": "2026-06-26T14:22:15.892Z"
+    },
+    {
+      "title": "Cath Lab Radiologic Technologist",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "6/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31579",
+      "scraped_at": "2026-06-26T14:22:15.892Z"
+    },
+    {
+      "title": "CA Tower - Communications and Network Technology Analyst 3 TX",
+      "location": "Davis Health System",
+      "category": "N/A",
+      "date": "6/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86844&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-26T14:22:15.892Z"
+    },
+    {
+      "title": "Clinical Nurse II - ICU Irvine - FT, Nights",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "6/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/148279/job",
+      "scraped_at": "2026-06-26T14:22:17.310Z"
+    },
     {
       "title": "Clinical Research Coordinator",
       "location": "Los Angeles Medical Center",
