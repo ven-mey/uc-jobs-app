@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-06-27T08:34:17.232Z",
-  "count": 835,
+  "updated_at": "2026-06-27T13:40:07.819Z",
+  "count": 846,
   "results": [
+    {
+      "title": "(RN) Manager - Utilization Management",
+      "location": "San Diego Health System",
+      "category": "Care Coordination",
+      "date": "6/26/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140306",
+      "scraped_at": "2026-06-27T13:40:06.369Z"
+    },
+    {
+      "title": "(RN) Registered Nurse - GI/Motility",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "6/26/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140122",
+      "scraped_at": "2026-06-27T13:40:06.369Z"
+    },
+    {
+      "title": "(RN) Registered Nurse - KOP Infusion",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "6/26/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140241",
+      "scraped_at": "2026-06-27T13:40:06.370Z"
+    },
+    {
+      "title": "Administrative Officer 2",
+      "location": "Davis Health System",
+      "category": "General Administration",
+      "date": "6/26/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87179&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-27T13:40:06.370Z"
+    },
+    {
+      "title": "Advanced Veterinary Surgery Center Floater Technician (ANML HEALTH TCHN 3 VMTH)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "6/26/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87153&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-27T13:40:06.371Z"
+    },
+    {
+      "title": "Ambulatory/Outpatient Pharmacy Technician",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "6/26/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31538",
+      "scraped_at": "2026-06-27T13:40:06.371Z"
+    },
+    {
+      "title": "Assistant Director for Conference Services",
+      "location": "Santa Cruz",
+      "category": "Event Services",
+      "date": "6/26/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87108&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-27T13:40:06.371Z"
+    },
+    {
+      "title": "Assistant Director of Student Affairs (5156C) - School of Information",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "6/26/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87145&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-27T13:40:06.371Z"
+    },
+    {
+      "title": "Cafe General Manager - ‘ammatka Kitchen (5235U) Lawrence Hall of Science, #86840",
+      "location": "Berkeley",
+      "category": "Food Services",
+      "date": "6/26/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86840&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-27T13:40:06.371Z"
+    },
+    {
+      "title": "Cardiac Monitor Technician - Central Monitoring Unit - Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "6/26/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31604",
+      "scraped_at": "2026-06-27T13:40:06.372Z"
+    },
+    {
+      "title": "Cardiac Monitor Technician - Central Monitoring Unit - Westwood",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "6/26/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31603",
+      "scraped_at": "2026-06-27T13:40:07.818Z"
+    },
     {
       "title": "(CLS) Clinical Lab Scientist",
       "location": "San Diego Health System",
