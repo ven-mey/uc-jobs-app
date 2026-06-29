@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-29T10:57:01.827Z",
-  "count": 803,
+  "updated_at": "2026-06-29T15:43:32.516Z",
+  "count": 805,
   "results": [
+    {
+      "title": "Director of Campus Communications",
+      "location": "Santa Cruz",
+      "category": "Communications",
+      "date": "6/29/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87123&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-29T15:43:32.511Z"
+    },
+    {
+      "title": "Lift Team Technician 2",
+      "location": "Los Angeles Medical Center",
+      "category": "Support Services",
+      "date": "6/29/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31521",
+      "scraped_at": "2026-06-29T15:43:32.511Z"
+    },
     {
       "title": "(RN) Manager - Utilization Management",
       "location": "San Diego Health System",
