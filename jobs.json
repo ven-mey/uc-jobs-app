@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T19:55:41.359Z",
-  "count": 805,
+  "updated_at": "2026-06-30T03:33:54.359Z",
+  "count": 804,
   "results": [
     {
       "title": "Director of Campus Communications",
@@ -6433,14 +6433,6 @@
       "date": "6/1/2026",
       "url": "https://careers-uci.icims.com/jobs/148164/job",
       "scraped_at": "2026-06-01T17:37:18.315Z"
-    },
-    {
-      "title": "Radiology Technologist Principal",
-      "location": "Davis Health System",
-      "category": "Clinical Health Services",
-      "date": "5/31/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=80639&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-06-01T17:37:19.642Z"
     }
   ]
 }
