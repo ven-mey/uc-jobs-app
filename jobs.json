@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-06-30T09:33:06.545Z",
-  "count": 804,
+  "updated_at": "2026-06-30T14:15:50.605Z",
+  "count": 807,
   "results": [
+    {
+      "title": "Geriatrician - MED: Internal Medicine (ASC PHYSCN DIPLOMATE)",
+      "location": "Davis",
+      "category": "Physician",
+      "date": "6/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=66740&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-30T14:15:50.600Z"
+    },
+    {
+      "title": "Hospitalist - MED: Internal Medicine - Sacramento Campus",
+      "location": "Davis",
+      "category": "Physician",
+      "date": "6/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=35095&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-30T14:15:50.600Z"
+    },
+    {
+      "title": "Hospitalist - Nocturnist - MED: Internal Medicine - Sacramento Campus",
+      "location": "Davis",
+      "category": "Physician",
+      "date": "6/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=35096&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-06-30T14:15:50.601Z"
+    },
     {
       "title": "Director of Campus Communications",
       "location": "Santa Cruz",
