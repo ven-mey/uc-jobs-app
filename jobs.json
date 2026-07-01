@@ -1,7 +1,255 @@
 {
-  "updated_at": "2026-07-01T09:42:45.903Z",
-  "count": 788,
+  "updated_at": "2026-07-01T14:32:46.185Z",
+  "count": 819,
   "results": [
+    {
+      "title": "Admin Clinical Care Partner (Nights)- TRU, Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "7/1/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31500",
+      "scraped_at": "2026-07-01T14:32:42.460Z"
+    },
+    {
+      "title": "Administrative Assistant I (Limited Pool)",
+      "location": "Merced",
+      "category": "General Administration",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87243&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.461Z"
+    },
+    {
+      "title": "Administrative Assistant II (Limited Pool)",
+      "location": "Merced",
+      "category": "General Administration",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87241&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.462Z"
+    },
+    {
+      "title": "Assistant Animal Technician (Limited Pool)",
+      "location": "Merced",
+      "category": "Clinical Laboratory Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87216&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.462Z"
+    },
+    {
+      "title": "Assistant Cook (Limited Pool)",
+      "location": "Merced",
+      "category": "Food Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87238&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.462Z"
+    },
+    {
+      "title": "Assistant Storekeeper (Limited Pool)",
+      "location": "Merced",
+      "category": "General Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87237&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.463Z"
+    },
+    {
+      "title": "Clerk (Limited Pool)",
+      "location": "Merced",
+      "category": "General Administration",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87229&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.463Z"
+    },
+    {
+      "title": "Cook (Limited Pool)",
+      "location": "Merced",
+      "category": "Food Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87219&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.463Z"
+    },
+    {
+      "title": "Custodian (Limited Pool)",
+      "location": "Merced",
+      "category": "Custodial Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87244&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.463Z"
+    },
+    {
+      "title": "Groundskeeper (Limited Pool)",
+      "location": "Merced",
+      "category": "General Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87234&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:42.464Z"
+    },
+    {
+      "title": "Lab Assistant I (Limited Pool)",
+      "location": "Merced",
+      "category": "Clinical Laboratory Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87231&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:43.728Z"
+    },
+    {
+      "title": "Lab Assistant II (Limited Pool)",
+      "location": "Merced",
+      "category": "Clinical Laboratory Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87232&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:43.728Z"
+    },
+    {
+      "title": "Laborer (Limited Pool)",
+      "location": "Merced",
+      "category": "Skilled Crafts and Trades",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87233&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:43.728Z"
+    },
+    {
+      "title": "Sales Floor Lead (Limited Pool)",
+      "location": "Merced",
+      "category": "General Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87239&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:43.728Z"
+    },
+    {
+      "title": "Senior Food Service Worker (Limited Pool)",
+      "location": "Merced",
+      "category": "Food Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87240&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:43.728Z"
+    },
+    {
+      "title": "Sr. Clerk (Limited Pool)",
+      "location": "Merced",
+      "category": "General Administration",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87230&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:43.729Z"
+    },
+    {
+      "title": "Staff Research Associate 1 (Limited Pool)",
+      "location": "Merced",
+      "category": "Clinical Laboratory Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87226&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:43.729Z"
+    },
+    {
+      "title": "Staff Research Associate 2 (Limited Pool)",
+      "location": "Merced",
+      "category": "Clinical Laboratory Services",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87227&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:43.729Z"
+    },
+    {
+      "title": "Temporary Administrative Positions",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "7/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/148989/job",
+      "scraped_at": "2026-07-01T14:32:43.729Z"
+    },
+    {
+      "title": "Temporary Admitting Worker Positions",
+      "location": "Irvine",
+      "category": "Support Services",
+      "date": "7/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/148991/job",
+      "scraped_at": "2026-07-01T14:32:43.729Z"
+    },
+    {
+      "title": "Temporary Licensed Vocational Nurse Positions",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "7/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/148993/job",
+      "scraped_at": "2026-07-01T14:32:44.942Z"
+    },
+    {
+      "title": "Temporary Medical Assistant Positions",
+      "location": "Irvine",
+      "category": "Ambulatory Care Clinics",
+      "date": "7/1/2026",
+      "url": "https://careers-uci.icims.com/jobs/148992/job",
+      "scraped_at": "2026-07-01T14:32:44.942Z"
+    },
+    {
+      "title": "(NP) Nurse Pract. - Hematology & Cellular Therapy",
+      "location": "San Diego",
+      "category": "Nursing",
+      "date": "6/30/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140344",
+      "scraped_at": "2026-07-01T14:32:44.942Z"
+    },
+    {
+      "title": "(Sr. CRNA) Sr. Certified Registered Nurse Anesthetist",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "6/30/2026",
+      "url": "https://careers-uci.icims.com/jobs/88558/job",
+      "scraped_at": "2026-07-01T14:32:44.942Z"
+    },
+    {
+      "title": "Academic Human Resources Analyst 1",
+      "location": "Los Angeles",
+      "category": "N/A",
+      "date": "6/30/2026",
+      "url": "https://jobs.ucla.edu/jobs/10929",
+      "scraped_at": "2026-07-01T14:32:44.943Z"
+    },
+    {
+      "title": "Administrative Assistant - Nursing Administration",
+      "location": "San Diego Health System",
+      "category": "General Administration",
+      "date": "6/30/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140239",
+      "scraped_at": "2026-07-01T14:32:44.943Z"
+    },
+    {
+      "title": "Administrative Assistant II - Pediatric Ophthalmology & Strabismus, Westwood",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "6/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31707",
+      "scraped_at": "2026-07-01T14:32:44.943Z"
+    },
+    {
+      "title": "Administrative Assistant III - Sleep Lab, North Hollywood",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "6/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31698",
+      "scraped_at": "2026-07-01T14:32:44.943Z"
+    },
+    {
+      "title": "Administrative Clinical Care Partner-3W Medical/Surgical Unit-West Valley-Days",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "6/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31751",
+      "scraped_at": "2026-07-01T14:32:44.943Z"
+    },
+    {
+      "title": "Administrative Clinical Care Partner-3W Medical/Surgical Unit-West Valley-Nights",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "6/30/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31752",
+      "scraped_at": "2026-07-01T14:32:44.943Z"
+    },
+    {
+      "title": "Adult IV Infusion Sr. Licensed Vocational Nurse LVN",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "6/30/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87159&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-01T14:32:46.184Z"
+    },
     {
       "title": "Geriatrician - MED: Internal Medicine (ASC PHYSCN DIPLOMATE)",
       "location": "Davis",
