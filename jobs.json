@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T08:53:50.981Z",
-  "count": 749,
+  "updated_at": "2026-07-02T13:57:33.840Z",
+  "count": 750,
   "results": [
+    {
+      "title": "Academic Personnel Specialist (BLANK AST 4)",
+      "location": "Davis",
+      "category": "General Administration",
+      "date": "7/1/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87253&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-02T13:57:33.839Z"
+    },
     {
       "title": "Admin Clinical Care Partner (Nights)- TRU, Santa Monica",
       "location": "Los Angeles Medical Center",
