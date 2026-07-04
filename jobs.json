@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-04T13:22:36.554Z",
-  "count": 756,
+  "updated_at": "2026-07-04T19:10:15.479Z",
+  "count": 760,
   "results": [
+    {
+      "title": "Admin Clinical Care Partner-5th Floor-Medicine/Oncology-West Valley-Days",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "7/3/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30108",
+      "scraped_at": "2026-07-04T19:10:15.476Z"
+    },
+    {
+      "title": "Admin Clinical Care Partner-5th Floor-Medicine/Oncology-West Valley-Nights",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "7/3/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/30104",
+      "scraped_at": "2026-07-04T19:10:15.477Z"
+    },
+    {
+      "title": "RN-5th Floor-Medicine/Oncology-West Valley-Days",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "7/3/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31923",
+      "scraped_at": "2026-07-04T19:10:15.477Z"
+    },
+    {
+      "title": "RN-5th Floor-Medicine/Oncology-West Valley-Nights",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "7/3/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31922",
+      "scraped_at": "2026-07-04T19:10:15.477Z"
+    },
     {
       "title": "ASC PHYSCN",
       "location": "Davis",
