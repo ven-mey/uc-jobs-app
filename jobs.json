@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T19:16:10.456Z",
-  "count": 702,
+  "updated_at": "2026-07-06T03:25:56.253Z",
+  "count": 701,
   "results": [
     {
       "title": "Senior Staff Personnel Analyst",
@@ -5609,14 +5609,6 @@
       "date": "6/7/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86565&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-06-08T15:49:44.342Z"
-    },
-    {
-      "title": "Assistant Women's Volleyball Coach (COACH AST 3)",
-      "location": "Davis",
-      "category": "Sports and Recreation",
-      "date": "6/6/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86685&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-06-07T13:50:11.737Z"
     }
   ]
 }
