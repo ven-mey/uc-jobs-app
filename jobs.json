@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T19:54:25.666Z",
-  "count": 701,
+  "updated_at": "2026-07-07T03:16:42.920Z",
+  "count": 700,
   "results": [
     {
       "title": "Senior Staff Personnel Analyst",
@@ -5601,14 +5601,6 @@
       "date": "6/8/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86726&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-06-09T14:48:31.788Z"
-    },
-    {
-      "title": "Radiology Assistant 1",
-      "location": "Davis Health System",
-      "category": "Clinical Health Services",
-      "date": "6/7/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86565&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-06-08T15:49:44.342Z"
     }
   ]
 }
