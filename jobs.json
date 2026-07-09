@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-07-09T09:36:33.573Z",
-  "count": 697,
+  "updated_at": "2026-07-09T14:55:47.653Z",
+  "count": 704,
   "results": [
+    {
+      "title": "(CLS) Clinical Lab Scientist - Clinical Lab",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "7/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140284",
+      "scraped_at": "2026-07-09T14:55:47.650Z"
+    },
+    {
+      "title": "(CLS) Clinical Lab Scientist - Immunogenetics",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "7/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140409",
+      "scraped_at": "2026-07-09T14:55:47.650Z"
+    },
+    {
+      "title": "(NP) Neurocritical Care Adv. Nurse Practitioner",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "7/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140453",
+      "scraped_at": "2026-07-09T14:55:47.651Z"
+    },
+    {
+      "title": "(NP)New Grad Neurocritical Care Nurse Practitioner",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "7/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140452",
+      "scraped_at": "2026-07-09T14:55:47.651Z"
+    },
+    {
+      "title": "(PA) Neurocritical Care Physician Assistant",
+      "location": "San Diego Health System",
+      "category": "Physician",
+      "date": "7/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140454",
+      "scraped_at": "2026-07-09T14:55:47.651Z"
+    },
+    {
+      "title": "(RD) Clinical Nutrition Manager- Eating Disorder",
+      "location": "San Diego Health System",
+      "category": "Clinical Support Services",
+      "date": "7/8/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140398",
+      "scraped_at": "2026-07-09T14:55:47.651Z"
+    },
+    {
+      "title": "Academic Advisor, UGIS American Studies (5141C) #87355",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "7/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87355&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-09T14:55:47.652Z"
+    },
     {
       "title": "(RN) Eating Disorders Clinic Manager",
       "location": "San Diego Health System",
