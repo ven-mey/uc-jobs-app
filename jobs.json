@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-11T13:15:54.352Z",
-  "count": 699,
+  "updated_at": "2026-07-11T19:01:07.417Z",
+  "count": 703,
   "results": [
+    {
+      "title": "(LVN) Licensed Vocational Nurse - Cancer Clinic",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "7/10/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140422",
+      "scraped_at": "2026-07-11T19:01:07.414Z"
+    },
+    {
+      "title": "(RN) Oncology Discharge Coordination Nurse",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "7/10/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140492",
+      "scraped_at": "2026-07-11T19:01:07.415Z"
+    },
+    {
+      "title": "Accessible Technology Assistant (COMPUTER RESC SPEC 1)",
+      "location": "Davis",
+      "category": "Information Technology",
+      "date": "7/10/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87415&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-11T19:01:07.415Z"
+    },
+    {
+      "title": "Admissions Specialist",
+      "location": "Riverside",
+      "category": "N/A",
+      "date": "7/10/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37674350",
+      "scraped_at": "2026-07-11T19:01:07.415Z"
+    },
     {
       "title": "Ambulatory Care Administrative Supervisor 1",
       "location": "Davis Health System",
