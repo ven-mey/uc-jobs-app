@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-14T08:01:40.961Z",
-  "count": 683,
+  "updated_at": "2026-07-14T13:39:55.839Z",
+  "count": 694,
   "results": [
+    {
+      "title": "(RN)Registered Nurse-Kidney Transplant Coordinator",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "7/13/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140449",
+      "scraped_at": "2026-07-14T13:39:54.495Z"
+    },
+    {
+      "title": "A&L Marketing Manager",
+      "location": "Santa Barbara",
+      "category": "N/A",
+      "date": "7/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87399&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-14T13:39:54.495Z"
+    },
+    {
+      "title": "Academic Human Resources Analyst 2",
+      "location": "Los Angeles",
+      "category": "N/A",
+      "date": "7/13/2026",
+      "url": "https://jobs.ucla.edu/jobs/11002",
+      "scraped_at": "2026-07-14T13:39:54.495Z"
+    },
+    {
+      "title": "ACCOUNTANT 3",
+      "location": "Office of the President",
+      "category": "Finance",
+      "date": "7/13/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucop/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87402&PostingSeq=1&SiteId=19&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-14T13:39:54.495Z"
+    },
+    {
+      "title": "Administration Assistant III - Santa Monica Hospital Nursing Administration",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "7/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31865",
+      "scraped_at": "2026-07-14T13:39:54.496Z"
+    },
+    {
+      "title": "Administrative Analyst - Revenue Integrity - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Finance",
+      "date": "7/13/2026",
+      "url": "https://careers-uci.icims.com/jobs/148530/job",
+      "scraped_at": "2026-07-14T13:39:54.496Z"
+    },
+    {
+      "title": "Administrative Assistant 2",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "7/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31909",
+      "scraped_at": "2026-07-14T13:39:54.496Z"
+    },
+    {
+      "title": "Administrative Assistant II - Oncology, Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "7/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31901",
+      "scraped_at": "2026-07-14T13:39:54.496Z"
+    },
+    {
+      "title": "Anatomical Preparation Specialist, DBP - Dean's Office",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Research",
+      "date": "7/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32080",
+      "scraped_at": "2026-07-14T13:39:54.496Z"
+    },
+    {
+      "title": "Anesthesia Tech - Westwood Main OR",
+      "location": "Los Angeles Medical Center",
+      "category": "Rehabilitation",
+      "date": "7/13/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31906",
+      "scraped_at": "2026-07-14T13:39:54.496Z"
+    },
+    {
+      "title": "Assistant Director, Building Operations",
+      "location": "San Diego",
+      "category": "General Services",
+      "date": "7/13/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140499",
+      "scraped_at": "2026-07-14T13:39:55.838Z"
+    },
     {
       "title": "(LVN) Licensed Vocational Nurse - Cancer Clinic",
       "location": "San Diego Health System",
