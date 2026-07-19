@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T19:01:57.605Z",
-  "count": 673,
+  "updated_at": "2026-07-19T02:35:36.384Z",
+  "count": 669,
   "results": [
     {
       "title": "(NP) Nurse Practitioner - Trauma/Burn/Surgery",
@@ -5353,38 +5353,6 @@
       "date": "6/20/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucop/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86980&PostingSeq=1&SiteId=19&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-06-21T14:08:23.217Z"
-    },
-    {
-      "title": "Application Programmer",
-      "location": "Irvine",
-      "category": "Information Technology",
-      "date": "6/19/2026",
-      "url": "https://careers-uci.icims.com/jobs/148723/job",
-      "scraped_at": "2026-06-20T14:01:03.158Z"
-    },
-    {
-      "title": "Export Control and Research Security Officer (Hybrid)",
-      "location": "Merced",
-      "category": "N/A",
-      "date": "6/19/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87032&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-06-20T14:01:03.158Z"
-    },
-    {
-      "title": "Residential Services Senior Financial Manager",
-      "location": "San Diego",
-      "category": "Finance",
-      "date": "6/19/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140171",
-      "scraped_at": "2026-06-20T14:01:03.159Z"
-    },
-    {
-      "title": "Senior Building Maintenance Worker",
-      "location": "San Diego",
-      "category": "General Services",
-      "date": "6/19/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140136",
-      "scraped_at": "2026-06-20T14:01:03.159Z"
     }
   ]
 }
