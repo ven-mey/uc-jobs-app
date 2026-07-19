@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-19T13:14:36.699Z",
-  "count": 669,
+  "updated_at": "2026-07-19T19:03:30.034Z",
+  "count": 670,
   "results": [
+    {
+      "title": "Campus Safety Specialist (POLICE OFCR 1)",
+      "location": "Davis",
+      "category": "Public Safety and Security",
+      "date": "7/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87527&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-19T19:03:30.032Z"
+    },
     {
       "title": "(NP) Nurse Practitioner - Trauma/Burn/Surgery",
       "location": "San Diego Health System",
