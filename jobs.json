@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-26T13:18:28.201Z",
-  "count": 780,
+  "updated_at": "2026-07-26T19:07:38.752Z",
+  "count": 781,
   "results": [
+    {
+      "title": "Milk Lab Specialist",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "7/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140672",
+      "scraped_at": "2026-07-26T19:07:38.751Z"
+    },
     {
       "title": "(LVN) Licensed Vocational Nurse -Infusion Pharmacy",
       "location": "San Diego Health System",
