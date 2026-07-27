@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-27T09:49:14.015Z",
-  "count": 781,
+  "updated_at": "2026-07-27T14:30:15.048Z",
+  "count": 783,
   "results": [
+    {
+      "title": "CARE Director",
+      "location": "Santa Cruz",
+      "category": "Other",
+      "date": "7/27/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87737&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-07-27T14:30:15.046Z"
+    },
+    {
+      "title": "(LVN) Licensed Vocational Nurse - Dermatology",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "7/26/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140676",
+      "scraped_at": "2026-07-27T14:30:15.046Z"
+    },
     {
       "title": "Milk Lab Specialist",
       "location": "San Diego Health System",
