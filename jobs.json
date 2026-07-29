@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T19:20:57.448Z",
-  "count": 803,
+  "updated_at": "2026-07-29T02:30:44.456Z",
+  "count": 801,
   "results": [
     {
       "title": "(HA3) Front Desk Coordinator-Surgery",
@@ -6409,22 +6409,6 @@
       "date": "6/30/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=35096&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-06-30T14:15:50.601Z"
-    },
-    {
-      "title": "Director of Campus Communications",
-      "location": "Santa Cruz",
-      "category": "Communications",
-      "date": "6/29/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87123&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-06-29T15:43:32.511Z"
-    },
-    {
-      "title": "Lift Team Technician 2",
-      "location": "Los Angeles Medical Center",
-      "category": "Support Services",
-      "date": "6/29/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/31521",
-      "scraped_at": "2026-06-29T15:43:32.511Z"
     }
   ]
 }
