@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T19:05:37.601Z",
-  "count": 878,
+  "updated_at": "2026-08-02T02:39:19.548Z",
+  "count": 874,
   "results": [
     {
       "title": "Temporary Administrative Positions",
@@ -6993,38 +6993,6 @@
       "date": "7/4/2026",
       "url": "https://careers-uci.icims.com/jobs/149107/job",
       "scraped_at": "2026-07-05T13:36:19.037Z"
-    },
-    {
-      "title": "Admin Clinical Care Partner-5th Floor-Medicine/Oncology-West Valley-Days",
-      "location": "Los Angeles Medical Center",
-      "category": "Ambulatory Care Clinics",
-      "date": "7/3/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30108",
-      "scraped_at": "2026-07-04T19:10:15.476Z"
-    },
-    {
-      "title": "Admin Clinical Care Partner-5th Floor-Medicine/Oncology-West Valley-Nights",
-      "location": "Los Angeles Medical Center",
-      "category": "Ambulatory Care Clinics",
-      "date": "7/3/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/30104",
-      "scraped_at": "2026-07-04T19:10:15.477Z"
-    },
-    {
-      "title": "RN-5th Floor-Medicine/Oncology-West Valley-Days",
-      "location": "Los Angeles Medical Center",
-      "category": "Nursing",
-      "date": "7/3/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/31923",
-      "scraped_at": "2026-07-04T19:10:15.477Z"
-    },
-    {
-      "title": "RN-5th Floor-Medicine/Oncology-West Valley-Nights",
-      "location": "Los Angeles Medical Center",
-      "category": "Nursing",
-      "date": "7/3/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/31922",
-      "scraped_at": "2026-07-04T19:10:15.477Z"
     }
   ]
 }
