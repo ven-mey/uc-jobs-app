@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T19:07:10.116Z",
-  "count": 874,
+  "updated_at": "2026-08-03T02:40:40.670Z",
+  "count": 873,
   "results": [
     {
       "title": "Temporary Administrative Positions",
@@ -6985,14 +6985,6 @@
       "date": "7/6/2026",
       "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140396",
       "scraped_at": "2026-07-07T14:30:36.013Z"
-    },
-    {
-      "title": "Senior Staff Personnel Analyst",
-      "location": "Irvine",
-      "category": "N/A",
-      "date": "7/4/2026",
-      "url": "https://careers-uci.icims.com/jobs/149107/job",
-      "scraped_at": "2026-07-05T13:36:19.037Z"
     }
   ]
 }
