@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T23:56:55.977Z",
-  "count": 922,
+  "updated_at": "2026-08-07T02:47:48.590Z",
+  "count": 915,
   "results": [
     {
       "title": "(RN) Registered Nurse - Transplant Coordinator",
@@ -7321,62 +7321,6 @@
       "date": "7/9/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87390&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-07-10T14:23:38.053Z"
-    },
-    {
-      "title": "(CLS) Clinical Lab Scientist - Clinical Lab",
-      "location": "San Diego Health System",
-      "category": "Clinical Laboratory Services",
-      "date": "7/8/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140284",
-      "scraped_at": "2026-07-09T14:55:47.650Z"
-    },
-    {
-      "title": "(CLS) Clinical Lab Scientist - Immunogenetics",
-      "location": "San Diego Health System",
-      "category": "Clinical Laboratory Services",
-      "date": "7/8/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140409",
-      "scraped_at": "2026-07-09T14:55:47.650Z"
-    },
-    {
-      "title": "(NP) Neurocritical Care Adv. Nurse Practitioner",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "7/8/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140453",
-      "scraped_at": "2026-07-09T14:55:47.651Z"
-    },
-    {
-      "title": "(NP)New Grad Neurocritical Care Nurse Practitioner",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "7/8/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140452",
-      "scraped_at": "2026-07-09T14:55:47.651Z"
-    },
-    {
-      "title": "(PA) Neurocritical Care Physician Assistant",
-      "location": "San Diego Health System",
-      "category": "Physician",
-      "date": "7/8/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140454",
-      "scraped_at": "2026-07-09T14:55:47.651Z"
-    },
-    {
-      "title": "(RD) Clinical Nutrition Manager- Eating Disorder",
-      "location": "San Diego Health System",
-      "category": "Clinical Support Services",
-      "date": "7/8/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140398",
-      "scraped_at": "2026-07-09T14:55:47.651Z"
-    },
-    {
-      "title": "Academic Advisor, UGIS American Studies (5141C) #87355",
-      "location": "Berkeley",
-      "category": "N/A",
-      "date": "7/8/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87355&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-07-09T14:55:47.652Z"
     }
   ]
 }
