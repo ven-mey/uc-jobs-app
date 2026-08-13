@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-08-13T13:06:01.654Z",
-  "count": 959,
+  "updated_at": "2026-08-13T19:00:20.424Z",
+  "count": 969,
   "results": [
+    {
+      "title": "(LVN) Resource Vocational Nurse - Primary Care",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "8/12/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140932",
+      "scraped_at": "2026-08-13T19:00:18.995Z"
+    },
+    {
+      "title": "Academic and Student Success Coordinator (STDT DISABILITY SPEC 3 SV)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "8/12/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88165&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-13T19:00:18.996Z"
+    },
+    {
+      "title": "ACGME Fellowship Program Coordinator - Pediatrics",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "8/12/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32497",
+      "scraped_at": "2026-08-13T19:00:18.996Z"
+    },
+    {
+      "title": "Acute Care Surgery Nurse Practitioner 2",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "8/12/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88131&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-13T19:00:18.997Z"
+    },
+    {
+      "title": "Acute Care Surgery Physcian Assistant",
+      "location": "Davis Health System",
+      "category": "Physician",
+      "date": "8/12/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88132&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-13T19:00:18.997Z"
+    },
+    {
+      "title": "Administrative Assistant II - PB Financial Services - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "General Administration",
+      "date": "8/12/2026",
+      "url": "https://careers-uci.icims.com/jobs/149800/job",
+      "scraped_at": "2026-08-13T19:00:18.997Z"
+    },
+    {
+      "title": "Administrative Fellow",
+      "location": "San Diego Health System",
+      "category": "General Administration",
+      "date": "8/12/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140939",
+      "scraped_at": "2026-08-13T19:00:18.997Z"
+    },
+    {
+      "title": "Administrative Officer 2",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "8/12/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32320",
+      "scraped_at": "2026-08-13T19:00:18.998Z"
+    },
+    {
+      "title": "Administrative Officer 2 (100% Limited)",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "8/12/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32535",
+      "scraped_at": "2026-08-13T19:00:18.998Z"
+    },
+    {
+      "title": "Administrative Specialist",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "8/12/2026",
+      "url": "https://careers-uci.icims.com/jobs/150011/job",
+      "scraped_at": "2026-08-13T19:00:18.998Z"
+    },
     {
       "title": "AIM & Health Equity Project Manager",
       "location": "Davis",
