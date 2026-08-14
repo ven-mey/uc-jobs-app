@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T19:00:20.424Z",
-  "count": 969,
+  "updated_at": "2026-08-14T01:48:46.046Z",
+  "count": 966,
   "results": [
     {
       "title": "(LVN) Resource Vocational Nurse - Primary Care",
@@ -7729,30 +7729,6 @@
       "date": "7/16/2026",
       "url": "https://jobs.ucla.edu/jobs/11035",
       "scraped_at": "2026-07-17T19:05:35.664Z"
-    },
-    {
-      "title": "Access/Senior Access Representative- Patient Access Center- FT Day Shift",
-      "location": "Irvine Healthcare",
-      "category": "Finance",
-      "date": "7/15/2026",
-      "url": "https://careers-uci.icims.com/jobs/148974/job",
-      "scraped_at": "2026-07-16T13:46:58.362Z"
-    },
-    {
-      "title": "Admin Clinical Care Partner- Gonda Inpatient",
-      "location": "Los Angeles Medical Center",
-      "category": "Ambulatory Care Clinics",
-      "date": "7/15/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/31728",
-      "scraped_at": "2026-07-16T13:46:58.363Z"
-    },
-    {
-      "title": "Temporary Clinical Research Coordinator (CRC)",
-      "location": "Irvine",
-      "category": "Clinical Laboratory Services",
-      "date": "7/15/2026",
-      "url": "https://careers-uci.icims.com/jobs/149355/job",
-      "scraped_at": "2026-07-15T13:40:44.867Z"
     }
   ]
 }
