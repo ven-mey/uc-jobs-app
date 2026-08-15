@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-08-15T12:33:20.769Z",
-  "count": 957,
+  "updated_at": "2026-08-15T18:26:41.153Z",
+  "count": 967,
   "results": [
+    {
+      "title": "Academic Personnel Analyst 3",
+      "location": "Los Angeles",
+      "category": "N/A",
+      "date": "8/14/2026",
+      "url": "https://jobs.ucla.edu/jobs/11268",
+      "scraped_at": "2026-08-15T18:26:39.873Z"
+    },
+    {
+      "title": "Academic Program Coordinator",
+      "location": "Irvine",
+      "category": "Student Services",
+      "date": "8/14/2026",
+      "url": "https://careers-uci.icims.com/jobs/150129/job",
+      "scraped_at": "2026-08-15T18:26:39.874Z"
+    },
+    {
+      "title": "Ambulatory/Outpatient Pharmacy Technician",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "8/14/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32388",
+      "scraped_at": "2026-08-15T18:26:39.874Z"
+    },
+    {
+      "title": "Ambulatory Care Patient Supervisor 2 - Folsom Infusion Clinic",
+      "location": "Davis Health System",
+      "category": "Ambulatory Care Clinics",
+      "date": "8/14/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88206&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-15T18:26:39.874Z"
+    },
+    {
+      "title": "Ambulatory Care Patient Supv 2 - Center for Clinical Research - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Ambulatory Care Clinics",
+      "date": "8/14/2026",
+      "url": "https://careers-uci.icims.com/jobs/148822/job",
+      "scraped_at": "2026-08-15T18:26:39.874Z"
+    },
+    {
+      "title": "AP/AR Coordinator (4722C) ASUC Student Union #88139",
+      "location": "Berkeley",
+      "category": "General Administration",
+      "date": "8/14/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88139&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-15T18:26:39.875Z"
+    },
+    {
+      "title": "Assistant Athletic Trainer",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "8/14/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140908",
+      "scraped_at": "2026-08-15T18:26:39.875Z"
+    },
+    {
+      "title": "Assistant Director of Processing",
+      "location": "Riverside",
+      "category": "Student Services",
+      "date": "8/14/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37779236",
+      "scraped_at": "2026-08-15T18:26:39.875Z"
+    },
+    {
+      "title": "Assistant Men's Basketball Coach (COACH AST 3)",
+      "location": "Davis",
+      "category": "Sports and Recreation",
+      "date": "8/14/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88233&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-15T18:26:39.875Z"
+    },
+    {
+      "title": "Asst. Director - Accounts Receivable & Cashiering",
+      "location": "San Diego",
+      "category": "Finance",
+      "date": "8/14/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140906",
+      "scraped_at": "2026-08-15T18:26:39.875Z"
+    },
     {
       "title": "Clinical Coordinator - Urology",
       "location": "Los Angeles Medical Center",
