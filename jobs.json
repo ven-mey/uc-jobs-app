@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-16T12:35:28.910Z",
-  "count": 907,
+  "updated_at": "2026-08-16T18:26:03.442Z",
+  "count": 909,
   "results": [
+    {
+      "title": "Temporary Senior Building Maintenance Worker",
+      "location": "Irvine",
+      "category": "General Services",
+      "date": "8/16/2026",
+      "url": "https://careers-uci.icims.com/jobs/150132/job",
+      "scraped_at": "2026-08-16T18:26:03.440Z"
+    },
+    {
+      "title": "Administrative Operations Analyst",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "8/15/2026",
+      "url": "https://careers-uci.icims.com/jobs/150152/job",
+      "scraped_at": "2026-08-16T18:26:03.441Z"
+    },
     {
       "title": "Academic Personnel Analyst 3",
       "location": "Los Angeles",
