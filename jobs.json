@@ -1,7 +1,135 @@
 {
-  "updated_at": "2026-08-19T12:42:07.732Z",
-  "count": 998,
+  "updated_at": "2026-08-19T18:32:25.364Z",
+  "count": 1014,
   "results": [
+    {
+      "title": "(RN) Registered Nurse - Cardiac Rehab",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "8/18/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140995",
+      "scraped_at": "2026-08-19T18:32:24.000Z"
+    },
+    {
+      "title": "(RN) Registered Nurse - Transplant Coordinator",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "8/18/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=138593",
+      "scraped_at": "2026-08-19T18:32:24.001Z"
+    },
+    {
+      "title": "Academic Personnel Analyst 2",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "8/18/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140925",
+      "scraped_at": "2026-08-19T18:32:24.002Z"
+    },
+    {
+      "title": "Admin/Clinical Care Partner- Emergency Overflow Unit (Med Surg/Telemetry) - Westwood",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "8/18/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32088",
+      "scraped_at": "2026-08-19T18:32:24.002Z"
+    },
+    {
+      "title": "Admin Clinical Care Partner- CCU-7North",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "8/18/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32537",
+      "scraped_at": "2026-08-19T18:32:24.002Z"
+    },
+    {
+      "title": "Administrative Assistant, OB/GYN & Repro. Sciences",
+      "location": "San Diego Health System",
+      "category": "General Administration",
+      "date": "8/18/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140959",
+      "scraped_at": "2026-08-19T18:32:24.002Z"
+    },
+    {
+      "title": "Administrative Supervisor - Oncology, San Luis Obispo",
+      "location": "Los Angeles Medical Center",
+      "category": "Support Services",
+      "date": "8/18/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32565",
+      "scraped_at": "2026-08-19T18:32:24.003Z"
+    },
+    {
+      "title": "Ambulatory Clinical Pharmacist, Multi-Specialty Float",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "8/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88305&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-19T18:32:24.003Z"
+    },
+    {
+      "title": "Anesthesia Technician - ACC - Irvine Anesthesia - FT Variable",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Health Services",
+      "date": "8/18/2026",
+      "url": "https://careers-uci.icims.com/jobs/149638/job",
+      "scraped_at": "2026-08-19T18:32:24.003Z"
+    },
+    {
+      "title": "Anesthesia Technician - Anesthesiology - General - FT Variable",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Health Services",
+      "date": "8/18/2026",
+      "url": "https://careers-uci.icims.com/jobs/149605/job",
+      "scraped_at": "2026-08-19T18:32:24.003Z"
+    },
+    {
+      "title": "Assistant Coach, Sports Performance",
+      "location": "Santa Barbara",
+      "category": "Sports and Recreation",
+      "date": "8/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88261&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-19T18:32:25.361Z"
+    },
+    {
+      "title": "Assistant Director of Finance",
+      "location": "Davis",
+      "category": "Finance",
+      "date": "8/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88286&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-19T18:32:25.361Z"
+    },
+    {
+      "title": "Associate Physician - Occupational Medicine (ASC PHYSCN)",
+      "location": "Davis Health System",
+      "category": "Physician",
+      "date": "8/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=69119&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-19T18:32:25.361Z"
+    },
+    {
+      "title": "Asst. Director of Communications, Social Sciences",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "8/18/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140922",
+      "scraped_at": "2026-08-19T18:32:25.361Z"
+    },
+    {
+      "title": "Certified Phlebotomy Technician II - Support Services",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "8/18/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31517",
+      "scraped_at": "2026-08-19T18:32:25.362Z"
+    },
+    {
+      "title": "Chief Administrative Officer - Eye Center",
+      "location": "Davis",
+      "category": "Health Care Administration",
+      "date": "8/18/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88237&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-19T18:32:25.362Z"
+    },
     {
       "title": "Academic Personnel Manager",
       "location": "Los Angeles",
