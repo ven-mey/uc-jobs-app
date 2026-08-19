@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T18:35:54.484Z",
-  "count": 1005,
+  "updated_at": "2026-08-19T01:08:47.120Z",
+  "count": 998,
   "results": [
     {
       "title": "Academic Personnel Manager",
@@ -7985,62 +7985,6 @@
       "date": "7/21/2026",
       "url": "https://careers-uci.icims.com/jobs/149501/job",
       "scraped_at": "2026-07-22T13:49:52.636Z"
-    },
-    {
-      "title": "(LVN) Licensed Vocational Nurse - Repro Med",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "7/20/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140624",
-      "scraped_at": "2026-07-21T13:46:12.329Z"
-    },
-    {
-      "title": "Admin Clinical Care Partner-4th Floor MedSurg/Ortho-West Valley-Days",
-      "location": "Los Angeles Medical Center",
-      "category": "Ambulatory Care Clinics",
-      "date": "7/20/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/31173",
-      "scraped_at": "2026-07-21T13:46:12.330Z"
-    },
-    {
-      "title": "Administrative Officer",
-      "location": "Los Angeles Medical Center",
-      "category": "N/A",
-      "date": "7/20/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/31976",
-      "scraped_at": "2026-07-21T13:46:12.330Z"
-    },
-    {
-      "title": "Administrative Supervisor - Primary & Specialty Care, Porter Ranch",
-      "location": "Los Angeles Medical Center",
-      "category": "Support Services",
-      "date": "7/20/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/31601",
-      "scraped_at": "2026-07-21T13:46:12.330Z"
-    },
-    {
-      "title": "Assistant Clinical Research Coordinator - Psych",
-      "location": "San Diego Health System",
-      "category": "Clinical Laboratory Services",
-      "date": "7/20/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140572",
-      "scraped_at": "2026-07-21T13:46:12.330Z"
-    },
-    {
-      "title": "Assistant Clinical Research Finance Analyst",
-      "location": "Irvine",
-      "category": "N/A",
-      "date": "7/20/2026",
-      "url": "https://careers-uci.icims.com/jobs/149482/job",
-      "scraped_at": "2026-07-21T13:46:12.331Z"
-    },
-    {
-      "title": "Assistant Dean of Students, Leadership & Involvement",
-      "location": "Santa Cruz",
-      "category": "Student Services",
-      "date": "7/20/2026",
-      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87588&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-07-20T14:02:40.835Z"
     }
   ]
 }
