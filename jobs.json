@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-21T12:42:27.419Z",
-  "count": 878,
+  "updated_at": "2026-08-21T18:33:36.684Z",
+  "count": 879,
   "results": [
+    {
+      "title": "(RN) Registered Nurse - KOP Infusion",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "8/20/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=141052",
+      "scraped_at": "2026-08-21T18:33:36.683Z"
+    },
     {
       "title": "(RN) Registered Nurse - Cardiac Rehab",
       "location": "San Diego Health System",
