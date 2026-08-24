@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T18:26:10.930Z",
-  "count": 805,
+  "updated_at": "2026-08-24T01:11:20.236Z",
+  "count": 804,
   "results": [
     {
       "title": "(RN) Heart Transplant Program Manager",
@@ -6433,14 +6433,6 @@
       "date": "7/26/2026",
       "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140676",
       "scraped_at": "2026-07-27T14:30:15.046Z"
-    },
-    {
-      "title": "Milk Lab Specialist",
-      "location": "San Diego Health System",
-      "category": "Clinical Laboratory Services",
-      "date": "7/25/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140672",
-      "scraped_at": "2026-07-26T19:07:38.751Z"
     }
   ]
 }
