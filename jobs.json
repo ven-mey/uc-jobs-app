@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T18:36:54.033Z",
-  "count": 805,
+  "updated_at": "2026-08-25T01:09:55.088Z",
+  "count": 804,
   "results": [
     {
       "title": "Front Desk/Call Center Specialist - Float Team",
@@ -6432,14 +6432,6 @@
       "category": "Other",
       "date": "7/27/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87737&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
-      "scraped_at": "2026-07-27T14:30:15.046Z"
-    },
-    {
-      "title": "(LVN) Licensed Vocational Nurse - Dermatology",
-      "location": "San Diego Health System",
-      "category": "Nursing",
-      "date": "7/26/2026",
-      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140676",
       "scraped_at": "2026-07-27T14:30:15.046Z"
     }
   ]
