@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-08-26T12:48:47.347Z",
-  "count": 785,
+  "updated_at": "2026-08-26T19:45:23.702Z",
+  "count": 793,
   "results": [
+    {
+      "title": "Academic HR Analyst 2",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "8/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=141037",
+      "scraped_at": "2026-08-26T19:45:23.698Z"
+    },
+    {
+      "title": "Access Manager, Surgical Oncology",
+      "location": "San Diego Health System",
+      "category": "Ambulatory Care Clinics",
+      "date": "8/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=141138",
+      "scraped_at": "2026-08-26T19:45:23.699Z"
+    },
+    {
+      "title": "Access Supervisor, Surgical Oncology",
+      "location": "San Diego Health System",
+      "category": "Ambulatory Care Clinics",
+      "date": "8/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=141142",
+      "scraped_at": "2026-08-26T19:45:23.699Z"
+    },
+    {
+      "title": "Admin Support - Ambulatory Float Team (Southwest Valley)",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "8/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32684",
+      "scraped_at": "2026-08-26T19:45:23.699Z"
+    },
+    {
+      "title": "Ambulatory Staff Pharmacist",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Health Services",
+      "date": "8/25/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32678",
+      "scraped_at": "2026-08-26T19:45:23.700Z"
+    },
+    {
+      "title": "Assistant Director - Leadership Programs",
+      "location": "San Diego",
+      "category": "Instructional Services",
+      "date": "8/25/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=140967",
+      "scraped_at": "2026-08-26T19:45:23.700Z"
+    },
+    {
+      "title": "Associate Director, Masters Program Office",
+      "location": "Irvine",
+      "category": "N/A",
+      "date": "8/25/2026",
+      "url": "https://careers-uci.icims.com/jobs/150389/job",
+      "scraped_at": "2026-08-26T19:45:23.700Z"
+    },
+    {
+      "title": "Campus Software Coordinator (Hybrid)",
+      "location": "Merced",
+      "category": "General Administration",
+      "date": "8/25/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88488&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-08-26T19:45:23.700Z"
+    },
     {
       "title": "(RN) Registered Nurse - Allergy Nurse",
       "location": "San Diego Health System",
