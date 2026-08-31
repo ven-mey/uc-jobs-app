@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T20:36:09.710Z",
-  "count": 774,
+  "updated_at": "2026-08-31T03:48:14.056Z",
+  "count": 770,
   "results": [
     {
       "title": "(RN) Registered Nurse - Intensive Cardiac Rehab",
@@ -6161,38 +6161,6 @@
       "date": "8/3/2026",
       "url": "https://uclahealth.avature.net/careers/JobDetail/32347",
       "scraped_at": "2026-08-04T14:07:34.919Z"
-    },
-    {
-      "title": "Temporary Administrative Positions",
-      "location": "Irvine",
-      "category": "General Administration",
-      "date": "8/1/2026",
-      "url": "https://careers-uci.icims.com/jobs/149798/job",
-      "scraped_at": "2026-08-01T19:05:26.731Z"
-    },
-    {
-      "title": "Temporary Admitting Worker Positions",
-      "location": "Irvine",
-      "category": "Support Services",
-      "date": "8/1/2026",
-      "url": "https://careers-uci.icims.com/jobs/149801/job",
-      "scraped_at": "2026-08-01T19:05:26.732Z"
-    },
-    {
-      "title": "Temporary Licensed Vocational Nurse Positions",
-      "location": "Irvine",
-      "category": "Nursing",
-      "date": "8/1/2026",
-      "url": "https://careers-uci.icims.com/jobs/149803/job",
-      "scraped_at": "2026-08-01T19:05:26.732Z"
-    },
-    {
-      "title": "Temporary Medical Assistant Positions",
-      "location": "Irvine",
-      "category": "Ambulatory Care Clinics",
-      "date": "8/1/2026",
-      "url": "https://careers-uci.icims.com/jobs/149802/job",
-      "scraped_at": "2026-08-01T19:05:26.732Z"
     }
   ]
 }
