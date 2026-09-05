@@ -23,12 +23,6 @@ async function scrapeIncremental() {
     if (fs.existsSync('jobs.json')) {
         try {
             existingJobs = JSON.parse(fs.readFileSync('jobs.json')).results || [];
-            
-            // Normalize all archive links so deduplication works
-            existingJobs = existingJobs.map(job => ({
-                ...job,
-                url: normalizeJobUrl(job.url)
-            }));
         } catch (e) {
             console.log("Starting fresh archive.");
         }
