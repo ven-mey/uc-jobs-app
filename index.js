@@ -4,6 +4,7 @@ const fs = require('fs');
 
 const BASE_URL = 'https://jobs.universityofcalifornia.edu/site/advancedsearch';
 const SEARCH_PARAMS = 'keywords=&job_type=Full+Time&Category%5Bcategory_id%5D=&Campus%5Bcampus_id%5D=&multiple_locations=0&search=Search';
+const CONSECUTIVE_SEEN_LIMIT = 10;
 
 function normalizeJobUrl(url) {
     if (!url) return url;
@@ -31,9 +32,10 @@ async function scrapeIncremental() {
     const existingUrls = new Set(existingJobs.map(j => j.url));
     const newJobs = [];
     let page = 1;
-    let foundOldJob = false;
+    let consecutiveSeenCount = 0;
+    let reachedLimit = false;
 
-    while (!foundOldJob) {
+    while (!reachedLimit) {
         console.log(`Checking page ${page}...`);
         try {
             const { data } = await axios.get(`${BASE_URL}?page=${page}&${SEARCH_PARAMS}`, {
@@ -52,10 +54,17 @@ async function scrapeIncremental() {
                 const url = normalizeJobUrl(rawUrl);
 
                 if (existingUrls.has(url)) {
-                    console.log("Reached previously scraped data. Stopping.");
-                    foundOldJob = true;
-                    break;
+                    consecutiveSeenCount++;
+                    if (consecutiveSeenCount >= CONSECUTIVE_SEEN_LIMIT) {
+                        console.log(`Encountered ${CONSECUTIVE_SEEN_LIMIT} consecutive known jobs. Stopping.`);
+                        reachedLimit = true;
+                        break;
+                    }
+                    continue;
                 }
+
+                // Reset consecutive streak whenever a brand-new job is found
+                consecutiveSeenCount = 0;
 
                 const postingDate = $(el).find('.jclose').text().replace('Posting Date:', '').trim();
                 const category = $(el).find('.jfamily').text().replace('Category:', '').trim() || "N/A";
