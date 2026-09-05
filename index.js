@@ -5,6 +5,17 @@ const fs = require('fs');
 const BASE_URL = 'https://jobs.universityofcalifornia.edu/site/advancedsearch';
 const SEARCH_PARAMS = 'keywords=&job_type=Full+Time&Category%5Bcategory_id%5D=&Campus%5Bcampus_id%5D=&multiple_locations=0&search=Search';
 
+function normalizeJobUrl(url) {
+    if (!url) return url;
+    if (url.includes('jobs.ucsd.edu/bulletin/job.aspx')) {
+        const match = url.match(/jobnum_in=(\d+)/i);
+        if (match && match[1]) {
+            return `https://employment.ucsd.edu/jobs?keyword=${match[1]}`;
+        }
+    }
+    return url;
+}
+
 async function scrapeIncremental() {
     console.log("Starting incremental scrape...");
     
@@ -12,6 +23,12 @@ async function scrapeIncremental() {
     if (fs.existsSync('jobs.json')) {
         try {
             existingJobs = JSON.parse(fs.readFileSync('jobs.json')).results || [];
+            
+            // Normalize all archive links so deduplication works
+            existingJobs = existingJobs.map(job => ({
+                ...job,
+                url: normalizeJobUrl(job.url)
+            }));
         } catch (e) {
             console.log("Starting fresh archive.");
         }
@@ -37,7 +54,8 @@ async function scrapeIncremental() {
                 const el = pageJobSpots[i];
                 const titleEl = $(el).find('.jtitle');
                 const link = titleEl.attr('href');
-                const url = link.startsWith('http') ? link : `https://jobs.universityofcalifornia.edu${link}`;
+                let rawUrl = link.startsWith('http') ? link : `https://jobs.universityofcalifornia.edu${link}`;
+                const url = normalizeJobUrl(rawUrl);
 
                 if (existingUrls.has(url)) {
                     console.log("Reached previously scraped data. Stopping.");
@@ -45,16 +63,14 @@ async function scrapeIncremental() {
                     break;
                 }
 
-                // Extract the actual "Posting Date" string (e.g., "2/11/2026")
                 const postingDate = $(el).find('.jclose').text().replace('Posting Date:', '').trim();
-                // Extract the job category or add "N/A" when it doesn't exist
                 const category = $(el).find('.jfamily').text().replace('Category:', '').trim() || "N/A";
 
                 newJobs.push({
                     title: titleEl.text().trim(),
                     location: $(el).find('.jloc').text().trim(),
                     category: category,
-                    date: postingDate, // This is the original UC date
+                    date: postingDate,
                     url: url,
                     scraped_at: new Date().toISOString()
                 });
@@ -72,17 +88,15 @@ async function scrapeIncremental() {
     const thirtyDaysAgo = new Date();
     thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
 
-    // Merge and filter by 30-day window
     const mergedList = [...newJobs, ...existingJobs].filter(job => {
         const postDate = new Date(job.date);
         return isNaN(postDate) || postDate >= thirtyDaysAgo;
     });
 
-    // Final Sort: strictly newest posting date to oldest
     mergedList.sort((a, b) => new Date(b.date) - new Date(a.date));
 
     const output = {
-        updated_at: new Date().toISOString(), // Keep this for the "Last Scraped" header
+        updated_at: new Date().toISOString(),
         count: mergedList.length,
         results: mergedList
     };
