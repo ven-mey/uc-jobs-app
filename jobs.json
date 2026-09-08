@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-08T10:37:28.009Z",
-  "count": 1042,
+  "updated_at": "2026-09-08T16:01:04.036Z",
+  "count": 1043,
   "results": [
+    {
+      "title": "Education Program Director, Greater Good Education #88470",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88470&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-08T16:01:02.760Z"
+    },
     {
       "title": "Research Assistant (Semel Institute)",
       "location": "Los Angeles Medical Center",
