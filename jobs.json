@@ -1,7 +1,543 @@
 {
-  "updated_at": "2026-09-09T10:47:32.177Z",
-  "count": 1013,
+  "updated_at": "2026-09-09T15:57:29.261Z",
+  "count": 1080,
   "results": [
+    {
+      "title": "Administrative Analyst (Hybrid)",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151104/job",
+      "scraped_at": "2026-09-09T15:57:17.569Z"
+    },
+    {
+      "title": "Administrative Assistant III - Radiology",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32910",
+      "scraped_at": "2026-09-09T15:57:17.570Z"
+    },
+    {
+      "title": "Administrative Manager (0547U), University Health Services #87388",
+      "location": "Berkeley",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87388&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:17.571Z"
+    },
+    {
+      "title": "Admin Support - Ambulatory Float Team (Los Angeles)",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33132",
+      "scraped_at": "2026-09-09T15:57:17.571Z"
+    },
+    {
+      "title": "Admin Support - Ambulatory Float Team (West Los Angeles)",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33134",
+      "scraped_at": "2026-09-09T15:57:17.572Z"
+    },
+    {
+      "title": "Ambulatory Care Patient Supv 2 - Clinic Senior Center - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/148603/job",
+      "scraped_at": "2026-09-09T15:57:17.572Z"
+    },
+    {
+      "title": "Assistant Clinical Research Coordinator - Medicine",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "9/8/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=138594",
+      "scraped_at": "2026-09-09T15:57:17.572Z"
+    },
+    {
+      "title": "Associate Director of Media Relations (Issues Management)",
+      "location": "Los Angeles",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://jobs.ucla.edu/jobs/11474",
+      "scraped_at": "2026-09-09T15:57:17.573Z"
+    },
+    {
+      "title": "Behavioral Health Counselor 3",
+      "location": "Irvine",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/146734/job",
+      "scraped_at": "2026-09-09T15:57:17.573Z"
+    },
+    {
+      "title": "Cal-Bridge Program Coordinator",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151068/job",
+      "scraped_at": "2026-09-09T15:57:17.573Z"
+    },
+    {
+      "title": "Credit Refund Specialist - Remote",
+      "location": "San Diego Health System",
+      "category": "Finance",
+      "date": "9/8/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141285",
+      "scraped_at": "2026-09-09T15:57:19.068Z"
+    },
+    {
+      "title": "Curricular Affairs Coordinator",
+      "location": "Irvine",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151072/job",
+      "scraped_at": "2026-09-09T15:57:19.068Z"
+    },
+    {
+      "title": "Custodial Supervisor (CUSTODIAL SUPV 1)",
+      "location": "Davis",
+      "category": "Custodial Services",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88722&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:19.068Z"
+    },
+    {
+      "title": "CUSTODIAN",
+      "location": "Irvine",
+      "category": "Custodial Services",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151015/job",
+      "scraped_at": "2026-09-09T15:57:19.068Z"
+    },
+    {
+      "title": "Dermatology Clinic Medical Assistant 1 (MED AST 1)",
+      "location": "Davis Health System",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88575&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:19.068Z"
+    },
+    {
+      "title": "Director of Development",
+      "location": "Irvine",
+      "category": "Advancement/Fundraising",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151069/job",
+      "scraped_at": "2026-09-09T15:57:19.069Z"
+    },
+    {
+      "title": "Electron-Nucleus Scattering Phenomenology Postdoctoral Scholar",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=107463",
+      "scraped_at": "2026-09-09T15:57:19.069Z"
+    },
+    {
+      "title": "Engineering Specialist",
+      "location": "Los Angeles",
+      "category": "Engineering",
+      "date": "9/8/2026",
+      "url": "https://jobs.ucla.edu/jobs/11473",
+      "scraped_at": "2026-09-09T15:57:19.069Z"
+    },
+    {
+      "title": "Executive Assistant",
+      "location": "Irvine",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151081/job",
+      "scraped_at": "2026-09-09T15:57:19.069Z"
+    },
+    {
+      "title": "Executive Operations Administrator",
+      "location": "San Diego Health System",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141266",
+      "scraped_at": "2026-09-09T15:57:20.597Z"
+    },
+    {
+      "title": "Financial Coordinator",
+      "location": "Riverside",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37878590",
+      "scraped_at": "2026-09-09T15:57:20.597Z"
+    },
+    {
+      "title": "Float Front Desk Support - Dermatology, Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32976",
+      "scraped_at": "2026-09-09T15:57:20.597Z"
+    },
+    {
+      "title": "Float Medical Assistant - Dermatology, Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32977",
+      "scraped_at": "2026-09-09T15:57:20.597Z"
+    },
+    {
+      "title": "Float Practice Manager - Ambulatory Float Team",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33129",
+      "scraped_at": "2026-09-09T15:57:20.598Z"
+    },
+    {
+      "title": "Graduate Division Assistant Dean, Academic and Student Affairs",
+      "location": "Irvine",
+      "category": "Student Services",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151003/job",
+      "scraped_at": "2026-09-09T15:57:20.598Z"
+    },
+    {
+      "title": "Hospital Lab Tech - Faculty Practice Pathology",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "9/8/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=140968",
+      "scraped_at": "2026-09-09T15:57:20.598Z"
+    },
+    {
+      "title": "Hospital Lab Technician III- Irvine GHEI Ophthalmology - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Laboratory Services",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/149785/job",
+      "scraped_at": "2026-09-09T15:57:20.598Z"
+    },
+    {
+      "title": "Hospital Medicine Physician Assistant Full Time Night Shift",
+      "location": "Irvine",
+      "category": "Physician",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151095/job",
+      "scraped_at": "2026-09-09T15:57:20.598Z"
+    },
+    {
+      "title": "Lab Research Assistant (9612C), Plant & Microbial Biology - #88708",
+      "location": "Berkeley",
+      "category": "Clinical Laboratory Services",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88708&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:22.018Z"
+    },
+    {
+      "title": "Los Alamitos - Nurse Practioner - Hospital Medicine - Per Diem",
+      "location": "Irvine",
+      "category": "Physician",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151091/job",
+      "scraped_at": "2026-09-09T15:57:22.019Z"
+    },
+    {
+      "title": "Medical Assistant - Ambulatory Float Team (Los Angeles)",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33137",
+      "scraped_at": "2026-09-09T15:57:22.019Z"
+    },
+    {
+      "title": "Medical Assistant - Ambulatory Float Team (Southwest Valley)",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33138",
+      "scraped_at": "2026-09-09T15:57:22.019Z"
+    },
+    {
+      "title": "Medical Assistant - Ambulatory Float Team (West Los Angeles)",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33139",
+      "scraped_at": "2026-09-09T15:57:22.019Z"
+    },
+    {
+      "title": "Medical Assistant - Internal Medicine, Westwood",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32883",
+      "scraped_at": "2026-09-09T15:57:22.019Z"
+    },
+    {
+      "title": "Medical Assistant - Primary & Specialty Care, West Hills",
+      "location": "Los Angeles Medical Center",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/31503",
+      "scraped_at": "2026-09-09T15:57:22.019Z"
+    },
+    {
+      "title": "Medical Assistant 2 (MED AST 2)-Transplant Clinic",
+      "location": "Davis Health System",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88646&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:22.019Z"
+    },
+    {
+      "title": "Nurse Practitioner I, Trauma (Nights)",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151077/job",
+      "scraped_at": "2026-09-09T15:57:22.020Z"
+    },
+    {
+      "title": "Nurse Practitioner II, Trauma (Nights)",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151074/job",
+      "scraped_at": "2026-09-09T15:57:22.020Z"
+    },
+    {
+      "title": "Nurse Practitioner Los Alamitos Hospital Medicine (Full-Time Days)",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151093/job",
+      "scraped_at": "2026-09-09T15:57:23.437Z"
+    },
+    {
+      "title": "Patient Records Abstractor II - Remote",
+      "location": "San Diego Health System",
+      "category": "Support Services",
+      "date": "9/8/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141045",
+      "scraped_at": "2026-09-09T15:57:23.438Z"
+    },
+    {
+      "title": "Patient Service Rep - Primary, Specialty, and Immediate Care, Thousand Oaks Hampshire",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32892",
+      "scraped_at": "2026-09-09T15:57:23.438Z"
+    },
+    {
+      "title": "Per Diem-RN Case Manager - Case Management - Days - Orange",
+      "location": "Irvine Healthcare",
+      "category": "Care Coordination",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/148198/job",
+      "scraped_at": "2026-09-09T15:57:23.438Z"
+    },
+    {
+      "title": "Philanthropy Fellow (5257C), David & Lucile Packard Foundation #88658",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88658&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:23.438Z"
+    },
+    {
+      "title": "Physical Therapist Assistant 2",
+      "location": "Davis Health System",
+      "category": "Rehabilitation",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87882&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:23.438Z"
+    },
+    {
+      "title": "Physician Assistant Los Alamitos Hospital Medicine (Full-Time Days)",
+      "location": "Irvine",
+      "category": "Physician",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151094/job",
+      "scraped_at": "2026-09-09T15:57:23.438Z"
+    },
+    {
+      "title": "Physician Assistant Los Alamitos Hospital Medicine (Per Diem)",
+      "location": "Irvine",
+      "category": "Physician",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151092/job",
+      "scraped_at": "2026-09-09T15:57:23.438Z"
+    },
+    {
+      "title": "Postdoctoral Scholar",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=106045",
+      "scraped_at": "2026-09-09T15:57:23.438Z"
+    },
+    {
+      "title": "Project and Policy Analyst 2",
+      "location": "Davis Health System",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88415&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:23.439Z"
+    },
+    {
+      "title": "Project Coordinator, Auxiliary Facilities Services",
+      "location": "Riverside",
+      "category": "Facilities and Environment Health",
+      "date": "9/8/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37883709",
+      "scraped_at": "2026-09-09T15:57:24.854Z"
+    },
+    {
+      "title": "Research Laboratory Associate - Dermatology",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "9/8/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141228",
+      "scraped_at": "2026-09-09T15:57:24.855Z"
+    },
+    {
+      "title": "Scholarship Development & Outreach Manager",
+      "location": "Irvine",
+      "category": "Student Services",
+      "date": "9/8/2026",
+      "url": "https://careers-uci.icims.com/jobs/151065/job",
+      "scraped_at": "2026-09-09T15:57:24.855Z"
+    },
+    {
+      "title": "Senior Cook, International House (5522C) #88701",
+      "location": "Berkeley",
+      "category": "Food Services",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88701&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:24.855Z"
+    },
+    {
+      "title": "Senior Custodian, Per-Diem - Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "Custodial Services",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32887",
+      "scraped_at": "2026-09-09T15:57:24.855Z"
+    },
+    {
+      "title": "Senior Custodian, Per-Diem - Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "Custodial Services",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32893",
+      "scraped_at": "2026-09-09T15:57:24.855Z"
+    },
+    {
+      "title": "Senior Healthcare Business/Economic Analyst",
+      "location": "Los Angeles Medical Center",
+      "category": "Finance",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32754",
+      "scraped_at": "2026-09-09T15:57:24.855Z"
+    },
+    {
+      "title": "Senior Mechanical Engineer",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "Clinical Laboratory Services",
+      "date": "9/8/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=107472",
+      "scraped_at": "2026-09-09T15:57:24.856Z"
+    },
+    {
+      "title": "Social Work HC Supervisor 2",
+      "location": "Davis",
+      "category": "Care Coordination",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87083&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:24.856Z"
+    },
+    {
+      "title": "Sr. Custodian",
+      "location": "Santa Barbara",
+      "category": "Custodial Services",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88731&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:26.404Z"
+    },
+    {
+      "title": "Sr. Epic Cadence / Referral Analyst - Hybrid",
+      "location": "San Diego Health System",
+      "category": "N/A",
+      "date": "9/8/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141252",
+      "scraped_at": "2026-09-09T15:57:26.405Z"
+    },
+    {
+      "title": "Sr. LVN - Ambulatory Float Team (Los Angeles)",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33135",
+      "scraped_at": "2026-09-09T15:57:26.405Z"
+    },
+    {
+      "title": "Sr. LVN - Ambulatory Float Team (West Los Angeles)",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33136",
+      "scraped_at": "2026-09-09T15:57:26.405Z"
+    },
+    {
+      "title": "Sr. LVN - Digestive Diseases, Santa Monica",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32890",
+      "scraped_at": "2026-09-09T15:57:26.405Z"
+    },
+    {
+      "title": "SRA III",
+      "location": "Los Angeles",
+      "category": "Clinical Laboratory Services",
+      "date": "9/8/2026",
+      "url": "https://jobs.ucla.edu/jobs/11488",
+      "scraped_at": "2026-09-09T15:57:26.406Z"
+    },
+    {
+      "title": "Staff Physician - Venice Family Clinic - Inglewood",
+      "location": "Los Angeles Medical Center",
+      "category": "Physician",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/6153",
+      "scraped_at": "2026-09-09T15:57:26.406Z"
+    },
+    {
+      "title": "Transplant Referral Coordinator",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32942",
+      "scraped_at": "2026-09-09T15:57:26.406Z"
+    },
+    {
+      "title": "Vascular Nurse Coordinator RN (CLIN NURSE 2)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "9/8/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88712&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-09T15:57:26.407Z"
+    },
+    {
+      "title": "Vendor Management Compliance Consultant",
+      "location": "Los Angeles Medical Center",
+      "category": "Audit Compliance and Ethics",
+      "date": "9/8/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32951",
+      "scraped_at": "2026-09-09T15:57:27.851Z"
+    },
     {
       "title": "Education Program Director, Greater Good Education #88470",
       "location": "Berkeley",
