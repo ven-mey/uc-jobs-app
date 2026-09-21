@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-21T12:03:42.949Z",
-  "count": 1421,
+  "updated_at": "2026-09-21T21:43:10.485Z",
+  "count": 1422,
   "results": [
+    {
+      "title": "T-2 Surgical ICU RN (CLIN NURSE 2)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "9/21/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88208&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-09-21T21:43:08.901Z"
+    },
     {
       "title": "(RN) Care Manager - East Campus",
       "location": "San Diego Health System",
