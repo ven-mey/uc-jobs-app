@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-28T12:58:29.703Z",
-  "count": 1470,
+  "updated_at": "2026-09-28T22:57:05.429Z",
+  "count": 1471,
   "results": [
+    {
+      "title": "Medical Assistant - Ambulatory Float Team",
+      "location": "San Diego Health System",
+      "category": "Ambulatory Care Clinics",
+      "date": "9/27/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141616",
+      "scraped_at": "2026-09-28T22:57:02.571Z"
+    },
     {
       "title": "Lead Emergency Trauma Tech-West Valley",
       "location": "Los Angeles Medical Center",
