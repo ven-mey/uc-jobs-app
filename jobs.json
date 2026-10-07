@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T22:21:19.812Z",
-  "count": 1542,
+  "updated_at": "2026-10-07T04:26:54.662Z",
+  "count": 1541,
   "results": [
     {
       "title": "(CLS) Clinical Laboratory Scientist Specialist",
@@ -12329,14 +12329,6 @@
       "date": "9/8/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88470&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-09-08T16:01:02.760Z"
-    },
-    {
-      "title": "Research Assistant (Semel Institute)",
-      "location": "Los Angeles Medical Center",
-      "category": "Clinical Laboratory Services",
-      "date": "9/7/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/32676",
-      "scraped_at": "2026-09-07T17:17:16.524Z"
     }
   ]
 }
