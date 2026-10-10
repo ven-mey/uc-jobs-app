@@ -1,7 +1,463 @@
 {
-  "updated_at": "2026-10-10T11:56:55.019Z",
-  "count": 1528,
+  "updated_at": "2026-10-10T17:08:03.973Z",
+  "count": 1585,
   "results": [
+    {
+      "title": "(RN) Care Manager - Care Management",
+      "location": "San Diego Health System",
+      "category": "Care Coordination",
+      "date": "10/9/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141795",
+      "scraped_at": "2026-10-10T17:07:52.370Z"
+    },
+    {
+      "title": "(RN) Clinical Research Nurse - Medicine",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "10/9/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141460",
+      "scraped_at": "2026-10-10T17:07:52.371Z"
+    },
+    {
+      "title": "Academic Affairs Analyst",
+      "location": "Irvine",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/149842/job",
+      "scraped_at": "2026-10-10T17:07:52.371Z"
+    },
+    {
+      "title": "Administrative Officer 2",
+      "location": "Davis Health System",
+      "category": "General Administration",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89309&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:52.371Z"
+    },
+    {
+      "title": "ASC PHYSCN DIPLOMATE",
+      "location": "Davis Health System",
+      "category": "Physician",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89321&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:52.372Z"
+    },
+    {
+      "title": "Assistant Director of Development, College of Letters & Science (FUNDRAISER 3)",
+      "location": "Davis",
+      "category": "Advancement/Fundraising",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89399&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:52.372Z"
+    },
+    {
+      "title": "BLANK AST 3 / HR ONLY no Recruitment",
+      "location": "Davis",
+      "category": "General Administration",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89402&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:52.372Z"
+    },
+    {
+      "title": "Business Systems Analyst 3 (On-site)",
+      "location": "Merced",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89389&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:52.372Z"
+    },
+    {
+      "title": "BUSINESS SYSTEMS ANALYST 3 FOR WCO - REMOTE POSITION",
+      "location": "Office of the President",
+      "category": "Information Technology",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucop/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89279&PostingSeq=1&SiteId=19&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:53.869Z"
+    },
+    {
+      "title": "Certified Ophthalmic Assistant - Irvine Ghei Ophthalmology Clin - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Laboratory Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151696/job",
+      "scraped_at": "2026-10-10T17:07:53.869Z"
+    },
+    {
+      "title": "Clinical Lab Scientist CDXI",
+      "location": "Davis",
+      "category": "Clinical Laboratory Services",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89314&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:53.869Z"
+    },
+    {
+      "title": "Clinical Pharmacist 2, Inpatient Oncology/Infusion, Evening",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89336&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:53.870Z"
+    },
+    {
+      "title": "Collection Representative and Student Loan Exit Counselor (COLL REPR)",
+      "location": "Davis",
+      "category": "Finance",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89366&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:53.870Z"
+    },
+    {
+      "title": "Collections Representative - PB Financial Services - F/T - Days",
+      "location": "Irvine Healthcare",
+      "category": "Finance",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151213/job",
+      "scraped_at": "2026-10-10T17:07:53.870Z"
+    },
+    {
+      "title": "CRM Specialist",
+      "location": "Riverside",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/37946833",
+      "scraped_at": "2026-10-10T17:07:53.870Z"
+    },
+    {
+      "title": "Digital Accessibility Outreach and Education Specialist (5448C) Library IT, #89394",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89394&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:53.870Z"
+    },
+    {
+      "title": "Director of Finance (FINANCIAL ANL MGR 1)",
+      "location": "Davis",
+      "category": "Finance",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89356&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:53.870Z"
+    },
+    {
+      "title": "Family Involvement Coordinator",
+      "location": "Santa Cruz",
+      "category": "Student Services",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89338&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:55.290Z"
+    },
+    {
+      "title": "Family Practice Physician Assistant (PA)",
+      "location": "Davis Health System",
+      "category": "Physician",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88288&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:55.290Z"
+    },
+    {
+      "title": "Fire Safety Inspector",
+      "location": "Irvine",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/152197/job",
+      "scraped_at": "2026-10-10T17:07:55.291Z"
+    },
+    {
+      "title": "Infant Toddler Teacher - Inglewood",
+      "location": "Los Angeles Medical Center",
+      "category": "Instructional Services",
+      "date": "10/9/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/26683",
+      "scraped_at": "2026-10-10T17:07:55.294Z"
+    },
+    {
+      "title": "Instructor/Guide (RECR PRG INSTR 2)",
+      "location": "Davis",
+      "category": "Sports and Recreation",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89364&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:55.294Z"
+    },
+    {
+      "title": "Lab Assistant II - Medicine",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "10/9/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141793",
+      "scraped_at": "2026-10-10T17:07:55.294Z"
+    },
+    {
+      "title": "Licensed Clinical Social Worker",
+      "location": "Davis",
+      "category": "Care Coordination",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89317&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:55.294Z"
+    },
+    {
+      "title": "Manager, Interpreter Services",
+      "location": "San Diego Health System",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141800",
+      "scraped_at": "2026-10-10T17:07:55.294Z"
+    },
+    {
+      "title": "Medical Assistant/Admit Worker - CAC Urology/Gynecology - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Ambulatory Care Clinics",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151712/job",
+      "scraped_at": "2026-10-10T17:07:55.294Z"
+    },
+    {
+      "title": "Medical Assistant/Admit Worker - GHEI Orange - Ophth Clinic - F/T Days",
+      "location": "Irvine Healthcare",
+      "category": "Ambulatory Care Clinics",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151670/job",
+      "scraped_at": "2026-10-10T17:07:55.294Z"
+    },
+    {
+      "title": "Medical Assistant 2 (MA) Primary and Specialty Care",
+      "location": "Davis Health System",
+      "category": "Ambulatory Care Clinics",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89385&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:56.706Z"
+    },
+    {
+      "title": "Medical Assistant II - CAC - Urology Gynecology - F/T - Days",
+      "location": "Irvine Healthcare",
+      "category": "Ambulatory Care Clinics",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151764/job",
+      "scraped_at": "2026-10-10T17:07:56.706Z"
+    },
+    {
+      "title": "Microbiology Research Assistant",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "Clinical Laboratory Services",
+      "date": "10/9/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=107673",
+      "scraped_at": "2026-10-10T17:07:56.706Z"
+    },
+    {
+      "title": "MRI Technologist - MRI OP - Irvine - F/T - Variable",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Health Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151688/job",
+      "scraped_at": "2026-10-10T17:07:56.707Z"
+    },
+    {
+      "title": "Nurse Navigator - Clinic - Surgery ENT - FT Days",
+      "location": "Irvine Healthcare",
+      "category": "Care Coordination",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151694/job",
+      "scraped_at": "2026-10-10T17:07:56.707Z"
+    },
+    {
+      "title": "Nursing Assistant- Medical/Surgical Telemetry (Irvine)- FT, Night Shift",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151623/job",
+      "scraped_at": "2026-10-10T17:07:56.707Z"
+    },
+    {
+      "title": "Nursing Assistant- Surgical Step Down Unit- FT, Day Shift",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151901/job",
+      "scraped_at": "2026-10-10T17:07:56.707Z"
+    },
+    {
+      "title": "Nursing Assistant- Surgical Step Down Unit- FT, Night Shift",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151896/job",
+      "scraped_at": "2026-10-10T17:07:56.707Z"
+    },
+    {
+      "title": "Organizational Consultant 3",
+      "location": "Davis Health System",
+      "category": "General Administration",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89164&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:56.707Z"
+    },
+    {
+      "title": "PD Principal Admitting Worker - DHI Admin - SL - Variable",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151721/job",
+      "scraped_at": "2026-10-10T17:07:58.154Z"
+    },
+    {
+      "title": "Per Diem-Certified Nursing Assistant-Los Alamitos-Days",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151632/job",
+      "scraped_at": "2026-10-10T17:07:58.154Z"
+    },
+    {
+      "title": "Per Diem-Certified Nursing Assistant-Los Alamitos-Nights",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151917/job",
+      "scraped_at": "2026-10-10T17:07:58.154Z"
+    },
+    {
+      "title": "Per Diem HUSC II- Surgical Step Down Unit- Variable Shift",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151902/job",
+      "scraped_at": "2026-10-10T17:07:58.154Z"
+    },
+    {
+      "title": "Per Diem Nursing Assistant- Medical/Surgical Telemetry (Irvine)- Night Shift",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151626/job",
+      "scraped_at": "2026-10-10T17:07:58.154Z"
+    },
+    {
+      "title": "Per Diem Nursing Assistant -Surgical Step Down Unit- Night Shift",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151898/job",
+      "scraped_at": "2026-10-10T17:07:58.154Z"
+    },
+    {
+      "title": "Pharmacy Manager 1, Infusion Pharmacy",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89310&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:58.154Z"
+    },
+    {
+      "title": "Physical Sciences IT Director",
+      "location": "Los Angeles",
+      "category": "Information Technology",
+      "date": "10/9/2026",
+      "url": "https://jobs.ucla.edu/jobs/11753",
+      "scraped_at": "2026-10-10T17:07:58.154Z"
+    },
+    {
+      "title": "PNC Support Analyst (CLIN APPLICATIONS PROFL 3 HX)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86511&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:58.155Z"
+    },
+    {
+      "title": "Principal Admitting Worker - GHEI Orange - Ophth Clinic - F/T - Days",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151697/job",
+      "scraped_at": "2026-10-10T17:07:58.155Z"
+    },
+    {
+      "title": "Principal Admitting Worker - Urology - F/T - Days",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151716/job",
+      "scraped_at": "2026-10-10T17:07:59.580Z"
+    },
+    {
+      "title": "Reg Respiratory Therapist I - Respiratory Therapy Irvine- PT Night Shift 36hrs",
+      "location": "Irvine Healthcare",
+      "category": "Clinical Health Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151929/job",
+      "scraped_at": "2026-10-10T17:07:59.580Z"
+    },
+    {
+      "title": "Research Administrator (RSCH ADM 2 CX)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89289&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:59.581Z"
+    },
+    {
+      "title": "Research Administrator (RSCH ADM 3 RP)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89329&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:59.581Z"
+    },
+    {
+      "title": "Senior Cook- Culinary and Nutrition Irvine- FT Variable Shift",
+      "location": "Irvine Healthcare",
+      "category": "Food Services",
+      "date": "10/9/2026",
+      "url": "https://careers-uci.icims.com/jobs/151577/job",
+      "scraped_at": "2026-10-10T17:07:59.581Z"
+    },
+    {
+      "title": "ServiceNow Developer - Davis, CA, Job ID 89381",
+      "location": "Agriculture and Natural Resources",
+      "category": "N/A",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucanr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89381&PostingSeq=1&SiteId=17&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:59.581Z"
+    },
+    {
+      "title": "Sr. Licensed Vocational Nurse (LVN) Primary and Pediatrics Specialty",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=81067&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:59.581Z"
+    },
+    {
+      "title": "Staff Research Associate 2 (9612C), Molecular & Cell Biology - #89397",
+      "location": "Berkeley",
+      "category": "Clinical Laboratory Services",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89397&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:07:59.581Z"
+    },
+    {
+      "title": "Storekeeper",
+      "location": "San Diego",
+      "category": "General Services",
+      "date": "10/9/2026",
+      "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=TP141799",
+      "scraped_at": "2026-10-10T17:07:59.581Z"
+    },
+    {
+      "title": "UCSD Health Interview Event - Radiology",
+      "location": "San Diego Health System",
+      "category": "Other",
+      "date": "10/9/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141745",
+      "scraped_at": "2026-10-10T17:08:02.022Z"
+    },
+    {
+      "title": "Verifications and Subpoenas Specialist (4722C) Office of the Registrar, #89380",
+      "location": "Berkeley",
+      "category": "General Administration",
+      "date": "10/9/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89380&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-10T17:08:02.023Z"
+    },
     {
       "title": "Acute Care RN - Crosstrain to L&D",
       "location": "Davis Health System",
