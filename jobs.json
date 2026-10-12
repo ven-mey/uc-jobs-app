@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-12T04:27:25.077Z",
-  "count": 1516,
+  "updated_at": "2026-10-12T14:29:19.039Z",
+  "count": 1519,
   "results": [
+    {
+      "title": "Custodian Senior",
+      "location": "Los Angeles",
+      "category": "Custodial Services",
+      "date": "10/11/2026",
+      "url": "https://jobs.ucla.edu/jobs/11718",
+      "scraped_at": "2026-10-12T14:29:17.606Z"
+    },
+    {
+      "title": "Media Communications Specialist",
+      "location": "Los Angeles",
+      "category": "N/A",
+      "date": "10/11/2026",
+      "url": "https://jobs.ucla.edu/jobs/11755",
+      "scraped_at": "2026-10-12T14:29:17.606Z"
+    },
+    {
+      "title": "Senior Custodian, Main Campus",
+      "location": "Los Angeles",
+      "category": "Custodial Services",
+      "date": "10/11/2026",
+      "url": "https://jobs.ucla.edu/jobs/11733",
+      "scraped_at": "2026-10-12T14:29:17.606Z"
+    },
     {
       "title": "Interventional Radiologic Tech - Radiology Special - F/T - 3rd Shift",
       "location": "Irvine Healthcare",
