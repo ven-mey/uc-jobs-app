@@ -1,7 +1,559 @@
 {
-  "updated_at": "2026-10-17T10:10:58.854Z",
-  "count": 1416,
+  "updated_at": "2026-10-17T14:59:54.601Z",
+  "count": 1485,
   "results": [
+    {
+      "title": "(NP) Nurse Practitioner - Oncology Infusion",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141809",
+      "scraped_at": "2026-10-17T14:59:44.310Z"
+    },
+    {
+      "title": "(PA) Sr. Physician Assistant - Oncology Infusion",
+      "location": "San Diego Health System",
+      "category": "Physician",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141810",
+      "scraped_at": "2026-10-17T14:59:44.311Z"
+    },
+    {
+      "title": "Academic Achievement Counselor 2 (Limited)",
+      "location": "Merced",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89539&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:44.311Z"
+    },
+    {
+      "title": "Acute Care Surgery/Trauma Nurse Navigator",
+      "location": "Davis Health System",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88817&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:44.311Z"
+    },
+    {
+      "title": "Administrative Coordinator",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://careers-uci.icims.com/jobs/152371/job",
+      "scraped_at": "2026-10-17T14:59:44.312Z"
+    },
+    {
+      "title": "Administrative Operations Assistant",
+      "location": "San Diego",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141784",
+      "scraped_at": "2026-10-17T14:59:44.312Z"
+    },
+    {
+      "title": "Angiography Technologist",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88770&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:44.312Z"
+    },
+    {
+      "title": "Budget Amendment Negotiation Supervisor - Hematology/Oncology (Fully Remote)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33719",
+      "scraped_at": "2026-10-17T14:59:44.312Z"
+    },
+    {
+      "title": "Cancer Center Clinics Medical Assistant 2",
+      "location": "Davis Health System",
+      "category": "Ambulatory Care Clinics",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89513&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:44.312Z"
+    },
+    {
+      "title": "Certified Phlebotomy Tech - La Jolla",
+      "location": "San Diego Health System",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141887",
+      "scraped_at": "2026-10-17T14:59:45.618Z"
+    },
+    {
+      "title": "CFO/Director, Business and Financial Planning",
+      "location": "Santa Barbara",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89538&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:45.619Z"
+    },
+    {
+      "title": "Climbing Program Manager",
+      "location": "San Diego",
+      "category": "Sports and Recreation",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141803",
+      "scraped_at": "2026-10-17T14:59:45.619Z"
+    },
+    {
+      "title": "Clinical Research Assistant - Hematology/Oncology (Santa Monica)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33635",
+      "scraped_at": "2026-10-17T14:59:45.619Z"
+    },
+    {
+      "title": "Clinical Research Coordinator - Hematology/Oncology (Santa Monica)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33713",
+      "scraped_at": "2026-10-17T14:59:45.619Z"
+    },
+    {
+      "title": "Clinical Research Coordinator - Hematology/Oncology (Santa Monica)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33715",
+      "scraped_at": "2026-10-17T14:59:45.619Z"
+    },
+    {
+      "title": "Contract And Financial Administrator (RSCH ADM 2 CX)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89277&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:45.619Z"
+    },
+    {
+      "title": "Director, Students First Center (on-site)",
+      "location": "Merced",
+      "category": "Student Services",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89552&PostingSeq=1&SiteId=25&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:45.620Z"
+    },
+    {
+      "title": "Director of Prevention - Rape Treatment Center",
+      "location": "Los Angeles Medical Center",
+      "category": "Counseling and Psychology",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33568",
+      "scraped_at": "2026-10-17T14:59:45.620Z"
+    },
+    {
+      "title": "Emergency Trauma Tech-Mid Shift-West Valley",
+      "location": "Los Angeles Medical Center",
+      "category": "Emergency Health",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33533",
+      "scraped_at": "2026-10-17T14:59:45.620Z"
+    },
+    {
+      "title": "Emergency Trauma Tech-Mid Shift-West Valley",
+      "location": "Los Angeles Medical Center",
+      "category": "Emergency Health",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33534",
+      "scraped_at": "2026-10-17T14:59:46.885Z"
+    },
+    {
+      "title": "Enrollment Coordinator - Urology",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32834",
+      "scraped_at": "2026-10-17T14:59:46.885Z"
+    },
+    {
+      "title": "Esports Assistant Director",
+      "location": "San Diego",
+      "category": "Sports and Recreation",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141830",
+      "scraped_at": "2026-10-17T14:59:46.885Z"
+    },
+    {
+      "title": "Event and Administrative Coordinator",
+      "location": "San Diego",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141748",
+      "scraped_at": "2026-10-17T14:59:46.885Z"
+    },
+    {
+      "title": "Executive Assistant Dean for Finance and Administration (ADMIN MGR 3)",
+      "location": "Davis",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89534&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:46.886Z"
+    },
+    {
+      "title": "External Relations Specialist, Annual & Special Gifts Program  (ALUMNI EXTERNAL REL SPEC 3 CX)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89452&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:46.889Z"
+    },
+    {
+      "title": "Facilities Managment Specialist 2",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33428",
+      "scraped_at": "2026-10-17T14:59:46.889Z"
+    },
+    {
+      "title": "Front Desk/Call Center Specialist - Float Team",
+      "location": "San Diego Health System",
+      "category": "Support Services",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141841",
+      "scraped_at": "2026-10-17T14:59:46.889Z"
+    },
+    {
+      "title": "HNRP Project Assistant III - Psychiatry - Hybrid",
+      "location": "San Diego Health System",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141762",
+      "scraped_at": "2026-10-17T14:59:46.889Z"
+    },
+    {
+      "title": "Lab Assistant (LAB AST 3)",
+      "location": "Davis",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89525&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:46.889Z"
+    },
+    {
+      "title": "Leadership Giving Officer - Cal Performances",
+      "location": "Berkeley",
+      "category": "Advancement/Fundraising",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89470&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:48.315Z"
+    },
+    {
+      "title": "Licensed Clinical Psychologist - Eating Disorders",
+      "location": "San Diego Health System",
+      "category": "Counseling and Psychology",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141888",
+      "scraped_at": "2026-10-17T14:59:48.315Z"
+    },
+    {
+      "title": "Marketing Specialist 2 - Cal Performances",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89545&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:48.315Z"
+    },
+    {
+      "title": "MRI Technologist",
+      "location": "Davis Health System",
+      "category": "Clinical Health Services",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89462&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:48.316Z"
+    },
+    {
+      "title": "Neurosurgical ICU RN (CLIN NURSE 2)",
+      "location": "Davis Health System",
+      "category": "Nursing",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89375&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:48.316Z"
+    },
+    {
+      "title": "Nurse Practitioner - Per Diem - Neurosurgery",
+      "location": "Irvine",
+      "category": "Nursing",
+      "date": "10/16/2026",
+      "url": "https://careers-uci.icims.com/jobs/152393/job",
+      "scraped_at": "2026-10-17T14:59:48.316Z"
+    },
+    {
+      "title": "Orthopedic Surgery Physician Assistant",
+      "location": "Davis Health System",
+      "category": "Physician",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88830&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:48.316Z"
+    },
+    {
+      "title": "Outpatient Pediatric Dietitian (DIETITIAN 2 or DIETITIAN SR)",
+      "location": "Davis Health System",
+      "category": "Clinical Support Services",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=87832&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:48.316Z"
+    },
+    {
+      "title": "Parking Events Coordinator",
+      "location": "Santa Barbara",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89546&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:48.316Z"
+    },
+    {
+      "title": "PD Hospital Unit Service Coordinator - Irvine Operating Room - Nights",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/16/2026",
+      "url": "https://careers-uci.icims.com/jobs/152434/job",
+      "scraped_at": "2026-10-17T14:59:48.316Z"
+    },
+    {
+      "title": "PD Hospital Unit Service Coordinator II - Irvine Operating Room - Days",
+      "location": "Irvine Healthcare",
+      "category": "Support Services",
+      "date": "10/16/2026",
+      "url": "https://careers-uci.icims.com/jobs/152432/job",
+      "scraped_at": "2026-10-17T14:59:49.579Z"
+    },
+    {
+      "title": "Postdoctoral Researcher, Synthetic & Coordination Chemistry",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=107671",
+      "scraped_at": "2026-10-17T14:59:49.579Z"
+    },
+    {
+      "title": "Program Coordinator - OBGYN",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33351",
+      "scraped_at": "2026-10-17T14:59:49.579Z"
+    },
+    {
+      "title": "Program Manager",
+      "location": "San Diego",
+      "category": "Facilities and Environment Health",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141753",
+      "scraped_at": "2026-10-17T14:59:49.579Z"
+    },
+    {
+      "title": "Program Operations Manager",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33694",
+      "scraped_at": "2026-10-17T14:59:49.579Z"
+    },
+    {
+      "title": "Project-Based Learning Coordinator",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141827",
+      "scraped_at": "2026-10-17T14:59:49.579Z"
+    },
+    {
+      "title": "Public Area Attendant",
+      "location": "Los Angeles",
+      "category": "Custodial Services",
+      "date": "10/16/2026",
+      "url": "https://jobs.ucla.edu/jobs/11802",
+      "scraped_at": "2026-10-17T14:59:49.580Z"
+    },
+    {
+      "title": "Publications Coordinator (PUBLICATIONS PROD SPEC 2 CM)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89516&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:49.580Z"
+    },
+    {
+      "title": "Public Safety Behavioral Health Coodinator",
+      "location": "Santa Barbara",
+      "category": "Counseling and Psychology",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89474&PostingSeq=2&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:49.580Z"
+    },
+    {
+      "title": "Rehab Clinical Specialist",
+      "location": "San Diego Health System",
+      "category": "Rehabilitation",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141906",
+      "scraped_at": "2026-10-17T14:59:49.580Z"
+    },
+    {
+      "title": "Research Administrator 3",
+      "location": "San Diego",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141807",
+      "scraped_at": "2026-10-17T14:59:50.864Z"
+    },
+    {
+      "title": "Research Associate (5245C) - Civil & Environmental Engineering",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89555&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:50.864Z"
+    },
+    {
+      "title": "Research Program Coordinator (4800C), Department of Chemistry - #89543",
+      "location": "Berkeley",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89543&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:50.864Z"
+    },
+    {
+      "title": "Research Scheduler - Hematology/Oncology (Santa Monica)",
+      "location": "Los Angeles Medical Center",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33717",
+      "scraped_at": "2026-10-17T14:59:50.864Z"
+    },
+    {
+      "title": "RN-Emergency Department-West Valley-Nights",
+      "location": "Los Angeles Medical Center",
+      "category": "Nursing",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33099",
+      "scraped_at": "2026-10-17T14:59:50.864Z"
+    },
+    {
+      "title": "Security Officer - Santa Monica Hospital",
+      "location": "Los Angeles Medical Center",
+      "category": "Public Safety and Security",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33604",
+      "scraped_at": "2026-10-17T14:59:50.864Z"
+    },
+    {
+      "title": "Senior Clinical Research Coordinator - Hematology/Oncology (Santa Monica)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33647",
+      "scraped_at": "2026-10-17T14:59:50.865Z"
+    },
+    {
+      "title": "Senior Clinical Research Coordinator - Hematology/Oncology (Santa Monica)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33716",
+      "scraped_at": "2026-10-17T14:59:50.865Z"
+    },
+    {
+      "title": "Senior Copywriter",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32873",
+      "scraped_at": "2026-10-17T14:59:50.865Z"
+    },
+    {
+      "title": "Senior Human Resources Generalist",
+      "location": "Riverside",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://jobsportal.ucr.edu/jobs/38135682",
+      "scraped_at": "2026-10-17T14:59:50.865Z"
+    },
+    {
+      "title": "Senior Shuttle Bus Driver",
+      "location": "Santa Cruz",
+      "category": "General Services",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89548&PostingSeq=1&SiteId=11&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:52.111Z"
+    },
+    {
+      "title": "Sr. Director for People Culture and Engagement",
+      "location": "Santa Barbara",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89480&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:52.111Z"
+    },
+    {
+      "title": "Sr. High-Performance Computing Engineer",
+      "location": "San Diego",
+      "category": "Information Technology",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141797",
+      "scraped_at": "2026-10-17T14:59:52.112Z"
+    },
+    {
+      "title": "Sr. Physician Assistant - Per Diem- Neurosurgery",
+      "location": "Irvine",
+      "category": "Physician",
+      "date": "10/16/2026",
+      "url": "https://careers-uci.icims.com/jobs/152397/job",
+      "scraped_at": "2026-10-17T14:59:52.112Z"
+    },
+    {
+      "title": "Sr. Project Manager - Hybrid",
+      "location": "San Diego Health System",
+      "category": "General Administration",
+      "date": "10/16/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=141826",
+      "scraped_at": "2026-10-17T14:59:52.112Z"
+    },
+    {
+      "title": "Staff Research Associate 1 - Surgery",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "10/16/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/32937",
+      "scraped_at": "2026-10-17T14:59:52.113Z"
+    },
+    {
+      "title": "Sterile Processing Technician 3 Team Lead (evening shift)",
+      "location": "Davis Health System",
+      "category": "Clinical Support Services",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88595&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:52.113Z"
+    },
+    {
+      "title": "Systems Administrator",
+      "location": "Santa Barbara",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89564&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:52.113Z"
+    },
+    {
+      "title": "Teacher, Early Childhood Education (4107C) #89542",
+      "location": "Berkeley",
+      "category": "Instructional Services",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89542&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:53.360Z"
+    },
+    {
+      "title": "Undergraduate Advisor",
+      "location": "Santa Barbara",
+      "category": "N/A",
+      "date": "10/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucsb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89489&PostingSeq=1&SiteId=31&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-10-17T14:59:53.360Z"
+    },
     {
       "title": "(RN) Registered Nurse - KOP Infusion",
       "location": "San Diego Health System",
