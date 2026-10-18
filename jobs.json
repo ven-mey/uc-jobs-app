@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-18T10:26:05.289Z",
-  "count": 1424,
+  "updated_at": "2026-10-18T15:24:44.884Z",
+  "count": 1427,
   "results": [
+    {
+      "title": "Communications Specialist",
+      "location": "Irvine",
+      "category": "Communications",
+      "date": "10/17/2026",
+      "url": "https://careers-uci.icims.com/jobs/152480/job",
+      "scraped_at": "2026-10-18T15:24:43.479Z"
+    },
+    {
+      "title": "Compensation Analyst",
+      "location": "Irvine",
+      "category": "Human Resources",
+      "date": "10/17/2026",
+      "url": "https://careers-uci.icims.com/jobs/152479/job",
+      "scraped_at": "2026-10-18T15:24:43.479Z"
+    },
+    {
+      "title": "Senior Assistant Dean",
+      "location": "Irvine",
+      "category": "General Administration",
+      "date": "10/17/2026",
+      "url": "https://careers-uci.icims.com/jobs/152478/job",
+      "scraped_at": "2026-10-18T15:24:43.480Z"
+    },
     {
       "title": "(NP) Nurse Practitioner - Oncology Infusion",
       "location": "San Diego Health System",
