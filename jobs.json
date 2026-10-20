@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T22:00:19.933Z",
-  "count": 1427,
+  "updated_at": "2026-10-20T03:30:39.488Z",
+  "count": 1426,
   "results": [
     {
       "title": "Communications Specialist",
@@ -11409,14 +11409,6 @@
       "date": "9/21/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88208&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-09-21T21:43:08.901Z"
-    },
-    {
-      "title": "HR Talent & Applicant Experience Specialist",
-      "location": "Riverside",
-      "category": "Human Resources",
-      "date": "9/20/2026",
-      "url": "https://jobsportal.ucr.edu/jobs/38001327",
-      "scraped_at": "2026-09-22T16:19:31.971Z"
     }
   ]
 }
