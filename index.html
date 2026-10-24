@@ -120,9 +120,25 @@
         let savedEndDate = localStorage.getItem('uc_end_date') || '';
         let showOnlyFavs = localStorage.getItem('uc_show_only_favs') === 'true';
         let showOnlyNew = localStorage.getItem('uc_show_only_new') === 'true';
-        
-        const storedLastVisit = localStorage.getItem('uc_last_visit');
-        const lastVisit = storedLastVisit ? parseInt(storedLastVisit) : 0; 
+
+        // Session-aware visit tracking
+        let lastVisit = 0;
+        const storedSessionLastVisit = sessionStorage.getItem('uc_session_last_visit');
+
+        if (storedSessionLastVisit !== null) {
+            // Keep using the baseline established at the beginning of this browser session
+            lastVisit = parseInt(storedSessionLastVisit);
+        } else {
+            // New browser session: compare against previous visit timestamp
+            const storedLastVisit = localStorage.getItem('uc_last_visit');
+            lastVisit = storedLastVisit ? parseInt(storedLastVisit) : 0;
+            
+            // Lock this value into sessionStorage for the lifetime of this tab
+            sessionStorage.setItem('uc_session_last_visit', lastVisit.toString());
+            
+            // Queue current timestamp in localStorage for the NEXT browser session
+            localStorage.setItem('uc_last_visit', Date.now().toString());
+        }
 
         let favorites = new Set(JSON.parse(localStorage.getItem('uc_favorites') || '[]'));
 
@@ -162,7 +178,6 @@
                 }
 
                 filterJobs();
-                localStorage.setItem('uc_last_visit', Date.now().toString());
             } catch (e) { console.error(e); }
         }
 
