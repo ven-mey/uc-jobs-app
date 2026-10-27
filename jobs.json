@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T22:18:50.989Z",
-  "count": 1348,
+  "updated_at": "2026-10-27T03:48:33.735Z",
+  "count": 1346,
   "results": [
     {
       "title": "Program Coordinator, Cancer Research and Training",
@@ -10769,22 +10769,6 @@
       "date": "9/28/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89128&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-09-29T21:54:06.950Z"
-    },
-    {
-      "title": "Medical Assistant - Ambulatory Float Team",
-      "location": "San Diego Health System",
-      "category": "Ambulatory Care Clinics",
-      "date": "9/27/2026",
-      "url": "https://employment.ucsd.edu/jobs?keyword=141616",
-      "scraped_at": "2026-09-28T22:57:02.571Z"
-    },
-    {
-      "title": "Lead Emergency Trauma Tech-West Valley",
-      "location": "Los Angeles Medical Center",
-      "category": "Emergency Health",
-      "date": "9/27/2026",
-      "url": "https://uclahealth.avature.net/careers/JobDetail/33204",
-      "scraped_at": "2026-09-27T16:26:17.300Z"
     }
   ]
 }
