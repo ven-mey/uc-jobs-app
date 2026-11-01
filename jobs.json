@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-01T12:42:16.421Z",
-  "count": 1270,
+  "updated_at": "2026-11-01T21:42:55.495Z",
+  "count": 1272,
   "results": [
+    {
+      "title": "(RN) Pulmonary Specialty Clinic Nurse",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "10/31/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=142034",
+      "scraped_at": "2026-11-01T21:42:54.136Z"
+    },
+    {
+      "title": "Senior Director Infrastructure & Operations",
+      "location": "Los Angeles Medical Center",
+      "category": "Information Technology",
+      "date": "10/31/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/33952",
+      "scraped_at": "2026-11-01T21:42:54.136Z"
+    },
     {
       "title": "Temporary Admitting Worker Positions",
       "location": "Irvine",
