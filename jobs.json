@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T21:41:40.322Z",
-  "count": 1326,
+  "updated_at": "2026-11-09T04:46:00.645Z",
+  "count": 1324,
   "results": [
     {
       "title": "Administrative Director, Neurological Institute",
@@ -10593,22 +10593,6 @@
       "date": "10/11/2026",
       "url": "https://jobs.ucla.edu/jobs/11733",
       "scraped_at": "2026-10-12T14:29:17.606Z"
-    },
-    {
-      "title": "Interventional Radiologic Tech - Radiology Special - F/T - 3rd Shift",
-      "location": "Irvine Healthcare",
-      "category": "Clinical Health Services",
-      "date": "10/10/2026",
-      "url": "https://careers-uci.icims.com/jobs/151754/job",
-      "scraped_at": "2026-10-11T21:30:27.128Z"
-    },
-    {
-      "title": "Senior Food Service Worker- Culinary and Nutrition Irvine- FT Variable Shift",
-      "location": "Irvine Healthcare",
-      "category": "Food Services",
-      "date": "10/10/2026",
-      "url": "https://careers-uci.icims.com/jobs/151599/job",
-      "scraped_at": "2026-10-11T21:30:27.128Z"
     }
   ]
 }
