@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T15:15:32.400Z",
-  "count": 1324,
+  "updated_at": "2026-11-10T01:11:43.377Z",
+  "count": 1321,
   "results": [
     {
       "title": "Administrative Director, Neurological Institute",
@@ -10569,30 +10569,6 @@
       "date": "10/12/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89418&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-10-13T13:36:47.438Z"
-    },
-    {
-      "title": "Custodian Senior",
-      "location": "Los Angeles",
-      "category": "Custodial Services",
-      "date": "10/11/2026",
-      "url": "https://jobs.ucla.edu/jobs/11718",
-      "scraped_at": "2026-10-12T14:29:17.606Z"
-    },
-    {
-      "title": "Media Communications Specialist",
-      "location": "Los Angeles",
-      "category": "N/A",
-      "date": "10/11/2026",
-      "url": "https://jobs.ucla.edu/jobs/11755",
-      "scraped_at": "2026-10-12T14:29:17.606Z"
-    },
-    {
-      "title": "Senior Custodian, Main Campus",
-      "location": "Los Angeles",
-      "category": "Custodial Services",
-      "date": "10/11/2026",
-      "url": "https://jobs.ucla.edu/jobs/11733",
-      "scraped_at": "2026-10-12T14:29:17.606Z"
     }
   ]
 }
