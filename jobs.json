@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-12T00:03:55.338Z",
-  "count": 1337,
+  "updated_at": "2026-11-12T14:39:39.739Z",
+  "count": 1343,
   "results": [
+    {
+      "title": "Child and Family Educator - Home Visitor, EHS",
+      "location": "Los Angeles Medical Center",
+      "category": "Instructional Services",
+      "date": "11/12/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/34279",
+      "scraped_at": "2026-11-12T14:39:38.234Z"
+    },
+    {
+      "title": "(LVN) Licensed Vocational Nurse - Dermatology",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "11/11/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=142132",
+      "scraped_at": "2026-11-12T14:39:38.235Z"
+    },
+    {
+      "title": "Metagenome Research Scientist",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "Clinical Laboratory Services",
+      "date": "11/11/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=107907",
+      "scraped_at": "2026-11-12T14:39:38.235Z"
+    },
+    {
+      "title": "Microbial Genomics Postdoctoral Fellow",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "Clinical Laboratory Services",
+      "date": "11/11/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=107874",
+      "scraped_at": "2026-11-12T14:39:38.235Z"
+    },
+    {
+      "title": "Microbiome Postdoctoral Follow",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "Clinical Laboratory Services",
+      "date": "11/11/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=107905",
+      "scraped_at": "2026-11-12T14:39:38.236Z"
+    },
+    {
+      "title": "Research Scientist",
+      "location": "Lawrence Berkeley National Lab",
+      "category": "N/A",
+      "date": "11/11/2026",
+      "url": "https://lbl.taleo.net/careersection/2/jobdetail.ftl?job=107912",
+      "scraped_at": "2026-11-12T14:39:38.236Z"
+    },
     {
       "title": "Academic Human Resources Supervisor",
       "location": "Davis",
