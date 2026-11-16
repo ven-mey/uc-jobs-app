@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-16T04:51:50.657Z",
-  "count": 1239,
+  "updated_at": "2026-11-16T14:51:24.398Z",
+  "count": 1244,
   "results": [
+    {
+      "title": "Adminstrative & Operations Coordinator",
+      "location": "Los Angeles",
+      "category": "General Administration",
+      "date": "11/16/2026",
+      "url": "https://jobs.ucla.edu/jobs/12154",
+      "scraped_at": "2026-11-16T14:51:22.813Z"
+    },
+    {
+      "title": "Contracts And Grants Analyst (RSCH ADM 3 RP)",
+      "location": "Davis",
+      "category": "N/A",
+      "date": "11/16/2026",
+      "url": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88522&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant",
+      "scraped_at": "2026-11-16T14:51:22.814Z"
+    },
+    {
+      "title": "EHS Mental Health Coordinator - Pediatrics",
+      "location": "Los Angeles Medical Center",
+      "category": "N/A",
+      "date": "11/15/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/34256",
+      "scraped_at": "2026-11-16T14:51:22.814Z"
+    },
+    {
+      "title": "Lab Assistant 2 - Hematology/Oncology",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "11/15/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/34091",
+      "scraped_at": "2026-11-16T14:51:22.814Z"
+    },
+    {
+      "title": "Staff Research Associate 1 - Human Genetics (Limited)",
+      "location": "Los Angeles Medical Center",
+      "category": "Clinical Laboratory Services",
+      "date": "11/15/2026",
+      "url": "https://uclahealth.avature.net/careers/JobDetail/34000",
+      "scraped_at": "2026-11-16T14:51:22.814Z"
+    },
     {
       "title": "(RN) Registered Nurse - Movement Disorders",
       "location": "San Diego Health System",
