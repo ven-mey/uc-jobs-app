@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T22:29:23.812Z",
-  "count": 1242,
+  "updated_at": "2026-11-16T04:51:50.657Z",
+  "count": 1239,
   "results": [
     {
       "title": "(RN) Registered Nurse - Movement Disorders",
@@ -9913,30 +9913,6 @@
       "date": "10/19/2026",
       "url": "https://careerspub.universityofcalifornia.edu/psc/ucanr/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89455&PostingSeq=1&SiteId=17&languageCd=ENG&FOCUS=Applicant",
       "scraped_at": "2026-10-20T16:22:57.030Z"
-    },
-    {
-      "title": "Communications Specialist",
-      "location": "Irvine",
-      "category": "Communications",
-      "date": "10/17/2026",
-      "url": "https://careers-uci.icims.com/jobs/152480/job",
-      "scraped_at": "2026-10-18T15:24:43.479Z"
-    },
-    {
-      "title": "Compensation Analyst",
-      "location": "Irvine",
-      "category": "Human Resources",
-      "date": "10/17/2026",
-      "url": "https://careers-uci.icims.com/jobs/152479/job",
-      "scraped_at": "2026-10-18T15:24:43.479Z"
-    },
-    {
-      "title": "Senior Assistant Dean",
-      "location": "Irvine",
-      "category": "General Administration",
-      "date": "10/17/2026",
-      "url": "https://careers-uci.icims.com/jobs/152478/job",
-      "scraped_at": "2026-10-18T15:24:43.480Z"
     }
   ]
 }
