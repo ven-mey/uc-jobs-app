@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-27T01:29:43.514Z",
-  "count": 1221,
+  "updated_at": "2026-11-27T16:10:52.003Z",
+  "count": 1223,
   "results": [
+    {
+      "title": "Bed Placement Coordinator CN IV-Capacity Mgmnt-FT Day Shift",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "11/26/2026",
+      "url": "https://careers-uci.icims.com/jobs/155664/job",
+      "scraped_at": "2026-11-27T16:10:50.655Z"
+    },
+    {
+      "title": "Clinical Nurse II-Float Pool Orange and Irvine-FT Night Shift",
+      "location": "Irvine Healthcare",
+      "category": "Nursing",
+      "date": "11/26/2026",
+      "url": "https://careers-uci.icims.com/jobs/157417/job",
+      "scraped_at": "2026-11-27T16:10:50.656Z"
+    },
     {
       "title": "(NP) Nurse Pract. - Hematology & Cellular Therapy",
       "location": "San Diego Health System",
