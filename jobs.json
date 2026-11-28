@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-28T01:06:37.635Z",
-  "count": 1180,
+  "updated_at": "2026-11-28T15:04:26.130Z",
+  "count": 1181,
   "results": [
+    {
+      "title": "(RN) Registered Nurse - MOP Special Procedures",
+      "location": "San Diego Health System",
+      "category": "Nursing",
+      "date": "11/27/2026",
+      "url": "https://employment.ucsd.edu/jobs?keyword=142275",
+      "scraped_at": "2026-11-28T15:04:24.228Z"
+    },
     {
       "title": "Bed Placement Coordinator CN IV-Capacity Mgmnt-FT Day Shift",
       "location": "Irvine Healthcare",
